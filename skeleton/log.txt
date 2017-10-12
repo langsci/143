@@ -1,0 +1,17 @@
+(-*- coding: utf-8 -*-)
+* Some typograhic conventions may seem inconsistent.
+
+I use italic for:
+- emphasis (\emph)
+- foreign words, terms or phrases (personal command \alien)
+- metalingusitic mentions (personal command \sicut)
+
+I use French quotes (guillemets « ») for:
+- scare quotes
+- quotations (theoretically, as the book doesn't contain much quotations, and I also use the 'quote' environnement)
+- metalingusitic mentions
+
+So there's a competion between italic and quotes for mentions.  Roughly, my rule of thumb is: italic is for isolated words or short phrases, quotes are for sentences; so variations may occur in borderline cases ("not so short" phrases).
+
+
+* According to some French typographic conventions,  latin phrases that have passed into the commun usage (a priori, a posteriori, ex æquo...) need not to be italicized. 

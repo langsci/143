@@ -1,0 +1,50 @@
+\begin{center}{\small
+\(
+\begin{array}{c}
+\rnode{abcd}{\Obj{do} \join \Obj{ré} \join \Obj{mi} \join \Obj{fa}}
+\\[6ex]
+\rnode{abc2}{\Obj{do} \join \Obj{ré} \join \Obj{mi}}\hskip 3em
+\rnode{acd2}{\Obj{do} \join \Obj{mi} \join \Obj{fa}}\hskip 3em
+\rnode{abd2}{\Obj{do} \join \Obj{ré} \join \Obj{fa}}\hskip 3em
+\rnode{bcd2}{\Obj{ré} \join \Obj{mi} \join \Obj{fa}}\hskip 3em
+\\[6ex]
+\rnode{ab1}{\Obj{do} \join \Obj{ré}}\hskip 2em
+\rnode{ac1}{\Obj{do} \join \Obj{mi}}\hskip 2em
+\rnode{ad1}{\Obj{do} \join \Obj{fa}}\hskip 2em
+\rnode{bc1}{\Obj{ré} \join \Obj{mi}}\hskip 2em
+\rnode{bd1}{\Obj{ré} \join \Obj{fa}}\hskip 2em
+\rnode{cd1}{\Obj{mi} \join \Obj{fa}}
+\\[6ex]
+\rnode{a0}{\Obj{do}}\hskip 4em
+\rnode{b0}{\Obj{ré}}\hskip 4em
+\rnode{c0}{\Obj{mi}}\hskip 4em
+\rnode{d0}{\Obj{fa}}
+\end{array}
+\psset{nodesep=2pt,linecolor=darkgray}%
+\ncline{-}{ab1}{a0}%
+\ncline{-}{ac1}{a0}%
+\ncline{-}{ad1}{a0}%
+\ncline{-}{ab1}{b0}%
+\ncline{-}{bc1}{b0}%
+\ncline{-}{bc1}{c0}%
+\ncline{-}{ac1}{c0}%
+\ncline{-}{ad1}{d0}%
+\ncline{-}{bd1}{b0}%
+\ncline{-}{bd1}{d0}%
+\ncline{-}{cd1}{c0}%
+\ncline{-}{cd1}{d0}%
+\ncline{-}{abc2}{ab1}%
+\ncline{-}{abc2}{ac1}%
+\ncline{-}{abc2}{bc1}%
+\ncline{-}{acd2}{ac1}%
+\ncline{-}{acd2}{ad1}%
+\ncline{-}{acd2}{cd1}%
+\ncline{-}{abd2}{ab1}%
+\ncline{-}{abd2}{ad1}%
+\ncline{-}{abd2}{bd1}%
+\ncline{-}{bcd2}{bc1}%
+\ncline{-}{bcd2}{bd1}%
+\ncline{-}{bcd2}{cd1}%
+\ncline{-}{abcd}{abc2}\ncline{-}{abcd}{abd2}\ncline{-}{abcd}{acd2}\ncline{-}{abcd}{bcd2}
+\)}
+\end{center}

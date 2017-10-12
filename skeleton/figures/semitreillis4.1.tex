@@ -1,0 +1,50 @@
+\begin{center}{\small
+\(
+\begin{array}{c}
+\rnode{abcd}{\Obj a \join \Obj b \join \Obj c \join \Obj d}
+\\[6ex]
+\rnode{abc2}{\Obj a \join \Obj b \join \Obj c}\hskip 3em
+\rnode{acd2}{\Obj a \join \Obj c \join \Obj d}\hskip 3em
+\rnode{abd2}{\Obj a \join \Obj b \join \Obj d}\hskip 3em
+\rnode{bcd2}{\Obj b \join \Obj c \join \Obj d}\hskip 3em
+\\[6ex]
+\rnode{ab1}{\Obj a \join \Obj b}\hskip 2em
+\rnode{ac1}{\Obj a \join \Obj c}\hskip 2em
+\rnode{ad1}{\Obj a \join \Obj d}\hskip 2em
+\rnode{bc1}{\Obj b \join \Obj c}\hskip 2em
+\rnode{bd1}{\Obj b \join \Obj d}\hskip 2em
+\rnode{cd1}{\Obj c \join \Obj d}
+\\[6ex]
+\rnode{a0}{\Obj a}\hskip 4em
+\rnode{b0}{\Obj b}\hskip 4em
+\rnode{c0}{\Obj c}\hskip 4em
+\rnode{d0}{\Obj d}
+\end{array}
+\psset{nodesep=2pt}%
+\ncline{-}{ab1}{a0}%
+\ncline{-}{ac1}{a0}%
+\ncline{-}{ad1}{a0}%
+\ncline{-}{ab1}{b0}%
+\ncline{-}{bc1}{b0}%
+\ncline{-}{bc1}{c0}%
+\ncline{-}{ac1}{c0}%
+\ncline{-}{ad1}{d0}%
+\ncline{-}{bd1}{b0}%
+\ncline{-}{bd1}{d0}%
+\ncline{-}{cd1}{c0}%
+\ncline{-}{cd1}{d0}%
+\ncline{-}{abc2}{ab1}%
+\ncline{-}{abc2}{ac1}%
+\ncline{-}{abc2}{bc1}%
+\ncline{-}{acd2}{ac1}%
+\ncline{-}{acd2}{ad1}%
+\ncline{-}{acd2}{cd1}%
+\ncline{-}{abd2}{ab1}%
+\ncline{-}{abd2}{ad1}%
+\ncline{-}{abd2}{bd1}%
+\ncline{-}{bcd2}{bc1}%
+\ncline{-}{bcd2}{bd1}%
+\ncline{-}{bcd2}{cd1}%
+\ncline{-}{abcd}{abc2}\ncline{-}{abcd}{abd2}\ncline{-}{abcd}{acd2}\ncline{-}{abcd}{bcd2}
+\)}
+\end{center}

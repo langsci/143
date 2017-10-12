@@ -1,0 +1,391 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Avant-propos}{vii}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Symboles et abréviations}{xi}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Sens des phrases et sens des énoncés}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Objets de l'étude}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Qu'est-ce que le sens ?}{1}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Phrases, énoncés et contextes}{3}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}La compréhension comme inférence}{7}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}La conséquence logique}{8}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Les équivalences}{12}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Les contradictions et les anomalies}{13}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.1}Contradictions}{13}{subsubsection.1.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.2}Tautologies}{15}{subsubsection.1.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.3}Absurdités et anomalies sémantiques}{16}{subsubsection.1.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}Les ambiguïtés}{18}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Dire et vouloir dire}{23}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Projections et présuppositions}{23}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.1}Contenus projectifs {\emph {vs}} contenus en jeu}{23}{subsubsection.1.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.2}Présuppositions sémantiques et pragmatiques}{26}{subsubsection.1.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.3}Propriétés des présuppositions}{28}{subsubsection.1.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.4}Présuppositions {\emph {vs}} implicatures conventionnelles}{30}{subsubsection.1.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Les implicatures conversationnelles}{33}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.1}Suppléments de sens}{33}{subsubsection.1.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.2}Les implicatures et principes conversationnels}{34}{subsubsection.1.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.3}Calcul des implicatures}{36}{subsubsection.1.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.4}Rapide retour sur les implicatures conventionnelles}{39}{subsubsection.1.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Les actes de langage}{40}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Conclusion}{45}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Sémantique vériconditionnelle et calcul des prédicats}{47}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introduction à la sémantique vériconditionnelle}{47}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Sens, dénotation et référence}{47}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Sens et conditions de vérité}{50}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}La compositionnalité}{53}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.4}Analyse sémantique formelle}{56}{subsection.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Le langage du calcul des prédicats}{57}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Les éléments du langage formel}{57}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.1}Prédicats}{57}{subsubsection.2.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.2}Constantes d'individus}{60}{subsubsection.2.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.3}Connecteurs logiques}{61}{subsubsection.2.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.4}Variables et quantificateurs}{63}{subsubsection.2.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}La syntaxe du langage formel}{65}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Interprétation dans le calcul des prédicats}{71}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Sémantique informelle}{71}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Les modèles}{74}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Les règles sémantiques}{77}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Un peu de logique}{82}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Tables de vérité}{82}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}Disjonctions inclusive et exclusive}{85}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}Implication matérielle}{89}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}La quantification}{92}{subsection.2.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}Quelques définitions logiques}{101}{subsection.2.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Conclusion}{104}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Groupes nominaux et quantification}{111}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Sémantique de la quantification}{111}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Variables et pronoms}{112}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Interprétation des formules quantifiées}{114}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Synthèse}{120}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Sur le statut des fonctions d'assignation}{122}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.5}Restriction du domaine de quantification}{124}{subsection.3.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Groupes nominaux et portées}{127}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}La notion de portée dans la langue}{127}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.1}Portées des {GN} et covariation}{127}{subsubsection.3.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.2}Portée large et portée étroite}{129}{subsubsection.3.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.3}Limite de portée}{134}{subsubsection.3.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Spécifique {\emph {vs}} non spécifique}{138}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Générique {\emph {vs}} non générique}{145}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Catégories de groupes nominaux}{151}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Critères logico-sémantiques}{152}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.1}Effets de portée}{152}{subsubsection.3.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.2}Tests de consistance et de complétude}{155}{subsubsection.3.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Critères syntactico-sémantiques}{159}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2.1}Dislocation à droite}{159}{subsubsection.3.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2.2}Déterminants forts {\emph {vs}} déterminants faibles}{160}{subsubsection.3.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Synthèse}{161}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Les descriptions définies}{164}{subsection.3.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.4.1}Existence et unicité}{165}{subsubsection.3.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.4.2}Définis et présupposition}{167}{subsubsection.3.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.4.3}Familiarité}{169}{subsubsection.3.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.4.4}Les définis dépendants}{171}{subsubsection.3.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Sémantique intensionnelle}{175}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Les limites de la sémantique extensionnelle}{175}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Lectures \textit {de re {\emph {vs}}\ de dicto}}{176}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Modifieurs non extensionnels}{183}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Temporalité et modalités}{186}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Conclusion : en route vers l'intensionnalité}{187}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Une sémantique temporelle intensionnelle}{187}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Modèle temporel}{188}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Opérateurs temporels}{193}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.1}Syntaxe}{193}{subsubsection.4.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.2}Sémantique}{194}{subsubsection.4.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.3}Combinaisons d'opérateurs}{196}{subsubsection.4.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Problèmes}{199}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Modalités et mondes possibles}{203}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Savoir et ignorer}{204}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Possible et nécessaire}{207}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Formalisation de la modalité}{210}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.1}Mondes possibles}{210}{subsubsection.4.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.2}Syntaxe de la modalité}{215}{subsubsection.4.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.3}Sémantique de la modalité}{216}{subsubsection.4.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.4}Modèle de Kripke}{219}{subsubsection.4.3.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.3.5}Retour vers le futur}{224}{subsubsection.4.3.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Intension et extension}{229}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Sens et mondes}{229}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Simplifications et interlude graphique}{236}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Expression des intensions dans le langage}{239}{subsection.4.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.1}Le problème des complétives}{239}{subsubsection.4.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.2}Dénotation indirecte : {$\ensuremath {\mathord {^{\scriptscriptstyle \wedge }}\kern -.1em}$ et $\ensuremath {\mathord {^{\scriptscriptstyle \vee }}\kern -.1em}$}}{241}{subsubsection.4.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.3}Retour aux lectures \emph {de re} et \emph {de dicto}}{243}{subsubsection.4.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Récapitulatif et conclusions}{248}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}{LO} intensionnel}{248}{subsection.4.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Validités et conséquence logique}{251}{subsection.4.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Postulats de signification}{254}{subsection.4.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4}Sens, propositions et conditions de vérité}{259}{subsection.4.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\textit {λ}-calcul et théorie des types}{263}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Tout est fonction (ou presque)}{263}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Des trous dans les formules}{263}{subsection.5.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Sémantique fonctionnelle des prédicats}{266}{subsection.5.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.1}Prédicats unaires}{266}{subsubsection.5.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.2.2}Prédicats binaires et \emph {n}-aires}{269}{subsubsection.5.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Principes de base du \textit {λ}-calcul}{273}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}La \textit {λ}-abstraction}{274}{subsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1.1}Syntaxe de la \textit {λ}-abstraction}{274}{subsubsection.5.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1.2}Sémantique de la \textit {λ}-abstraction}{276}{subsubsection.5.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}L'application fonctionnelle}{277}{subsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2.1}Syntaxe de l'application fonctionnelle dans LO}{277}{subsubsection.5.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2.2}Interprétation de l'application fonctionnelle}{281}{subsubsection.5.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2.3}La colle universelle}{282}{subsubsection.5.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}La \textit {β}-réduction}{284}{subsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4}Une variété de variables}{288}{subsection.5.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Langage objet typé}{291}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Les types}{292}{subsection.5.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.1}Une infinité de catégories}{292}{subsubsection.5.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.2}Rencontre du troisième type}{294}{subsubsection.5.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Syntaxe de {LO} typé}{295}{subsection.5.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.1}Syntaxe réglée par les types}{295}{subsubsection.5.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.2}Exemples}{299}{subsubsection.5.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3}Sémantique de {LO} typé}{302}{subsection.5.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.1}Calcul de toute sorte de dénotations}{302}{subsubsection.5.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.2}Entraînement à la lecture des $\lambda $-termes}{305}{subsubsection.5.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.3}Les \textit {λ}-conversions}{308}{subsubsection.5.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.3.4}Conséquence logique et monotonie}{310}{subsubsection.5.3.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Applications}{315}{subsection.5.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.1}Une version plus «catégorique»}{315}{subsubsection.5.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.2}Lecture \emph {de re}\ des expressions référentielles}{317}{subsubsection.5.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.3}Types et domaines de définition des fonctions}{318}{subsubsection.5.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}\ensuremath {\text {Ty}{\text 2}}\ et \ensuremath {\text {LO}_{2}}}{322}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Extensionnaliser l'intensionnalité}{322}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Définition de \ensuremath {\text {LO}_{2}}}{324}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}De LO\ à \ensuremath {\text {LO}_{2}}}{327}{subsection.5.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Interface syntaxe-sémantique}{333}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Boîte à outils de l'interface syntaxe-sémantique}{333}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}Quelques hypothèses et notations syntaxiques}{334}{subsection.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Des arbres aux formules}{337}{subsection.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Compositions sémantiques}{341}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Usages de l'application fonctionnelle}{341}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.1.1}Le verbe et ses arguments}{341}{subsubsection.6.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.1.2}Le(s) verbe(s) \emph {être}}{343}{subsubsection.6.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.2.1.3}La négation}{345}{subsubsection.6.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Les arguments implicites}{346}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Le problème des modifieurs}{350}{subsection.6.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}L'application fonctionnelle intensionnelle}{354}{subsection.6.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Groupes nominaux et déterminants}{358}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}Une analyse générale des groupes nominaux}{358}{subsection.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.2}Les déterminants}{362}{subsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.3}Verbes transitifs}{364}{subsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Vers un traitement approprié de la quantification}{367}{section.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Le \emph {quantifying-in}}{367}{subsection.6.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Forme logique et montée des quantificateurs}{372}{subsection.6.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}Retour à une possible simplification}{375}{subsection.6.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.4}D'autres mouvements}{377}{subsection.6.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.5}Variantes et alternatives}{380}{subsection.6.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Quantificateurs généralisés et structures tripartites}{384}{section.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.1}L'avènement des déterminants dans LO}{384}{subsection.6.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.2}Propriétés des déterminants}{390}{subsection.6.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Flexibilité et changements de types}{395}{section.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.1}Coordination et connecteurs généralisés}{395}{subsection.6.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.2}Verbes transitifs intensionnels}{401}{subsection.6.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.3}\emph {Type-shifting}}{406}{subsection.6.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.6.3.1}Formalisation}{406}{subsubsection.6.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.6.3.2}Les types des DP}{408}{subsubsection.6.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.6.3.3}Les changements de type des DP}{409}{subsubsection.6.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.7}Conclusion}{416}{section.6.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Corrections des exercices}{421}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Chapitre \ref {Ch:1}}{421}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Chapitre \ref {LCP}}{425}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Chapitre \ref {ch:gn}}{439}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Chapitre \ref {Ch:t+m}}{446}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Chapitre \ref {ch:types}}{452}{section.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}Chapitre \ref {ch:ISS}}{459}{section.A.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Références bibliographiques}{467}{chapter*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Index}{474}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Index des auteurs cités}{474}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Index des termes}{477}{section*.21}

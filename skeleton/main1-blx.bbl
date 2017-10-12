@@ -1,0 +1,467 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nyt/global/}
+  \entry{Cann:94}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Cann},
+         familyi={C\bibinitperiod},
+         given={Ronnie},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{series}{Cambridge Textbooks in Linguistics}
+    \field{subtitle}{An Introduction}
+    \field{title}{Formal Semantics}
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{1994}
+  \endentry
+
+  \entry{ChierchiaMcCG:90}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CG}{%
+         family={Chierchia},
+         familyi={C\bibinitperiod},
+         given={Gennaro},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MGS}{%
+         family={McConnell-Ginet},
+         familyi={M\bibinitperiod-G\bibinitperiod},
+         given={Sally},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{CGMGS1}
+    \strng{fullhash}{CGMGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{subtitle}{An Introduction to Semantics}
+    \field{title}{Meaning and Grammar}
+    \list{location}{1}{%
+      {Cambridge, MA}%
+    }
+    \field{year}{1990}
+  \endentry
+
+  \entry{Corb:13}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CF}{%
+         family={Corblin},
+         familyi={C\bibinitperiod},
+         given={Francis},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Armand Colin}%
+    }
+    \strng{namehash}{CF1}
+    \strng{fullhash}{CF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{series}{Cursus}
+    \field{subtitle}{Introduction}
+    \field{title}{Cours de s\'emantique}
+    \list{location}{1}{%
+      {Paris}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{dSwrt:98nls}{book}{}
+    \name{author}{1}{}{%
+      {{hash=dH}{%
+         family={{de Swart}},
+         familyi={d\bibinitperiod},
+         given={Henri{\"e}tte},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CSLI Publications}%
+    }
+    \strng{namehash}{dH1}
+    \strng{fullhash}{dH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Introduction to Natural Language Semantics}
+    \list{location}{1}{%
+      {Stanford}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{DWP:81}{book}{}
+    \name{author}{3}{}{%
+      {{hash=DDR}{%
+         family={Dowty},
+         familyi={D\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WRE}{%
+         family={Wall},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Peters},
+         familyi={P\bibinitperiod},
+         given={Stanley},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {D. Reidel}%
+    }
+    \strng{namehash}{DDRWREPS1}
+    \strng{fullhash}{DDRWREPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Introduction to {Montague} Semantics}
+    \list{location}{1}{%
+      {Dordrecht}%
+    }
+    \field{year}{1981}
+  \endentry
+
+  \entry{Galm:91}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Galmiche},
+         familyi={G\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Presses Universitaires de France}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{series}{Linguistique nouvelle}
+    \field{title}{S{\'e}mantique linguistique et logique}
+    \list{location}{1}{%
+      {Paris}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{Gamut:1}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GLTF}{%
+         family={Gamut},
+         familyi={G\bibinitperiod},
+         given={L.\bibnamedelima T.\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{GLTF1}
+    \strng{fullhash}{GLTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{extrayear}{1}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{maintitle}{Logic, Language, and Meaning}
+    \field{title}{Introduction to Logic}
+    \field{volume}{1}
+    \list{location}{1}{%
+      {Chicago}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{Gamut:2}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GLTF}{%
+         family={Gamut},
+         familyi={G\bibinitperiod},
+         given={L.\bibnamedelima T.\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{GLTF1}
+    \strng{fullhash}{GLTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{extrayear}{2}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{maintitle}{Logic, Language, and Meaning}
+    \field{title}{Intensional Logic and Logical Grammar}
+    \field{volume}{2}
+    \list{location}{1}{%
+      {Chicago}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{HeimKratzer:97}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HI}{%
+         family={Heim},
+         familyi={H\bibinitperiod},
+         given={Irene},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kratzer},
+         familyi={K\bibinitperiod},
+         given={Angelika},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Blackwell Publishers}%
+    }
+    \strng{namehash}{HIKA1}
+    \strng{fullhash}{HIKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{13}
+    \field{series}{Blackwell Textbooks in Linguistics}
+    \field{title}{Semantics in Generative Grammar}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1997}
+  \endentry
+
+  \entry{Jacobson:14}{book}{}
+    \name{author}{1}{}{%
+      {{hash=JP}{%
+         family={Jacobson},
+         familyi={J\bibinitperiod},
+         given={Pauline},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{JP1}
+    \strng{fullhash}{JP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{series}{Oxford Textbooks in Linguistics}
+    \field{subtitle}{An Introduction to the Syntax/Semantics Interface}
+    \field{title}{Compositional Semantics}
+    \list{location}{1}{%
+      {Oxford, UK}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{Montague:EFL}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Montague},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \true{moreeditor}
+    \name{editor}{1}{}{%
+      {{hash=VB}{%
+         family={Visentini},
+         familyi={V\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Edizioni di Comunit{\`a}}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{extrayear}{1}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Linguaggi nella Societ{\`a} e nella Tecnica}
+    \field{pages}{189\bibrangedash 224}
+    \field{title}{{E}nglish as a formal language}
+    \list{location}{1}{%
+      {Milan}%
+    }
+    \field{year}{1970}
+  \endentry
+
+  \entry{Montague:UG}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Montague},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{extrayear}{2}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{373\bibrangedash 398}
+    \field{title}{Universal Grammar}
+    \field{volume}{36}
+    \field{journaltitle}{Theoria}
+    \field{year}{1970}
+  \endentry
+
+  \entry{PTQ}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Montague},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=HKJJ}{%
+         family={Hintikka},
+         familyi={H\bibinitperiod},
+         given={K.\bibnamedelima Jaako\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=MJME}{%
+         family={Moravcsik},
+         familyi={M\bibinitperiod},
+         given={Julius M.\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Suppes},
+         familyi={S\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Reidel}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Approaches to Natural Language}
+    \field{pages}{221\bibrangedash 242}
+    \field{title}{The Proper Treatment of Quantification in Ordinary {E}nglish}
+    \verb{url}
+    \verb http://www.blackwellpublishing.com/content/BPL_Images/Content_store/S
+    \verb ample_chapter/0631215417/Portner.pdf
+    \endverb
+    \list{location}{1}{%
+      {Dordrecht}%
+    }
+    \field{year}{1973}
+  \endentry
+
+  \entry{Winter:16}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WY}{%
+         family={Winter},
+         familyi={W\bibinitperiod},
+         given={Yoad},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Edinburgh University Press}%
+    }
+    \strng{namehash}{WY1}
+    \strng{fullhash}{WY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{series}{Edinburgh Advanced Textbooks in Linguistics}
+    \field{subtitle}{An Introduction to the Mathematical Theory of Meaning in
+  Natural Language}
+    \field{title}{Elements of Formal Semantics}
+    \list{location}{1}{%
+      {Edinburgh}%
+    }
+    \field{year}{2016}
+  \endentry
+\endsortlist
+\endinput

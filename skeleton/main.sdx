@@ -1,0 +1,758 @@
+\indexentry {grammaire!\elid \ de Montague|hyperpage}{vii}
+\indexentry {sens|hyperindexformat{\sqq }}{1}
+\indexentry {signe linguistique|hyperpage}{1}
+\indexentry {signifiant|hyperpage}{1}
+\indexentry {signifie@signifié|hyperpage}{1}
+\indexentry {contenu|hyperpage}{1}
+\indexentry {comprehension@compréhension|hyperpage}{2}
+\indexentry {mot|hyperpage}{3}
+\indexentry {phrase|hyperpage}{3}
+\indexentry {contexte|(hyperpage}{3}
+\indexentry {enonce@énoncé|hyperpage}{3}
+\indexentry {unite lexicale@unité lexicale|hyperindexformat{\fn {*}}}{3}
+\indexentry {lexeme@lexème|hyperindexformat{\fn {*}}}{3}
+\indexentry {forme!\elid \ lexicale|hyperindexformat{\fn {*}}}{3}
+\indexentry {expression!\elid \ linguistique|hyperpage}{4}
+\indexentry {contexte|hyperpage}{5}
+\indexentry {locuteur|hyperpage}{5}
+\indexentry {locuteur|hyperpage}{5}
+\indexentry {allocutaire|hyperpage}{5}
+\indexentry {deictique@déictique|hyperpage}{5}
+\indexentry {indexical|hyperpage}{5}
+\indexentry {pragmatique|hyperpage}{6}
+\indexentry {contexte|)}{6}
+\indexentry {inference@inférence|hyperpage}{7}
+\indexentry {paraphrase|hyperpage}{7}
+\indexentry {consequence logique@conséquence logique|hyperpage}{8}
+\indexentry {consequence logique@conséquence logique|hyperpage}{8}
+\indexentry {consequence logique@conséquence logique|hyperpage}{8}
+\indexentry {implication!\elid \ logique|hyperindexformat{\see {conséquence logique}}}{8}
+\indexentry {verite@vérité|hyperpage}{9}
+\indexentry {contexte|hyperpage}{10}
+\indexentry {hyperonymie|hyperpage}{10}
+\indexentry {hyponymie|hyperpage}{10}
+\indexentry {contre-exemple|hyperpage}{11}
+\indexentry {equivalence@équivalence!\elid \ logique|hyperpage}{12}
+\indexentry {negation@négation|hyperpage}{14}
+\indexentry {negation@négation|hyperpage}{14}
+\indexentry {loi!\elid \ de contradiction|hyperpage}{14}
+\indexentry {contradictoire|hyperpage}{15}
+\indexentry {contradiction|hyperpage}{15}
+\indexentry {tautologie|hyperpage}{15}
+\indexentry {loi|hyperpage}{15}
+\indexentry {absurde|hyperpage}{16}
+\indexentry {anomalie sémantique|hyperpage}{16}
+\indexentry {pleonasme@pléonasme|hyperpage}{17}
+\indexentry {invraisemblance|hyperpage}{17}
+\indexentry {dissonance|hyperpage}{17}
+\indexentry {contexte|hyperpage}{18}
+\indexentry {ambiguïté|(hyperpage}{18}
+\indexentry {polysemie@polysémie|hyperpage}{19}
+\indexentry {pronom|hyperpage}{19}
+\indexentry {antecedent@antécédent!\elid \ d'un pronom|hyperpage}{19}
+\indexentry {indice!\elid \ referentiel@\elid \ référentiel|hyperpage}{19}
+\indexentry {vague|hyperpage}{21}
+\indexentry {imprecision@imprécision|hyperpage}{21}
+\indexentry {ellipse|hyperpage}{22}
+\indexentry {test!\elid \ des ellipses|hyperpage}{22}
+\indexentry {ambiguïté|)}{22}
+\indexentry {presupposition@présupposition|(hyperpage}{23}
+\indexentry {projection|hyperpage}{24}
+\indexentry {contenu!\elid \ en jeu|hyperpage}{25}
+\indexentry {presupposition@présupposition|hyperpage}{25}
+\indexentry {implicature!\elid \ conventionnelle|hyperpage}{25}
+\indexentry {valeur!\elid \ de vérité|hyperpage}{26}
+\indexentry {valeur!\elid \ de vérité!défaut de \elid |hyperpage}{26}
+\indexentry {contexte|hyperpage}{27}
+\indexentry {annulation!\elid \ d'une présupposition|hyperpage}{28}
+\indexentry {suspension!\elid \ d'une présupposition|hyperpage}{28}
+\indexentry {negation@négation!{\elid } métalinguistique|hyperindexformat{\fn {*}}}{28}
+\indexentry {projection!\elid \ d'une présupposition|hyperpage}{29}
+\indexentry {accommodation|hyperpage}{29}
+\indexentry {test!\elid \ de présuppositions|hyperpage}{29}
+\indexentry {implicature!\elid \ conventionnelle|hyperpage}{30}
+\indexentry {contenu!\elid \ expressif|hyperpage}{30}
+\indexentry {valeur!\elid \ de vérité!défaut de \elid |hyperpage}{31}
+\indexentry {test!\elid \ de présuppositions|hyperpage}{31}
+\indexentry {presuppose@présupposé|hyperpage}{31}
+\indexentry {profere@proféré|hyperpage}{31}
+\indexentry {commentaire|hyperpage}{32}
+\indexentry {presupposition@présupposition|)}{33}
+\indexentry {implicature|(hyperpage}{33}
+\indexentry {implicature!\elid \ conversationnelle|hyperpage}{34}
+\indexentry {sous-entendu|hyperindexformat{\fn {*}}}{34}
+\indexentry {implicature!\elid \ conversationnelle|hyperpage}{35}
+\indexentry {contexte|hyperpage}{35}
+\indexentry {coopération (principe de \elid )|hyperpage}{35}
+\indexentry {maxime conversationnelle|hyperpage}{35}
+\indexentry {mensonge|hyperindexformat{\fn {*}}}{36}
+\indexentry {ironie|hyperindexformat{\fn {*}}}{36}
+\indexentry {implicature!\elid \ scalaire|hyperpage}{37}
+\indexentry {annulation!\elid \ d'une implicature|hyperpage}{38}
+\indexentry {suspension!\elid \ d'une implicature|hyperpage}{38}
+\indexentry {implicature!\elid \ conversationnelle!\elid \ généralisée|hyperpage}{38}
+\indexentry {implicature!\elid \ conversationnelle!\elid \ particularisée|hyperpage}{38}
+\indexentry {implicature!\elid \ conventionnelle|hyperpage}{39}
+\indexentry {implicature|)}{40}
+\indexentry {acte de langage|(hyperpage}{40}
+\indexentry {acte de langage|hyperpage}{40}
+\indexentry {test!\elid \ des ellipses|hyperindexformat{\fn {*}}}{40}
+\indexentry {performatif|hyperpage}{41}
+\indexentry {constatif|hyperpage}{41}
+\indexentry {assertion|hyperpage}{41}
+\indexentry {question|hyperpage}{41}
+\indexentry {acte de langage!\elid \ locutoire|hyperpage}{42}
+\indexentry {acte de langage!\elid \ illocutoire|hyperpage}{42}
+\indexentry {acte de langage!\elid \ perlocutoire|hyperpage}{42}
+\indexentry {force!\elid \ illocutoire|hyperpage}{42}
+\indexentry {contenu!\elid \ propositionnel|hyperpage}{42}
+\indexentry {assertion|hyperpage}{42}
+\indexentry {question|hyperpage}{42}
+\indexentry {requête|hyperpage}{42}
+\indexentry {intention|hyperpage}{42}
+\indexentry {assertion|hyperpage}{42}
+\indexentry {question|hyperpage}{42}
+\indexentry {ordre (acte de langage)|hyperpage}{42}
+\indexentry {requête|hyperpage}{42}
+\indexentry {acte de langage!\elid \ illocutoire|hyperpage}{43}
+\indexentry {type de phrases|hyperpage}{43}
+\indexentry {acte de langage!\elid \ complexe|hyperpage}{43}
+\indexentry {acte de langage!\elid \ indirect|hyperpage}{43}
+\indexentry {mode!\elid \ de phrase|hyperpage}{44}
+\indexentry {mode!\elid \ de conjugaison|hyperindexformat{\fn {*}}}{44}
+\indexentry {acte de langage|)}{45}
+\indexentry {semantique@sémantique!\elid \ vericonditionnelle@\elid \ vériconditionnelle|hyperindexformat{\sqq }}{47}
+\indexentry {sens|hyperpage}{47}
+\indexentry {denotation@dénotation|hyperpage}{47}
+\indexentry {reference@référence|hyperpage}{47}
+\indexentry {referent@référent|hyperpage}{47}
+\indexentry {denotation@dénotation|hyperpage}{48}
+\indexentry {tautologie|hyperpage}{48}
+\indexentry {sens|hyperpage}{48}
+\indexentry {sens|hyperpage}{49}
+\indexentry {reference@référence|hyperpage}{49}
+\indexentry {referent@référent|hyperpage}{49}
+\indexentry {valeur!\elid \ de vérité|hyperpage}{50}
+\indexentry {conditions de vérité|hyperpage}{52}
+\indexentry {semantique@sémantique!\elid \ vericonditionnelle@\elid \ vériconditionnelle|hyperpage}{52}
+\indexentry {compositionnalité|hyperpage}{53}
+\indexentry {principe de compositionnalité|hyperpage}{54}
+\indexentry {principe de compositionnalité|hyperpage}{55}
+\indexentry {calcul des prédicats|hyperpage}{56}
+\indexentry {langage objet|hyperpage}{56}
+\indexentry {LO@\LO |hyperpage}{56}
+\indexentry {calcul des prédicats|hyperpage}{57}
+\indexentry {grammaire!\elid \ générative|hyperpage}{57}
+\indexentry {grammaire!\elid \ de Montague|hyperpage}{57}
+\indexentry {predicat@prédicat|hyperpage}{57}
+\indexentry {verbe|hyperpage}{57}
+\indexentry {nom!\elid \ commun|hyperpage}{57}
+\indexentry {adjectif|hyperpage}{57}
+\indexentry {substantif|hyperindexformat{\see {nom commun}}}{57}
+\indexentry {argument|hyperpage}{58}
+\indexentry {argument|hyperpage}{58}
+\indexentry {nom!\elid \ commun|hyperpage}{58}
+\indexentry {verbe!\elid \ intransitif|hyperpage}{58}
+\indexentry {arité|hyperpage}{58}
+\indexentry {arité|hyperpage}{58}
+\indexentry {valence|hyperindexformat{\fn {*}}}{58}
+\indexentry {individu|hyperpage}{60}
+\indexentry {terme|hyperpage}{60}
+\indexentry {constante!\elid \ d'individu|hyperpage}{60}
+\indexentry {nom!\elid \ propre|hyperpage}{60}
+\indexentry {constante!\elid \ de prédicat|hyperpage}{61}
+\indexentry {constante!\elid \ non logique|hyperpage}{61}
+\indexentry {formule|hyperpage}{61}
+\indexentry {connecteur!\elid \ logique|(hyperpage}{61}
+\indexentry {connecteur!\elid \ logique|hyperpage}{61}
+\indexentry {constante!\elid \ logique@\elid \ logique|hyperindexformat{\fn {*}}}{61}
+\indexentry {conjonction|hyperpage}{62}
+\indexentry {disjonction|hyperpage}{62}
+\indexentry {implication!\elid \ matérielle|hyperpage}{62}
+\indexentry {equivalence@équivalence!\elid \ matérielle|hyperpage}{62}
+\indexentry {negation@négation|hyperpage}{63}
+\indexentry {connecteur!\elid \ logique|)}{63}
+\indexentry {variable|hyperpage}{64}
+\indexentry {pronom|hyperpage}{64}
+\indexentry {quantificateur|hyperpage}{64}
+\indexentry {symboles de quantification|hyperpage}{65}
+\indexentry {quantificateur!{\elid } existentiel ($\exists $)|hyperpage}{65}
+\indexentry {quantificateur!{\elid } universel ($\forall $)|hyperpage}{65}
+\indexentry {identite@identité|hyperpage}{66}
+\indexentry {terme|hyperpage}{66}
+\indexentry {regle@règle!\elid \ syntaxique|hyperpage}{66}
+\indexentry {identite@identité|hyperpage}{67}
+\indexentry {arbre!\elid \ de construction d'une formule|hyperpage}{68}
+\indexentry {sous-formule|hyperpage}{70}
+\indexentry {sous-formule|hyperpage}{70}
+\indexentry {expression!\elid \ interprétable|hyperpage}{71}
+\indexentry {verbe!\elid \ intransitif|hyperpage}{72}
+\indexentry {relation|hyperpage}{73}
+\indexentry {liste|hyperpage}{73}
+\indexentry {n-uplets@$n$-uplets|hyperpage}{73}
+\indexentry {couple|hyperpage}{73}
+\indexentry {triplet|hyperpage}{73}
+\indexentry {quadruplet|hyperpage}{73}
+\indexentry {paire|hyperindexformat{\fn {*}}}{73}
+\indexentry {modele@modèle|(hyperpage}{74}
+\indexentry {modele@modèle|hyperpage}{74}
+\indexentry {domaine|hyperpage}{74}
+\indexentry {domaine!\elid \ de quantification|hyperpage}{74}
+\indexentry {domaine!\elid \ d'interprétation|hyperpage}{74}
+\indexentry {univers d'interprétation|hyperindexformat{\fn {*}}}{74}
+\indexentry {A@\Unv A|hyperpage}{75}
+\indexentry {n-uplets@$n$-uplets|hyperpage}{76}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{76}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{76}
+\indexentry {F@\FI |hyperpage}{76}
+\indexentry {modele@modèle|hyperpage}{77}
+\indexentry {A@\Unv A|hyperpage}{77}
+\indexentry {M@\Modele |hyperpage}{77}
+\indexentry {domaine|hyperpage}{77}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{77}
+\indexentry {modele@modèle|)}{77}
+\indexentry {regle@règle!\elid \ semantique@\elid \ sémantique|hyperpage}{77}
+\indexentry {valeur!\elid \ sémantique|hyperpage}{77}
+\indexentry {denotation@dénotation|hyperpage}{78}
+\indexentry {connecteur!\elid \ logique|(hyperpage}{82}
+\indexentry {connecteur!\elid \ vérifonctionnel|hyperpage}{82}
+\indexentry {fonction!\elid \ de vérité|hyperpage}{82}
+\indexentry {table de vérité|hyperpage}{82}
+\indexentry {equivalence@équivalence!\elid \ logique|hyperpage}{83}
+\indexentry {loi!\elid \ de morgan@\elid s de Morgan|hyperpage}{84}
+\indexentry {regle@règle!\elid \ de suppression des crochets|hyperpage}{85}
+\indexentry {loi!\elid \ de la double négation|hyperpage}{85}
+\indexentry {loi!\elid \ de contraposition|hyperpage}{85}
+\indexentry {disjonction!\elid \ inclusive|hyperpage}{85}
+\indexentry {disjonction!\elid \ exclusive|hyperpage}{86}
+\indexentry {implication!\elid \ matérielle|hyperpage}{89}
+\indexentry {antecedent@antécédent!\elid \ d'une implication|hyperpage}{89}
+\indexentry {consequent@conséquent (d'une implication)|hyperpage}{89}
+\indexentry {protase|hyperindexformat{\fn {*}}}{90}
+\indexentry {apodose|hyperindexformat{\fn {*}}}{90}
+\indexentry {connecteur!\elid \ logique|)}{92}
+\indexentry {quantification|(hyperpage}{92}
+\indexentry {portee@portée|hyperpage}{92}
+\indexentry {portee@portée|hyperpage}{92}
+\indexentry {variable!liee@{\elid } liée|hyperpage}{93}
+\indexentry {variable!{\elid } libre|hyperpage}{93}
+\indexentry {variable!{\elid } libre|hyperpage}{93}
+\indexentry {variable!liee@{\elid } liée|hyperpage}{93}
+\indexentry {lieur|hyperpage}{94}
+\indexentry {lieur|hyperpage}{94}
+\indexentry {substitution|hyperpage}{96}
+\indexentry {variable!liee@{\elid } liée|hyperpage}{99}
+\indexentry {variable!renommage des {\elid }s|hyperpage}{100}
+\indexentry {quantification|)}{100}
+\indexentry {satisfaction|hyperpage}{101}
+\indexentry {consequence logique@conséquence logique|hyperpage}{102}
+\indexentry {tautologie|hyperpage}{102}
+\indexentry {contradiction|hyperpage}{102}
+\indexentry {formule!\elid \ contingente|hyperpage}{102}
+\indexentry {equivalence@équivalence!\elid \ logique|hyperpage}{103}
+\indexentry {loi!\elid \ du tiers exclu|hyperindexformat{\fn {*}}}{103}
+\indexentry {interprétation directe/indirecte|hyperpage}{104}
+\indexentry {F@\Ftrad |hyperpage}{104}
+\indexentry {F@\Ftrad |hyperpage}{104}
+\indexentry {interprétation directe/indirecte|hyperpage}{105}
+\indexentry {extensionnel|hyperpage}{105}
+\indexentry {extension|hyperpage}{105}
+\indexentry {extensionnalité!principe d'\elid |hyperpage}{105}
+\indexentry {semantique@sémantique!\elid \ lexicale|hyperpage}{106}
+\indexentry {quantificateur|(hyperpage}{111}
+\indexentry {quantification|(hyperpage}{111}
+\indexentry {variable|(hyperpage}{112}
+\indexentry {pronom|hyperpage}{112}
+\indexentry {valeur!\elid \ d'une variable|hyperpage}{112}
+\indexentry {valeur!\elid \ d'une variable|hyperpage}{113}
+\indexentry {fonction!\elid \ d'assignation|hyperpage}{113}
+\indexentry {assignation|hyperindexformat{\see {fonction d'assignation}}}{113}
+\indexentry {variable|)}{114}
+\indexentry {pronom!\elid \ indéfini|hyperpage}{115}
+\indexentry {quantification|)}{120}
+\indexentry {satisfaction|hyperpage}{121}
+\indexentry {variable!liee@{\elid } liée|hyperpage}{122}
+\indexentry {variable!{\elid } libre|hyperpage}{122}
+\indexentry {lieur|hyperpage}{122}
+\indexentry {fonction!\elid \ d'assignation|hyperpage}{122}
+\indexentry {pronom|(hyperpage}{122}
+\indexentry {contexte|hyperpage}{123}
+\indexentry {semantique@sémantique!\elid \ dynamique|hyperindexformat{\fn {*}}}{123}
+\indexentry {anaphore|hyperpage}{124}
+\indexentry {deictique@déictique|hyperpage}{124}
+\indexentry {antecedent@antécédent!\elid \ d'un pronom|hyperpage}{124}
+\indexentry {coreference@coréférence|hyperpage}{124}
+\indexentry {pronom|)}{124}
+\indexentry {domaine!\elid \ de quantification|hyperpage}{124}
+\indexentry {restriction!\elid \ du domaine de quantification|hyperpage}{124}
+\indexentry {contexte|hyperpage}{126}
+\indexentry {portee@portée|(hyperpage}{127}
+\indexentry {groupe nominal|hyperindexformat{\sqq }}{127}
+\indexentry {portee@portée|hyperpage}{127}
+\indexentry {portee@portée|hyperpage}{127}
+\indexentry {indefini@indéfini|hyperpage}{127}
+\indexentry {covariation|hyperpage}{128}
+\indexentry {covariation|hyperpage}{128}
+\indexentry {portee@portée|hyperpage}{128}
+\indexentry {portee@portée!\elid \ large|hyperpage}{129}
+\indexentry {portee@portée!\elid \ etroite@\elid \ étroite|hyperpage}{129}
+\indexentry {portee@portée!\elid \ inversée|hyperpage}{130}
+\indexentry {negation@négation|hyperpage}{132}
+\indexentry {portee@portée!\elid \ de la negation@\elid \ de la négation|hyperpage}{132}
+\indexentry {adverbe de quantification|hyperpage}{134}
+\indexentry {implication!\elid \ matérielle|hyperpage}{136}
+\indexentry {indefini@indéfini|hyperpage}{136}
+\indexentry {indefini@indéfini|hyperpage}{137}
+\indexentry {quantificateur|)}{137}
+\indexentry {portee@portée|)}{137}
+\indexentry {specifique@spécifique|hyperpage}{138}
+\indexentry {specificite@spécificité|hyperpage}{138}
+\indexentry {indefini@indéfini|(hyperpage}{138}
+\indexentry {specificite@spécificité|hyperpage}{138}
+\indexentry {specificite@spécificité|hyperpage}{138}
+\indexentry {specificite@spécificité!\eli \ epistemique@\elid \ épistémique|hyperindexformat{\fn {*}}}{138}
+\indexentry {test!\elid \ de spécificité|hyperpage}{139}
+\indexentry {constante!\elid \ d'individu|hyperpage}{141}
+\indexentry {portee@portée!\elid \ intermédiaire|hyperpage}{144}
+\indexentry {indefini@indéfini|)}{144}
+\indexentry {generique@générique|hyperindexformat{\see {généricité}}}{145}
+\indexentry {genericite@généricité|(hyperpage}{145}
+\indexentry {genericite@généricité|hyperpage}{145}
+\indexentry {specificite@spécificité|hyperpage}{145}
+\indexentry {indefini@indéfini|hyperpage}{146}
+\indexentry {genericite@généricité|hyperpage}{146}
+\indexentry {test!\elid \ de la dislocation en \sicut {ça}|hyperpage}{146}
+\indexentry {dislocation|hyperpage}{146}
+\indexentry {indefini@indéfini|hyperpage}{147}
+\indexentry {generique@générique!phrase \elid |hyperpage}{148}
+\indexentry {adverbe de quantification|hyperpage}{149}
+\indexentry {genericite@généricité|)}{151}
+\indexentry {test!\elid \ de covariation|hyperpage}{152}
+\indexentry {test!\elid \ de la négation|hyperpage}{153}
+\indexentry {test!\elid \ de consistance|hyperpage}{155}
+\indexentry {test!\elid \ de complétude|hyperpage}{155}
+\indexentry {loi!\elid \ de contradiction|hyperpage}{155}
+\indexentry {loi!\elid \ du tiers exclu|hyperpage}{155}
+\indexentry {test!\elid \ de consistance|hyperpage}{157}
+\indexentry {test!\elid \ de complétude|hyperpage}{158}
+\indexentry {expression!\elid \ referentielle@\elid \ référentielle|hyperpage}{158}
+\indexentry {quantificationnel|hyperpage}{158}
+\indexentry {indefini@indéfini|hyperpage}{158}
+\indexentry {dislocation|hyperpage}{159}
+\indexentry {test!\elid \ de la dislocation à droite|hyperpage}{159}
+\indexentry {indefini@indéfini|hyperpage}{160}
+\indexentry {test!\elid \ des existentielles|hyperpage}{160}
+\indexentry {existentielle (phrase \elid )|hyperpage}{160}
+\indexentry {indefini@indéfini|hyperpage}{161}
+\indexentry {coreference@coréférence|hyperpage}{163}
+\indexentry {test!\elid \ de covariation|hyperpage}{164}
+\indexentry {defini@défini!groupe nominal \elid |(hyperpage}{164}
+\indexentry {description définie|(hyperpage}{164}
+\indexentry {defini@défini!article \elid |hyperpage}{165}
+\indexentry {existence|hyperpage}{166}
+\indexentry {unicité|hyperpage}{166}
+\indexentry {presupposition@présupposition|hyperpage}{167}
+\indexentry {i@\atoi \ (iota)|hyperpage}{168}
+\indexentry {operateur@opérateur!\elid \ de description définie|hyperpage}{168}
+\indexentry {lieur|hyperpage}{168}
+\indexentry {semantique@sémantique!\elid \ dynamique|hyperindexformat{\fn {*}}}{168}
+\indexentry {familiarité|hyperpage}{170}
+\indexentry {defini@défini!\elid \ dependant@\elid \ dépendant|hyperpage}{171}
+\indexentry {liage|hyperpage}{171}
+\indexentry {possessif|hyperpage}{172}
+\indexentry {genitif@génitif|hyperpage}{172}
+\indexentry {nom!\elid \ relationnel|hyperpage}{172}
+\indexentry {genitif@génitif|hyperpage}{173}
+\indexentry {defini@défini!groupe nominal \elid |)}{173}
+\indexentry {description définie|)}{173}
+\indexentry {grammaire!\elid \ de Montague|hyperpage}{175}
+\indexentry {extensionnalité!principe d'\elid |hyperpage}{175}
+\indexentry {extensionnalité|hyperpage}{175}
+\indexentry {extensionnalité!principe d'\elid |hyperpage}{175}
+\indexentry {extension|hyperpage}{175}
+\indexentry {ambiguïté|hyperpage}{176}
+\indexentry {indice!\elid \ referentiel@\elid \ référentiel|hyperpage}{177}
+\indexentry {de re@\alien {de re}|hyperpage}{177}
+\indexentry {de dicto@\alien {de dicto}|hyperpage}{177}
+\indexentry {attitude propositionnelle|hyperpage}{179}
+\indexentry {opaque|hyperpage}{179}
+\indexentry {oblique|hyperpage}{179}
+\indexentry {intensionnalité|hyperpage}{179}
+\indexentry {intensionnalité|hyperpage}{179}
+\indexentry {nom!\elid \ propre|hyperpage}{181}
+\indexentry {adjectif!\elid \ intersectif|hyperpage}{183}
+\indexentry {adjectif!\elid \ relationnel|hyperindexformat{\fn {*}}}{183}
+\indexentry {intensionnalité|hyperpage}{184}
+\indexentry {adjectif!\elid \ intensionnel|hyperpage}{185}
+\indexentry {intensionnel!adjectif \elid |hyperpage}{185}
+\indexentry {temporalité|hyperpage}{185}
+\indexentry {temps|hyperpage}{186}
+\indexentry {temps!\elid \ verbal|hyperpage}{186}
+\indexentry {temporalité|hyperpage}{186}
+\indexentry {mode!\elid \ de conjugaison|hyperpage}{187}
+\indexentry {intensionnalité|hyperpage}{187}
+\indexentry {temps|(hyperpage}{188}
+\indexentry {instant|hyperpage}{188}
+\indexentry {I@\Tps |hyperpage}{188}
+\indexentry {ordre|hyperpage}{189}
+\indexentry {ordre!\elid \ total|hyperpage}{189}
+\indexentry {relation!\elid \ d'anteriorité ($\tprec $)|hyperpage}{189}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{189}
+\indexentry {modele@modèle!\elid \ intensionnel|hyperpage}{190}
+\indexentry {indice|hyperpage}{190}
+\indexentry {designateur rigide@désignateur rigide|hyperpage}{191}
+\indexentry {temps|)}{193}
+\indexentry {operateur@opérateur!\elid \ temporel|(hyperpage}{193}
+\indexentry {flexion|hyperpage}{193}
+\indexentry {passe@passé|hyperpage}{194}
+\indexentry {futur|hyperpage}{194}
+\indexentry {present@présent|hyperpage}{194}
+\indexentry {indice!\elid \ intensionnel|hyperpage}{195}
+\indexentry {plus-que-parfait|hyperpage}{197}
+\indexentry {temps!\elid \ verbal|hyperpage}{198}
+\indexentry {temps!\elid \ verbal|hyperpage}{199}
+\indexentry {operateur@opérateur!\elid \ temporel|)}{199}
+\indexentry {futur|hyperpage}{199}
+\indexentry {temps!\elid \ verbal|hyperpage}{200}
+\indexentry {temporalité|hyperpage}{201}
+\indexentry {aspect|hyperpage}{201}
+\indexentry {modele@modèle|hyperpage}{204}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{206}
+\indexentry {monde!\elid \ possible|hyperpage}{206}
+\indexentry {possible|hyperpage}{206}
+\indexentry {possibilité|hyperpage}{206}
+\indexentry {possible|hyperpage}{207}
+\indexentry {necessaire@nécessaire|hyperpage}{207}
+\indexentry {modalite@modalité|hyperindexformat{\sqq }}{207}
+\indexentry {force!\elid \ modale|hyperpage}{207}
+\indexentry {possible|hyperpage}{209}
+\indexentry {necessaire@nécessaire|hyperpage}{209}
+\indexentry {monde!\elid \ possible|(hyperpage}{210}
+\indexentry {W@\Unv W|hyperpage}{210}
+\indexentry {monde!\elid \ possible|hyperpage}{210}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{210}
+\indexentry {modele@modèle!\elid \ intensionnel|hyperpage}{211}
+\indexentry {monde!\elid \ réel|hyperpage}{212}
+\indexentry {individu!\elid \ possible|hyperpage}{213}
+\indexentry {existence!prédicat d'\elid |hyperpage}{213}
+\indexentry {designateur rigide@désignateur rigide|hyperpage}{213}
+\indexentry {nom!\elid \ propre|hyperpage}{213}
+\indexentry {idiolecte|hyperindexformat{\fn {*}}}{213}
+\indexentry {existence!prédicat d'\elid |hyperpage}{214}
+\indexentry {indice!\elid \ intensionnel|hyperpage}{214}
+\indexentry {monde!\elid \ possible|)}{215}
+\indexentry {operateur@opérateur!\elid \ modal|hyperpage}{215}
+\indexentry {necessaire@nécessaire|hyperpage}{215}
+\indexentry {possible|hyperpage}{215}
+\indexentry {tautologie|hyperpage}{218}
+\indexentry {formule!\elid \ contingente|hyperpage}{218}
+\indexentry {modalite@modalité!\elid \ aléthique|hyperpage}{218}
+\indexentry {modele@modèle!\elid \ de Kripke|hyperpage}{219}
+\indexentry {relation!\elid \ d'accessibilité|hyperpage}{219}
+\indexentry {modele@modèle!\elid \ de Kripke|hyperpage}{219}
+\indexentry {structure!\elid \ modale|hyperpage}{219}
+\indexentry {relation!\elid \ d'accessibilité|hyperpage}{220}
+\indexentry {modalite@modalité!\elid \ deontique@\elid \ déontique|hyperpage}{221}
+\indexentry {modalite@modalité!\elid \ dynamique|hyperpage}{221}
+\indexentry {modalite@modalité!\elid \ epistemique@\elid \ épistémique|hyperpage}{221}
+\indexentry {relation!\elid \ d'accessibilité|hyperpage}{222}
+\indexentry {modalite@modalité!\elid \ aléthique|hyperpage}{222}
+\indexentry {relation!\elid \ d'accessibilité|hyperpage}{222}
+\indexentry {R@\Unv R|hyperpage}{223}
+\indexentry {multimodalité|hyperpage}{223}
+\indexentry {contexte|hyperpage}{223}
+\indexentry {multimodalité|hyperpage}{223}
+\indexentry {futur|(hyperpage}{224}
+\indexentry {structure!\elid \ branchante|hyperpage}{224}
+\indexentry {temps|hyperpage}{224}
+\indexentry {T W@$T\mathord {\times }W$|hyperpage}{226}
+\indexentry {modalite@modalité!\elid \ historique|hyperpage}{227}
+\indexentry {modalite@modalité!\elid \ métaphysique|hyperpage}{227}
+\indexentry {futur|)}{228}
+\indexentry {intension|(hyperpage}{229}
+\indexentry {sens|(hyperpage}{229}
+\indexentry {denotation@dénotation|hyperpage}{229}
+\indexentry {indice|hyperpage}{229}
+\indexentry {sens|hyperpage}{229}
+\indexentry {intension|hyperpage}{230}
+\indexentry {intension|hyperpage}{230}
+\indexentry {intension|hyperpage}{230}
+\indexentry {propriete@propriété|hyperpage}{231}
+\indexentry {relation!\elid \ intensionnelle|hyperpage}{231}
+\indexentry {relation!\elid \ en intension|hyperpage}{231}
+\indexentry {nom!\elid \ propre|hyperpage}{232}
+\indexentry {concept d'individu|hyperpage}{232}
+\indexentry {presupposition@présupposition|hyperpage}{232}
+\indexentry {domaine!\elid \ de definition@\elid \ de définition (d'une fonction)|hyperpage}{232}
+\indexentry {proposition|hyperpage}{233}
+\indexentry {proposition|hyperpage}{233}
+\indexentry {concept d'individu|hyperpage}{233}
+\indexentry {propriete@propriété|hyperpage}{233}
+\indexentry {contexte|hyperpage}{233}
+\indexentry {proposition!\elid \ syntaxique|hyperindexformat{\fn {*}}}{233}
+\indexentry {foncteur|hyperpage}{235}
+\indexentry {sens|)}{235}
+\indexentry {intension|)}{235}
+\indexentry {proposition|hyperpage}{236}
+\indexentry {intension|hyperpage}{236}
+\indexentry {denotation@dénotation!\elid \ indirecte|hyperpage}{239}
+\indexentry {attitude propositionnelle|hyperpage}{240}
+\indexentry {intension|hyperpage}{241}
+\indexentry {intension|hyperpage}{241}
+\indexentry {intenseur|hyperindexformat{\fn {*}}}{241}
+\indexentry {expression!\elid \ intensionnelle|hyperpage}{242}
+\indexentry {de dicto@\alien {de dicto}|hyperpage}{244}
+\indexentry {de re@\alien {de re}|hyperpage}{244}
+\indexentry {validité|hyperpage}{251}
+\indexentry {contexte|hyperpage}{252}
+\indexentry {modalite@modalité!\elid \ aléthique|hyperpage}{252}
+\indexentry {consequence logique@conséquence logique|hyperpage}{253}
+\indexentry {equivalence@équivalence!\elid \ logique|hyperpage}{253}
+\indexentry {synonymie|hyperpage}{254}
+\indexentry {postulat de signification|(hyperpage}{254}
+\indexentry {fonction!\elid \ d'interprétation|hyperpage}{254}
+\indexentry {sens|hyperpage}{254}
+\indexentry {modalite@modalité!\elid \ aléthique|hyperpage}{255}
+\indexentry {modalite@modalité!\elid \ sémantique|hyperpage}{255}
+\indexentry {semantique@sémantique!\elid \ lexicale|hyperindexformat{\sqq }}{255}
+\indexentry {postulat de signification|hyperpage}{256}
+\indexentry {existence!prédicat d'\elid |hyperpage}{258}
+\indexentry {postulat de signification|)}{259}
+\indexentry {proposition|hyperpage}{259}
+\indexentry {conditions de vérité|hyperpage}{259}
+\indexentry {sens|hyperpage}{259}
+\indexentry {proposition|hyperpage}{259}
+\indexentry {conditions de vérité|hyperpage}{259}
+\indexentry {hyperintensionnalité|hyperpage}{260}
+\indexentry {compositionnalité|hyperindexformat{\sq }}{263}
+\indexentry {F@\Ftrad |hyperpage}{263}
+\indexentry {arbre!\elid \ syntaxique|hyperpage}{264}
+\indexentry {arbre!\elid \ syntaxique|hyperpage}{264}
+\indexentry {predicat@prédicat|hyperindexformat{\sq }}{266}
+\indexentry {fonction|hyperpage}{267}
+\indexentry {fonction|hyperpage}{267}
+\indexentry {argument|hyperpage}{267}
+\indexentry {valeur!\elid \ d'une fonction|hyperpage}{267}
+\indexentry {fonction!\elid \ caractéristique|hyperpage}{268}
+\indexentry {fonction!\elid \ caractéristique|hyperpage}{268}
+\indexentry {produit cartésien|hyperpage}{270}
+\indexentry {argument!ordre des \elid s|hyperpage}{272}
+\indexentry {curryfication|hyperpage}{273}
+\indexentry {schonfinkelisation@schönfinkelisation|hyperpage}{273}
+\indexentry {la (lambda)@$\lambda $ (lambda)|(hyperpage}{273}
+\indexentry {la (lambda)@$\lambda $ (lambda)!$\lambda $-abstraction|hyperpage}{274}
+\indexentry {lieur|hyperpage}{274}
+\indexentry {la (lambda)@$\lambda $ (lambda)!$\lambda $-terme|hyperpage}{275}
+\indexentry {arité|hyperpage}{275}
+\indexentry {argument|hyperpage}{276}
+\indexentry {application fonctionnelle|(hyperpage}{277}
+\indexentry {application fonctionnelle|hyperpage}{277}
+\indexentry {application fonctionnelle|hyperpage}{277}
+\indexentry {regle@règle!\elid \ de suppression des crochets|hyperpage}{279}
+\indexentry {compositionnalité|hyperpage}{282}
+\indexentry {application fonctionnelle|)}{284}
+\indexentry {beta-reduction@$\beta $-réduction|hyperpage}{284}
+\indexentry {la (lambda)@$\lambda $ (lambda)!$\lambda $-conversion|hyperpage}{284}
+\indexentry {variable|hyperpage}{288}
+\indexentry {variable!\elid \ de prédicats|hyperpage}{288}
+\indexentry {valeur!\elid \ d'une variable|hyperpage}{288}
+\indexentry {la (lambda)@$\lambda $ (lambda)|)}{291}
+\indexentry {langage objet!\elid \ typé|hyperpage}{291}
+\indexentry {type|hyperindexformat{\sqq }}{292}
+\indexentry {e (type)|hyperpage}{292}
+\indexentry {type!e|hyperpage}{292}
+\indexentry {t (type)|hyperpage}{292}
+\indexentry {type!t|hyperpage}{292}
+\indexentry {type!\elid \ fonctionnel|hyperpage}{292}
+\indexentry {T@\Types |hyperpage}{295}
+\indexentry {expression!\elid \ interprétable|hyperindexformat{\fn {*}}}{295}
+\indexentry {ME@$\ME $|hyperpage}{296}
+\indexentry {application fonctionnelle|hyperpage}{297}
+\indexentry {identite@identité|hyperpage}{297}
+\indexentry {i@\atoi \ (iota)|hyperpage}{298}
+\indexentry {D@$\DoM $|hyperpage}{303}
+\indexentry {domaine!\elid \ de denotation@\elid \ de dénotation|hyperpage}{303}
+\indexentry {application fonctionnelle|hyperpage}{304}
+\indexentry {relation|hyperpage}{305}
+\indexentry {identite@identité!fonction d'\elid |hyperpage}{306}
+\indexentry {identite@identité!fonction d'\elid |hyperpage}{307}
+\indexentry {identite@identité!relation d'\elid |hyperpage}{307}
+\indexentry {la (lambda)@$\lambda $ (lambda)!$\lambda $-conversion|hyperpage}{308}
+\indexentry {beta-reduction@$\beta $-réduction|hyperpage}{308}
+\indexentry {eta-reduction@$\eta $-réduction|hyperpage}{309}
+\indexentry {alpha-equivalence@$\alpha $-équivalence|hyperpage}{309}
+\indexentry {consequence logique@conséquence logique|hyperpage}{310}
+\indexentry {type!\elid \ booléen|hyperpage}{310}
+\indexentry {booléen|hyperindexformat{\see {type (booléen)}}}{310}
+\indexentry {consequence logique@conséquence logique!\elid \ généralisée|hyperpage}{311}
+\indexentry {monotonie|hyperpage}{311}
+\indexentry {implicature!\elid \ scalaire|hyperpage}{314}
+\indexentry {syncategorematique@syncatégorématique|hyperpage}{315}
+\indexentry {categorematique@catégorématique|hyperpage}{315}
+\indexentry {negation@négation|hyperpage}{315}
+\indexentry {de re@\alien {de re}|hyperpage}{317}
+\indexentry {domaine!\elid \ de definition@\elid \ de définition (d'une fonction)|hyperpage}{318}
+\indexentry {presupposition@présupposition|hyperpage}{318}
+\indexentry {domaine!\elid \ de denotation@\elid \ de dénotation|hyperindexformat{\fn {*}}}{318}
+\indexentry {restriction!\elid \ de selection@\elid \ de sélection|hyperpage}{320}
+\indexentry {semantique@sémantique!\elid \ lexicale|hyperpage}{321}
+\indexentry {sorte|hyperpage}{321}
+\indexentry {Ty2@{\Tyz }|hyperpage}{322}
+\indexentry {extensionnalité!principe d'\elid |hyperpage}{322}
+\indexentry {sorte|hyperpage}{322}
+\indexentry {LO2@\LOz |hyperpage}{322}
+\indexentry {variable!\elid \ de mondes|hyperpage}{322}
+\indexentry {s (type)|hyperpage}{322}
+\indexentry {type!s|hyperpage}{322}
+\indexentry {sens|hyperpage}{323}
+\indexentry {intension|hyperpage}{323}
+\indexentry {T2@$\Types _2$|hyperpage}{324}
+\indexentry {modele@modèle!\elid \ extensionnel|hyperpage}{325}
+\indexentry {extensionnalité!principe d'\elid |hyperpage}{326}
+\indexentry {relation!\elid \ d'accessibilité|hyperpage}{328}
+\indexentry {de dicto@\alien {de dicto}|hyperpage}{330}
+\indexentry {de re@\alien {de re}|hyperpage}{330}
+\indexentry {interface syntaxe-sémantique|hyperindexformat{\sq }}{333}
+\indexentry {regle@règle!\elid \ d'interface syntaxe-sémantique|hyperpage}{333}
+\indexentry {Principes et Paramètres|hyperpage}{333}
+\indexentry {grammaire!\elid \ générative|hyperpage}{333}
+\indexentry {syntagme|hyperindexformat{\sq }}{334}
+\indexentry {nom!\elid \ commun|hyperpage}{334}
+\indexentry {verbe|hyperpage}{334}
+\indexentry {adjectif|hyperpage}{334}
+\indexentry {phrase|hyperpage}{334}
+\indexentry {regle@règle!\elid \ de reecriture@\elid \ de réécriture|hyperpage}{334}
+\indexentry {arbre!\elid \ syntaxique|hyperpage}{334}
+\indexentry {X-barre|hyperpage}{334}
+\indexentry {complement@complément|hyperpage}{334}
+\indexentry {specifieur@spécifieur|hyperpage}{334}
+\indexentry {projection syntaxique!\elid \ lexicale|hyperpage}{334}
+\indexentry {projection syntaxique!\elid \ maximale|hyperpage}{334}
+\indexentry {projection syntaxique!\elid \ intermédiaire|hyperpage}{334}
+\indexentry {inflexion verbale|hyperpage}{335}
+\indexentry {flexion|hyperpage}{335}
+\indexentry {sous-catégorisation|hyperpage}{336}
+\indexentry {modifieur|hyperpage}{336}
+\indexentry {adjonction|hyperpage}{336}
+\indexentry {application fonctionnelle|hyperpage}{337}
+\indexentry {regle@règle!\elid \ d'interface syntaxe-sémantique|hyperpage}{337}
+\indexentry {F@\Ftrad |hyperpage}{337}
+\indexentry {regle@règle!\elid \ d'interface syntaxe-sémantique|hyperpage}{337}
+\indexentry {nom|hyperpage}{339}
+\indexentry {verbe|hyperpage}{339}
+\indexentry {adjectif|hyperpage}{339}
+\indexentry {nom!\elid \ relationnel|hyperpage}{339}
+\indexentry {adjectif!\elid \ relationnel|hyperpage}{339}
+\indexentry {preposition@préposition|hyperpage}{339}
+\indexentry {verbe!\elid \ intransitif|hyperpage}{339}
+\indexentry {verbe!\elid \ transitif|hyperpage}{339}
+\indexentry {verbe!\elid \ ditransitif|hyperpage}{339}
+\indexentry {regle@règle!\elid \ d'interface syntaxe-sémantique|hyperpage}{339}
+\indexentry {arbre!\elid \ de dérivation|hyperpage}{339}
+\indexentry {grammaire!\elid \ syntagmatique|hyperpage}{339}
+\indexentry {concaténation|hyperpage}{340}
+\indexentry {application fonctionnelle|hyperpage}{340}
+\indexentry {grammaire!\elid \ de dépendances|hyperindexformat{\fn {*}}}{340}
+\indexentry {LFG (\alien {Lexical Functional Grammar})|hyperindexformat{\fn {*}}}{340}
+\indexentry {HPSG (\alien {Head-Driven Phrase Structure Grammar})|hyperindexformat{\fn {*}}}{340}
+\indexentry {TAG (\alien {Tree Adjoining Grammar})|hyperindexformat{\fn {*}}}{340}
+\indexentry {grammaire!\elid \ logique|hyperpage}{341}
+\indexentry {application fonctionnelle|hyperpage}{341}
+\indexentry {verbe!\elid \ transitif|hyperpage}{341}
+\indexentry {verbe!\elid \ ditransitif|hyperpage}{342}
+\indexentry {copule|hyperpage}{343}
+\indexentry {datif|hyperindexformat{\fn {*}}}{343}
+\indexentry {preposition@préposition|hyperpage}{344}
+\indexentry {negation@négation|hyperpage}{345}
+\indexentry {argument!\elid \ implicite|hyperpage}{346}
+\indexentry {verbe!\elid \ transitif|hyperpage}{346}
+\indexentry {nom!\elid \ relationnel|hyperindexformat{\fn {*}}}{347}
+\indexentry {ellipse|hyperpage}{349}
+\indexentry {modifieur|hyperpage}{350}
+\indexentry {adjectif|(hyperpage}{350}
+\indexentry {modification de prédicat|hyperpage}{352}
+\indexentry {la (lambda)@$\lambda $ (lambda)!$\lambda $-conjonction|hyperindexformat{\fn {*}}}{352}
+\indexentry {adjectif!\elid \ subsectif|hyperpage}{353}
+\indexentry {classe de comparaison|hyperpage}{354}
+\indexentry {classe de comparaison|hyperpage}{354}
+\indexentry {adjectif|)}{354}
+\indexentry {intension|hyperpage}{355}
+\indexentry {application fonctionnelle!\elid \ intensionnelle|hyperpage}{356}
+\indexentry {adjectif!\elid \ intensionnel|hyperpage}{357}
+\indexentry {groupe nominal|(hyperpage}{358}
+\indexentry {quantificateur!\elid \ generalise@\elid \ généralisé|hyperpage}{362}
+\indexentry {groupe nominal|)}{362}
+\indexentry {determinant@déterminant|hyperpage}{362}
+\indexentry {restriction!\elid \ du domaine de quantification|hyperpage}{363}
+\indexentry {verbe!\elid \ transitif|hyperpage}{364}
+\indexentry {composition fonctionnellle|hyperindexformat{\fn {*}}}{365}
+\indexentry {verbe!\elid \ ditransitif|hyperpage}{367}
+\indexentry {quantifying-in@\textit {quantifying-in}|(hyperpage}{367}
+\indexentry {grammaire!\elid \ catégorielle|hyperindexformat{\fn {*}}}{368}
+\indexentry {grammaire!\elid \ syntagmatique|hyperindexformat{\fn {*}}}{368}
+\indexentry {quantifying-in@\textit {quantifying-in}|)}{371}
+\indexentry {montée!\elid \ des quantificateurs|hyperpage}{372}
+\indexentry {quantifier raising@\textit {Quantifier Raising}|hyperpage}{372}
+\indexentry {mouvement|hyperpage}{372}
+\indexentry {structure!\elid \ profonde|hyperpage}{372}
+\indexentry {mouvement|hyperpage}{372}
+\indexentry {structure!\elid \ de surface|hyperpage}{372}
+\indexentry {forme!\elid \ phonétique|hyperpage}{372}
+\indexentry {forme!\elid \ logique|hyperpage}{372}
+\indexentry {trace|hyperpage}{373}
+\indexentry {quantifying-in@\textit {quantifying-in}|hyperpage}{374}
+\indexentry {trace|hyperpage}{375}
+\indexentry {mouvement|hyperpage}{377}
+\indexentry {inaccusatif|hyperindexformat{\fn {*}}}{377}
+\indexentry {montée!\elid \ du sujet|hyperpage}{378}
+\indexentry {pronom!\elid \ relatif|(hyperpage}{378}
+\indexentry {pronom!\elid \ relatif|)}{379}
+\indexentry {verbe!\elid \ a montee@\elid \ à montée|hyperpage}{380}
+\indexentry {difference ens@différence ensembliste|hyperpage}{382}
+\indexentry {Cooper Storage@\alien {Cooper Storage}|hyperpage}{383}
+\indexentry {quantifying-in@\textit {quantifying-in}|hyperpage}{383}
+\indexentry {quantificateur!\elid \ generalise@\elid \ généralisé|(hyperpage}{384}
+\indexentry {structure!\elid \ tripartite|hyperpage}{385}
+\indexentry {determinant@déterminant|hyperpage}{385}
+\indexentry {restriction!\elid \ d'un quantificateur généralisé|hyperpage}{385}
+\indexentry {portee@portée!\elid \ nucléaire|hyperpage}{385}
+\indexentry {quantificateur|hyperpage}{386}
+\indexentry {cardinal!\elid \ d'un ensemble|hyperpage}{386}
+\indexentry {cardinal!determinant@déterminant \elid |hyperpage}{386}
+\indexentry {difference ens@différence ensembliste|hyperpage}{387}
+\indexentry {defini@défini!article \elid |hyperpage}{387}
+\indexentry {contexte|hyperpage}{388}
+\indexentry {vague|hyperpage}{389}
+\indexentry {conservativité|hyperpage}{390}
+\indexentry {symetrie@symétrie|hyperpage}{392}
+\indexentry {indefini@indéfini|hyperpage}{392}
+\indexentry {monotonie|hyperpage}{393}
+\indexentry {quantificateur!\elid \ generalise@\elid \ généralisé|)}{395}
+\indexentry {flexibilité des types|hyperpage}{395}
+\indexentry {coordination|(hyperpage}{395}
+\indexentry {connecteur!\elid \ généralisé|hyperpage}{397}
+\indexentry {type!\elid \ booléen|hyperpage}{397}
+\indexentry {polymorphique|hyperpage}{398}
+\indexentry {verbe!\elid \ transitif|hyperpage}{400}
+\indexentry {coordination|)}{401}
+\indexentry {intensionnel!verbe \elid |hyperpage}{401}
+\indexentry {verbe!\elid \ transitif!\elid \ intensionnel|hyperpage}{401}
+\indexentry {de dicto@\alien {de dicto}|hyperpage}{401}
+\indexentry {de re@\alien {de re}|hyperpage}{401}
+\indexentry {propriete@propriété!\elid \ de propriétés|hyperpage}{402}
+\indexentry {type-shifting@\textit {type-shifting}|(hyperpage}{406}
+\indexentry {type-shifteur|hyperindexformat{\sqq }}{407}
+\indexentry {indefini@indéfini|hyperpage}{408}
+\indexentry {existentielle (phrase \elid )|hyperpage}{409}
+\indexentry {defini@défini!article \elid |hyperpage}{410}
+\indexentry {fonction!\elid \ de choix|hyperpage}{411}
+\indexentry {epsilon@$\epsi $ (epsilon)|hyperpage}{412}
+\indexentry {defini@défini!article \elid |hyperpage}{412}
+\indexentry {defini@défini!groupe nominal \elid |hyperpage}{413}
+\indexentry {type-shifting@\textit {type-shifting}|)}{416}
+\indexentry {coreference@coréférence|hyperpage}{416}
+\indexentry {pronom|hyperpage}{416}
+\indexentry {indice!\elid \ referentiel@\elid \ référentiel|hyperpage}{417}
+\indexentry {de dicto@\alien {de dicto}|hyperpage}{418}
+\indexentry {de re@\alien {de re}|hyperpage}{418}
+\indexentry {modus ponens@\alien {modus ponens}|hyperpage}{435}

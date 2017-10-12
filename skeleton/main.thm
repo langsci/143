@@ -1,0 +1,372 @@
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.1}{Conséquence logique}}{8}{defi.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{1}}{}}{12}{exo.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.2}{Équivalence logique (1)}}{12}{defi.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.3}{Équivalence logique (2)}}{12}{defi.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{2}}{}}{13}{exo.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.4}{Contradiction (relation)}}{13}{defi.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{1.3}{Négation}}{14}{nota.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.5}{Loi de contradiction}}{14}{defi.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.6}{Contradiction (propriété)}}{14}{defi.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.7}{Tautologie}}{15}{defi.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.8}{Phrase ambiguë}}{20}{defi.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{3}}{Ambiguïtés}}{22}{exo.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{4}}{}}{22}{exo.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.9}{Présupposition sémantique}}{26}{defi.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.10}{Présupposition pragmatique}}{26}{defi.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{5}}{}}{33}{exo.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{6}}{}}{33}{exo.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.11}{Implicature conversationnelle}}{34}{defi.1.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{1.12}{Maximes conversationnelles}}{35}{defi.1.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{1.{7}}{Relations sémantiques}}{40}{exo.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.1}{Dénotation}}{47}{defi.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.2}{Sens}}{48}{defi.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {princ}{{Principe}{2.2}{Sémantique vériconditionnelle}}{52}{princ.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {princ}{{Principe}{2.3}{Principe de compositionnalité (\textsc {i})}}{54}{princ.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {princ}{{Principe}{2.4}{Principe de compositionnalité (\textsc {ii})}}{55}{princ.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.3}{Argument}}{58}{defi.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.4}{Arité}}{58}{defi.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.1}{Prédicats}}{59}{nota.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.2}{Constantes d'individus}}{60}{nota.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.5}{Connecteur logique}}{62}{defi.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.3}{Variables}}{64}{nota.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.6}{Vocabulaire de \LO }}{65}{defi.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.7}{Termes}}{66}{defi.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.8}{Syntaxe de LO}}{67}{defi.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.9}{Sous-formule}}{70}{defi.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{1}}{}}{70}{exo.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{2}}{}}{70}{exo.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{3}}{}}{70}{exo.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.10}{Modèle}}{77}{defi.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.5}{Valeur sémantique}}{77}{nota.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.6}{Dénotation}}{78}{nota.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.11}{Interprétation des constantes non logiques}}{78}{defi.2.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.7}{Valeurs de vérité}}{79}{nota.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.12}{Interprétation des formules}}{79}{defi.2.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{4}}{}}{82}{exo.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {theo}{{Théorème}{2.1}{Lois de Morgan}}{84}{theo.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{5}}{}}{84}{exo.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{6}}{}}{85}{exo.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.13}{Antécédent et conséquent d'une implication}}{89}{defi.2.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.14}{Portée d'un quantificateur}}{92}{defi.2.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.15}{Variables libres, variables liées}}{93}{defi.2.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.16}{Lieur}}{94}{defi.2.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{7}}{}}{94}{exo.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.8}{Substitution}}{95}{nota.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.17}{Interprétation des formules quantifiées}}{96}{defi.2.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{8}}{}}{99}{exo.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {theo}{{Théorème}{2.3}{Renommage des variables liées}}{100}{theo.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{9}}{Quantificateurs et connecteurs}}{100}{exo.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{2.9}{Satisfaction}}{101}{nota.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.18}{Conséquence logique}}{101}{defi.2.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.19}{Tautologie}}{102}{defi.2.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.20}{Contradiction}}{102}{defi.2.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.21}{Formule contingente}}{102}{defi.2.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{2.22}{Équivalence logique}}{102}{defi.2.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {theo}{{Théorème}{2.4}{$\satisf $ et $\implq $}}{103}{theo.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{10}}{}}{103}{exo.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{11}}{}}{104}{exo.2.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{12}}{QCM de traductions}}{107}{exo.2.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{13}}{Structure logique des formules}}{108}{exo.2.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{14}}{Modèle}}{108}{exo.2.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{2.{15}}{Interprétation dans un modèle}}{109}{exo.2.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.1}{Fonction d'assignation}}{113}{defi.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.2}{Interprétation des termes}}{113}{defi.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.3}{Interprétation des formules quantifiées}}{116}{defi.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.4}{Interprétation des termes}}{120}{defi.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.5}{Interprétation des formules}}{120}{defi.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.6}{Vérité, ou satisfaction, d'une formule}}{121}{defi.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.7}{Conséquence logique}}{122}{defi.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.8}{Portée large {\vs } portée étroite}}{129}{defi.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.9}{Portée d'un opérateur de \LO }}{132}{defi.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {prop}{{Proposition}{3.1}{Contrainte sur la portée des {\GN } universels}}{137}{prop.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.10}{Spécificité}}{138}{defi.3.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{1}}{}}{144}{exo.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{2}}{}}{145}{exo.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{3}}{}}{145}{exo.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{4}}{}}{145}{exo.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{5}}{}}{159}{exo.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{6}}{}}{164}{exo.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{7}}{}}{164}{exo.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{8}}{}}{164}{exo.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.11}{Syntaxe de $\atoi $}}{168}{defi.3.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{3.12}{Interprétation de $\atoi $}}{169}{defi.3.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{3.{9}}{}}{173}{exo.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {princ}{{Principe}{4.1}{Principe d'extensionnalité}}{175}{princ.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{1}}{}}{183}{exo.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.1}{Modèle intensionnel (1)}}{190}{defi.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {postu}{{Postulat}{4.1}{Désignateurs rigides (1)}}{191}{postu.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.2}{Syntaxe de {\mP } et {\mF }}}{193}{defi.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{4.1}{Dénotation en sémantique intensionnelle (1)}}{195}{nota.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.3}{Interprétation de {\mP } et {\mF }}}{195}{defi.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{2}}{}}{196}{exo.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{3}}{}}{198}{exo.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{4.2}{Mondes possibles}}{210}{nota.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.4}{Modèle intensionnel (2)}}{210}{defi.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {postu}{{Postulat}{4.2}{Désignateurs rigides (2)}}{213}{postu.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{4.3}{Dénotation dans un modèle intensionnel}}{214}{nota.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.5}{Syntaxe de \peut \ et \doit }}{215}{defi.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.6}{Interprétation de $\peut $ et $\doit $ (1\iere version)}}{216}{defi.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{4}}{}}{217}{exo.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{5}}{}}{217}{exo.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.7}{Interprétation de $\peut $ et $\doit $ (2\ieme version)}}{220}{defi.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{6}}{}}{228}{exo.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.8}{Intension}}{230}{defi.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{7}}{}}{239}{exo.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.9}{Syntaxe et sémantique de {$\Intn $}}}{241}{defi.4.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.10}{Syntaxe et sémantique de {$\Extn $}}}{242}{defi.4.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{8}}{}}{246}{exo.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{9}}{}}{247}{exo.4.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{4.{10}}{}}{247}{exo.4.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.11}{Syntaxe de \LO }}{248}{defi.4.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.12}{Modèle intensionnel}}{249}{defi.4.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.13}{Interprétation des variables et des constantes}}{250}{defi.4.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.14}{Interprétation des expressions bien formées}}{250}{defi.4.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.15}{Validités dans {\LO } intensionnel}}{251}{defi.4.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.16}{Conséquence logique}}{253}{defi.4.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{4.17}{Équivalence sémantique}}{253}{defi.4.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.1}{Fonction caractéristique d'un ensemble}}{268}{defi.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{1}}{}}{272}{exo.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.2}{Curryfication}}{273}{defi.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.3}{\ulambda -abstraction}}{274}{defi.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.4}{Interprétation des \ulambda -termes}}{276}{defi.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.5}{Notation de l'application fonctionnelle}}{277}{defi.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {conv}{{Convention de notation}{5.2}{Règle de suppression des crochets}}{279}{nota.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{2}}{Désambiguïsation d'une expression sans crochet}}{280}{exo.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{3}}{Suppression des crochets}}{280}{exo.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{4}}{Variante de notation}}{280}{exo.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.6}{Interprétation de l'application fonctionnelle}}{281}{defi.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{5}}{}}{282}{exo.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.7}{\textit β-réduction}}{284}{defi.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{6}}{}}{285}{exo.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{7}}{Convention sur les noms de variables}}{286}{exo.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {theo}{{Théorème}{5.2}{Contrainte sur la $\beta $-réduction}}{287}{theo.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{8}}{$\beta $-réductions}}{291}{exo.5.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{9}}{$\beta $-réductions}}{291}{exo.5.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.8}{Types}}{293}{defi.5.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.9}{\Types }}{295}{defi.5.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.10}{Vocabulaire}}{296}{defi.5.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.11}{Syntaxe de \LO \ typé}}{297}{defi.5.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{10}}{}}{302}{exo.5.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{11}}{}}{302}{exo.5.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{5.5}{Domaines de dénotation}}{303}{nota.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.12}{Domaines de dénotation}}{303}{defi.5.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.13}{Sémantique de \LO \ typé}}{303}{defi.5.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {nota}{{Notation}{5.6}{\(\Ch {\denote {\;}}\)}}{305}{nota.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.14}{\textit β-réduction}}{308}{defi.5.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.15}{\textit η-réduction}}{309}{defi.5.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.16}{\textit α-équivalence}}{309}{defi.5.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.17}{Types booléens}}{310}{defi.5.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.18}{Conséquence logique généralisée}}{310}{defi.5.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.19}{Monotonie}}{311}{defi.5.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{12}}{}}{314}{exo.5.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{5.{13}}{}}{315}{exo.5.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.20}{\ulambda -abstraction avec domaine de définition}}{318}{defi.5.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.21}{Restriction du domaine de définition d'un \ulambda -terme}}{319}{defi.5.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.22}{$\Types _2$}}{324}{defi.5.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.23}{Vocabulaire de {\LOz }}}{324}{defi.5.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.24}{Syntaxe de {\LOz }}}{325}{defi.5.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.25}{Sémantique {\LOz }}}{325}{defi.5.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{5.26}{Conversion de \LO \ à \LOz }}{329}{defi.5.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{1}}{}}{354}{exo.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{6.1}{Application fonctionnelle intensionnelle}}{356}{defi.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{2}}{}}{362}{exo.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{3}}{}}{364}{exo.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{4}}{}}{366}{exo.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{5}}{}}{366}{exo.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{6}}{}}{367}{exo.6.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{7}}{}}{379}{exo.6.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{8}}{}}{380}{exo.6.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{9}}{}}{390}{exo.6.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{6.2}{Conservativité}}{390}{defi.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{6.3}{Symétrie}}{392}{defi.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{6.4}{Monotonie des déterminants}}{393}{defi.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {defi}{{Définition}{6.5}{Connecteurs généralisés}}{397}{defi.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{10}}{}}{416}{exo.6.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{11}}{}}{416}{exo.6.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {exo}{{Exercice}{6.{12}}{}}{416}{exo.6.12}

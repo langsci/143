@@ -1,0 +1,753 @@
+\indexentry {Dowty, David R.|hyperpage}{vii}
+\indexentry {Wall, Robert E.|hyperpage}{vii}
+\indexentry {Peters, Stanley|hyperpage}{vii}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{vii}
+\indexentry {Chierchia, Gennaro|hyperpage}{vii}
+\indexentry {McConnell-Ginet, Sally|hyperpage}{vii}
+\indexentry {Meaning and Grammar@\emph {Meaning and Grammar}|hyperpage}{vii}
+\indexentry {Gamut, L. T. F.|hyperpage}{vii}
+\indexentry {Introduction to Logic@\emph {Introduction to Logic}|hyperpage}{vii}
+\indexentry {Gamut, L. T. F.|hyperpage}{vii}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{vii}
+\indexentry {Cann, Ronnie|hyperpage}{vii}
+\indexentry {Formal Semantics@\emph {Formal Semantics}|hyperpage}{vii}
+\indexentry {Heim, Irene|hyperpage}{vii}
+\indexentry {Kratzer, Angelika|hyperpage}{vii}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{vii}
+\indexentry {de Swart, Henri{\"e}tte|hyperpage}{vii}
+\indexentry {Introduction to Natural Language Semantics@\emph {Introduction to Natural Language Semantics}|hyperpage}{vii}
+\indexentry {Corblin, Francis|hyperpage}{vii}
+\indexentry {Cours de s\'emantique@\emph {Cours de s\'emantique}|hyperpage}{vii}
+\indexentry {Jacobson, Pauline|hyperpage}{vii}
+\indexentry {Compositional Semantics@\emph {Compositional Semantics}|hyperpage}{vii}
+\indexentry {Winter, Yoad|hyperpage}{vii}
+\indexentry {Elements of Formal Semantics@\emph {Elements of Formal Semantics}|hyperpage}{vii}
+\indexentry {Corblin, Francis|hyperpage}{vii}
+\indexentry {Cours de s\'emantique@\emph {Cours de s\'emantique}|hyperpage}{vii}
+\indexentry {Galmiche, Michel|hyperpage}{vii}
+\indexentry {S{\'e}mantique linguistique et logique@\emph {S{\'e}mantique linguistique et logique}|hyperpage}{vii}
+\indexentry {Montague, Richard|hyperpage}{vii}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{vii}
+\indexentry {Montague, Richard|hyperpage}{viii}
+\indexentry {{E}nglish as a formal language@\emph {{E}nglish as a formal language}|hyperpage}{viii}
+\indexentry {Montague, Richard|hyperpage}{viii}
+\indexentry {Universal Grammar@\emph {Universal Grammar}|hyperpage}{viii}
+\indexentry {Montague, Richard|hyperpage}{viii}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{viii}
+\indexentry {Montague, Richard|hyperpage}{viii}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{viii}
+\indexentry {Dowty, David R.|hyperpage}{viii}
+\indexentry {Wall, Robert E.|hyperpage}{viii}
+\indexentry {Peters, Stanley|hyperpage}{viii}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{viii}
+\indexentry {Gamut, L. T. F.|hyperpage}{viii}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{viii}
+\indexentry {Galmiche, Michel|hyperpage}{viii}
+\indexentry {S{\'e}mantique linguistique et logique@\emph {S{\'e}mantique linguistique et logique}|hyperpage}{viii}
+\indexentry {Saussure, Ferdinand de|hyperpage}{1}
+\indexentry {Cours de linguistique g\'en\'erale@\emph {Cours de linguistique g\'en\'erale}|hyperpage}{1}
+\indexentry {Krifka, Manfred|hyperpage}{1}
+\indexentry {Varieties of semantic evidence@\emph {Varieties of semantic evidence}|hyperpage}{1}
+\indexentry {Ducrot, Oswald|hyperpage}{4}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{4}
+\indexentry {Ducrot, Oswald|hyperpage}{4}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{4}
+\indexentry {Ducrot, Oswald|hyperpage}{4}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{4}
+\indexentry {Ducrot, Oswald|hyperpage}{6}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{6}
+\indexentry {Cruse, D. A.|hyperpage}{10}
+\indexentry {Lexical Semantics@\emph {Lexical Semantics}|hyperpage}{10}
+\indexentry {Cruse, D. A.|hyperpage}{16}
+\indexentry {Lexical Semantics@\emph {Lexical Semantics}|hyperpage}{16}
+\indexentry {Chomsky, Noam|hyperpage}{18}
+\indexentry {Syntactic Structures@\emph {Syntactic Structures}|hyperpage}{18}
+\indexentry {Gillon, Brendan S.|hyperpage}{20}
+\indexentry {Ambiguity, Indeterminacy, Deixis, and Vagueness@\emph {Ambiguity, Indeterminacy, Deixis, and Vagueness}|hyperpage}{20}
+\indexentry {Chierchia, Gennaro|hyperpage}{24}
+\indexentry {McConnell-Ginet, Sally|hyperpage}{24}
+\indexentry {Meaning and Grammar@\emph {Meaning and Grammar}|hyperpage}{24}
+\indexentry {Potts, Christopher|hyperpage}{25}
+\indexentry {The Logic of Conventional Implicatures@\emph {The Logic of Conventional Implicatures}|hyperpage}{25}
+\indexentry {Tonhauser, Judith|hyperpage}{25}
+\indexentry {Toward a taxonomy of projective content@\emph {Toward a taxonomy of projective content}|hyperpage}{25}
+\indexentry {Strawson, Peter F.|hyperpage}{26}
+\indexentry {On referring@\emph {On referring}|hyperpage}{26}
+\indexentry {Stalnaker, Robert C.|hyperpage}{26}
+\indexentry {Presuppositions@\emph {Presuppositions}|hyperpage}{26}
+\indexentry {Stalnaker, Robert C.|hyperpage}{26}
+\indexentry {Pragmatic presuppositions@\emph {Pragmatic presuppositions}|hyperpage}{26}
+\indexentry {Stalnaker, Robert C.|hyperpage}{27}
+\indexentry {Presuppositions@\emph {Presuppositions}|hyperpage}{27}
+\indexentry {Stalnaker, Robert C.|hyperpage}{27}
+\indexentry {Pragmatic presuppositions@\emph {Pragmatic presuppositions}|hyperpage}{27}
+\indexentry {Amsili, Pascal|hyperpage}{28}
+\indexentry {L'annulation des implicatures et des pr\'esuppositions@\emph {L'annulation des implicatures et des pr\'esuppositions}|hyperpage}{28}
+\indexentry {Lewis, David|hyperpage}{29}
+\indexentry {Scorekeeping in a Language Game@\emph {Scorekeeping in a Language Game}|hyperpage}{29}
+\indexentry {Ducrot, Oswald|hyperpage}{29}
+\indexentry {Dire et ne pas dire@\emph {Dire et ne pas dire}|hyperpage}{29}
+\indexentry {Lewis, David|hyperpage}{29}
+\indexentry {Scorekeeping in a Language Game@\emph {Scorekeeping in a Language Game}|hyperpage}{29}
+\indexentry {Krifka, Manfred|hyperpage}{29}
+\indexentry {Focus and Presupposition in Dynamic Interpretation@\emph {Focus and Presupposition in Dynamic Interpretation}|hyperpage}{29}
+\indexentry {Potts, Christopher|hyperpage}{30}
+\indexentry {The Logic of Conventional Implicatures@\emph {The Logic of Conventional Implicatures}|hyperpage}{30}
+\indexentry {Roberts, Craige|hyperpage}{31}
+\indexentry {Information Structure in Discourse: {T}owards an Integrated Formal Theory of Pragmatics@\emph {Information Structure in Discourse: {T}owards an Integrated Formal Theory of Pragmatics}|hyperpage}{31}
+\indexentry {Karttunen, Lauri|hyperpage}{32}
+\indexentry {Peters, Stanley|hyperpage}{32}
+\indexentry {Conventional Implicature@\emph {Conventional Implicature}|hyperpage}{32}
+\indexentry {van der Sandt, Rob A.|hyperpage}{32}
+\indexentry {Presupposition projection as anaphora resolution@\emph {Presupposition projection as anaphora resolution}|hyperpage}{32}
+\indexentry {Roberts, Craige|hyperpage}{32}
+\indexentry {Information Structure in Discourse: {T}owards an Integrated Formal Theory of Pragmatics@\emph {Information Structure in Discourse: {T}owards an Integrated Formal Theory of Pragmatics}|hyperpage}{32}
+\indexentry {Kamp, Hans|hyperpage}{32}
+\indexentry {The Importance of Presupposition@\emph {The Importance of Presupposition}|hyperpage}{32}
+\indexentry {Potts, Christopher|hyperpage}{32}
+\indexentry {The Logic of Conventional Implicatures@\emph {The Logic of Conventional Implicatures}|hyperpage}{32}
+\indexentry {Grice, H. P.|hyperpage}{34}
+\indexentry {Logic and Conversation@\emph {Logic and Conversation}|hyperpage}{34}
+\indexentry {Ducrot, Oswald|hyperpage}{34}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{34}
+\indexentry {Horn, Laurence R.|hyperpage}{37}
+\indexentry {On the Semantic Properties of Logical Operators in {E}nglish@\emph {On the Semantic Properties of Logical Operators in {E}nglish}|hyperpage}{37}
+\indexentry {Horn, Laurence R.|hyperpage}{37}
+\indexentry {A Natural History of Negation@\emph {A Natural History of Negation}|hyperpage}{37}
+\indexentry {Levinson, Stephen C.|hyperpage}{38}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{38}
+\indexentry {Amsili, Pascal|hyperpage}{38}
+\indexentry {L'annulation des implicatures et des pr\'esuppositions@\emph {L'annulation des implicatures et des pr\'esuppositions}|hyperpage}{38}
+\indexentry {Grice, H. P.|hyperpage}{39}
+\indexentry {Logic and Conversation@\emph {Logic and Conversation}|hyperpage}{39}
+\indexentry {Karttunen, Lauri|hyperpage}{39}
+\indexentry {Peters, Stanley|hyperpage}{39}
+\indexentry {Conventional Implicature@\emph {Conventional Implicature}|hyperpage}{39}
+\indexentry {Levinson, Stephen C.|hyperpage}{39}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{39}
+\indexentry {Potts, Christopher|hyperpage}{39}
+\indexentry {The Logic of Conventional Implicatures@\emph {The Logic of Conventional Implicatures}|hyperpage}{39}
+\indexentry {Austin, John L.|hyperpage}{40}
+\indexentry {How to Do Things with Words@\emph {How to Do Things with Words}|hyperpage}{40}
+\indexentry {Searle, John R.|hyperpage}{40}
+\indexentry {Speech Acts@\emph {Speech Acts}|hyperpage}{40}
+\indexentry {Austin, John L.|hyperpage}{41}
+\indexentry {How to Do Things with Words@\emph {How to Do Things with Words}|hyperpage}{41}
+\indexentry {Searle, John R.|hyperpage}{41}
+\indexentry {Speech Acts@\emph {Speech Acts}|hyperpage}{41}
+\indexentry {Levinson, Stephen C.|hyperpage}{43}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{43}
+\indexentry {Moeschler, Jacques|hyperpage}{45}
+\indexentry {Reboul, Anne|hyperpage}{45}
+\indexentry {Dictionnaire encyclop{\'e}dique de pragmatique@\emph {Dictionnaire encyclop{\'e}dique de pragmatique}|hyperpage}{45}
+\indexentry {Levinson, Stephen C.|hyperpage}{45}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{45}
+\indexentry {Ducrot, Oswald|hyperpage}{45}
+\indexentry {Dire et ne pas dire@\emph {Dire et ne pas dire}|hyperpage}{45}
+\indexentry {Ducrot, Oswald|hyperpage}{45}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{45}
+\indexentry {Levinson, Stephen C.|hyperpage}{45}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{45}
+\indexentry {Beaver, David I.|hyperpage}{45}
+\indexentry {Presupposition@\emph {Presupposition}|hyperpage}{45}
+\indexentry {Beaver, David I.|hyperpage}{45}
+\indexentry {Geurts, Bart|hyperpage}{45}
+\indexentry {Presuppositions@\emph {Presuppositions}|hyperpage}{45}
+\indexentry {Grice, H. P.|hyperpage}{45}
+\indexentry {Logic and Conversation@\emph {Logic and Conversation}|hyperpage}{45}
+\indexentry {Levinson, Stephen C.|hyperpage}{45}
+\indexentry {Pragmatics@\emph {Pragmatics}|hyperpage}{45}
+\indexentry {Horn, Laurence R.|hyperpage}{45}
+\indexentry {Implicature@\emph {Implicature}|hyperpage}{45}
+\indexentry {Spector, Benjamin|hyperpage}{45}
+\indexentry {Aspects de la pragmatique des op\'erateurs logiques@\emph {Aspects de la pragmatique des op\'erateurs logiques}|hyperpage}{45}
+\indexentry {Simons, Mandy|hyperpage}{45}
+\indexentry {Implicature@\emph {Implicature}|hyperpage}{45}
+\indexentry {Frege, Gottlob|hyperpage}{47}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{47}
+\indexentry {Kleiber, Georges|hyperpage}{47}
+\indexentry {Probl{\`e}mes de s{\'e}mantique@\emph {Probl{\`e}mes de s{\'e}mantique}|hyperpage}{47}
+\indexentry {Frege, Gottlob|hyperpage}{47}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{47}
+\indexentry {Frege, Gottlob|hyperpage}{47}
+\indexentry {{\"U}ber {B}egriff und {G}egenstand@\emph {{\"U}ber {B}egriff und {G}egenstand}|hyperpage}{47}
+\indexentry {Lyons, John|hyperpage}{49}
+\indexentry {Semantics {I}@\emph {Semantics {I}}|hyperpage}{49}
+\indexentry {Strawson, Peter F.|hyperpage}{50}
+\indexentry {On referring@\emph {On referring}|hyperpage}{50}
+\indexentry {Searle, John R.|hyperpage}{50}
+\indexentry {Speech Acts@\emph {Speech Acts}|hyperpage}{50}
+\indexentry {Lyons, John|hyperpage}{50}
+\indexentry {Semantics {I}@\emph {Semantics {I}}|hyperpage}{50}
+\indexentry {Abbott, Barbara|hyperpage}{50}
+\indexentry {Reference@\emph {Reference}|hyperpage}{50}
+\indexentry {Chomsky, Noam|hyperpage}{54}
+\indexentry {Syntactic Structures@\emph {Syntactic Structures}|hyperpage}{54}
+\indexentry {Partee, Barbara H.|hyperpage}{54}
+\indexentry {Compositionality@\emph {Compositionality}|hyperpage}{54}
+\indexentry {Godard, Dani{\`e}le|hyperpage}{54}
+\indexentry {Compositionalit{\'e}\nobreakspace {}: {Q}uestions linguistiques@\emph {Compositionalit{\'e}~: {Q}uestions linguistiques}|hyperpage}{54}
+\indexentry {Montague, Richard|hyperpage}{57}
+\indexentry {Universal Grammar@\emph {Universal Grammar}|hyperpage}{57}
+\indexentry {Bach, Emmon|hyperpage}{57}
+\indexentry {Informal Lectures on Formal Semantics@\emph {Informal Lectures on Formal Semantics}|hyperpage}{57}
+\indexentry {Montague, Richard|hyperpage}{57}
+\indexentry {{E}nglish as a formal language@\emph {{E}nglish as a formal language}|hyperpage}{57}
+\indexentry {Montague, Richard|hyperpage}{57}
+\indexentry {Universal Grammar@\emph {Universal Grammar}|hyperpage}{57}
+\indexentry {Montague, Richard|hyperpage}{57}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{57}
+\indexentry {Partee, Barbara H.|hyperpage}{57}
+\indexentry {The Development of Formal Semantics in Linguistic Theory@\emph {The Development of Formal Semantics in Linguistic Theory}|hyperpage}{57}
+\indexentry {Partee, Barbara H.|hyperpage}{57}
+\indexentry {Reflections of a Formal Semanticist as of {F}eb 2005@\emph {Reflections of a Formal Semanticist as of {F}eb 2005}|hyperpage}{57}
+\indexentry {Gazdar, Gerald|hyperpage}{87}
+\indexentry {Pragmatics, Implicature, Presupposition and Logical Form@\emph {Pragmatics, Implicature, Presupposition and Logical Form}|hyperpage}{87}
+\indexentry {Ducrot, Oswald|hyperpage}{91}
+\indexentry {Le dire et le dit@\emph {Le dire et le dit}|hyperpage}{91}
+\indexentry {Montague, Richard|hyperpage}{105}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{105}
+\indexentry {Montague, Richard|hyperpage}{105}
+\indexentry {{E}nglish as a formal language@\emph {{E}nglish as a formal language}|hyperpage}{105}
+\indexentry {Heim, Irene|hyperpage}{105}
+\indexentry {Kratzer, Angelika|hyperpage}{105}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{105}
+\indexentry {Dowty, David R.|hyperpage}{106}
+\indexentry {Word Meaning and {Montague} Grammar@\emph {Word Meaning and {Montague} Grammar}|hyperpage}{106}
+\indexentry {Gamut, L. T. F.|hyperpage}{107}
+\indexentry {Introduction to Logic@\emph {Introduction to Logic}|hyperpage}{107}
+\indexentry {Lucas, Thierry|hyperpage}{107}
+\indexentry {Berlanger, Isabelle|hyperpage}{107}
+\indexentry {De Greef, Isabelle|hyperpage}{107}
+\indexentry {Initiation {\`a} la logique formelle@\emph {Initiation {\`a} la logique formelle}|hyperpage}{107}
+\indexentry {Dowty, David R.|hyperpage}{107}
+\indexentry {Wall, Robert E.|hyperpage}{107}
+\indexentry {Peters, Stanley|hyperpage}{107}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{107}
+\indexentry {Chierchia, Gennaro|hyperpage}{107}
+\indexentry {McConnell-Ginet, Sally|hyperpage}{107}
+\indexentry {Meaning and Grammar@\emph {Meaning and Grammar}|hyperpage}{107}
+\indexentry {Corblin, Francis|hyperpage}{107}
+\indexentry {Cours de s\'emantique@\emph {Cours de s\'emantique}|hyperpage}{107}
+\indexentry {Tarski, Alfred|hyperpage}{113}
+\indexentry {The semantic conception of truth and the foundations of semantics@\emph {The semantic conception of truth and the foundations of semantics}|hyperpage}{113}
+\indexentry {Groenendijk, Jeroen|hyperpage}{123}
+\indexentry {Stokhof, Martin|hyperpage}{123}
+\indexentry {Dynamic Predicate Logic@\emph {Dynamic Predicate Logic}|hyperpage}{123}
+\indexentry {von Fintel, Kai|hyperpage}{124}
+\indexentry {Restrictions on Quantifier Domains@\emph {Restrictions on Quantifier Domains}|hyperpage}{124}
+\indexentry {von Fintel, Kai|hyperpage}{125}
+\indexentry {Restrictions on Quantifier Domains@\emph {Restrictions on Quantifier Domains}|hyperpage}{125}
+\indexentry {Westerst{\aa }hl, Dag|hyperpage}{125}
+\indexentry {Lewis, David|hyperpage}{134}
+\indexentry {Adverbs of Quantification@\emph {Adverbs of Quantification}|hyperpage}{134}
+\indexentry {Farkas, Donka F.|hyperpage}{135}
+\indexentry {Quantifier scope and syntactic islands@\emph {Quantifier scope and syntactic islands}|hyperpage}{135}
+\indexentry {Rodman, Robert|hyperpage}{135}
+\indexentry {Scope phenomena, ``movement transformations,'' and relative clauses@\emph {Scope phenomena, ``movement transformations,'' and relative clauses}|hyperpage}{135}
+\indexentry {Farkas, Donka F.|hyperpage}{135}
+\indexentry {Quantifier scope and syntactic islands@\emph {Quantifier scope and syntactic islands}|hyperpage}{135}
+\indexentry {Farkas, Donka F.|hyperpage}{136}
+\indexentry {Quantifier scope and syntactic islands@\emph {Quantifier scope and syntactic islands}|hyperpage}{136}
+\indexentry {Fodor, Janet D.|hyperpage}{136}
+\indexentry {Sag, Ivan|hyperpage}{136}
+\indexentry {Referential and quantificational indefinites@\emph {Referential and quantificational indefinites}|hyperpage}{136}
+\indexentry {Bende-Farkas, \'Agnes|hyperpage}{138}
+\indexentry {Kamp, Hans|hyperpage}{138}
+\indexentry {Indefinites and binding: From specifity to incorporation@\emph {Indefinites and binding: From specifity to incorporation}|hyperpage}{138}
+\indexentry {Farkas, Donka F.|hyperpage}{138}
+\indexentry {Specificity Distinctions@\emph {Specificity Distinctions}|hyperpage}{138}
+\indexentry {Bende-Farkas, \'Agnes|hyperpage}{141}
+\indexentry {Kamp, Hans|hyperpage}{141}
+\indexentry {Indefinites and binding: From specifity to incorporation@\emph {Indefinites and binding: From specifity to incorporation}|hyperpage}{141}
+\indexentry {Fodor, Janet D.|hyperpage}{141}
+\indexentry {Sag, Ivan|hyperpage}{141}
+\indexentry {Referential and quantificational indefinites@\emph {Referential and quantificational indefinites}|hyperpage}{141}
+\indexentry {Fodor, Janet D.|hyperpage}{141}
+\indexentry {Sag, Ivan|hyperpage}{141}
+\indexentry {Fodor, Janet D.|hyperpage}{142}
+\indexentry {Sag, Ivan|hyperpage}{142}
+\indexentry {Fodor, Janet D.|hyperpage}{142}
+\indexentry {Sag, Ivan|hyperpage}{142}
+\indexentry {Fodor, Janet D.|hyperpage}{142}
+\indexentry {Sag, Ivan|hyperpage}{142}
+\indexentry {Bende-Farkas, \'Agnes|hyperpage}{142}
+\indexentry {Kamp, Hans|hyperpage}{142}
+\indexentry {Indefinites and binding: From specifity to incorporation@\emph {Indefinites and binding: From specifity to incorporation}|hyperpage}{142}
+\indexentry {Fodor, Janet D.|hyperpage}{143}
+\indexentry {Sag, Ivan|hyperpage}{143}
+\indexentry {Abusch, Dorit|hyperpage}{143}
+\indexentry {The Scope of Indefinites@\emph {The Scope of Indefinites}|hyperpage}{143}
+\indexentry {Fodor, Janet D.|hyperpage}{144}
+\indexentry {Sag, Ivan|hyperpage}{144}
+\indexentry {Lewis, David|hyperpage}{149}
+\indexentry {Adverbs of Quantification@\emph {Adverbs of Quantification}|hyperpage}{149}
+\indexentry {Krifka, Manfred|hyperpage}{151}
+\indexentry {Genericity: {An} Introduction@\emph {Genericity: {An} Introduction}|hyperpage}{151}
+\indexentry {Krifka, Manfred|hyperpage}{151}
+\indexentry {Genericity: {An} Introduction@\emph {Genericity: {An} Introduction}|hyperpage}{151}
+\indexentry {Cohen, Ariel|hyperpage}{151}
+\indexentry {Genericity@\emph {Genericity}|hyperpage}{151}
+\indexentry {Dobrovie-Sorin, Carmen|hyperpage}{151}
+\indexentry {G{\'e}n{\'e}ricit{\'e}@\emph {G{\'e}n{\'e}ricit{\'e}}|hyperpage}{151}
+\indexentry {Milsark, Gary|hyperpage}{160}
+\indexentry {Toward an explanation of certain peculiarities of the existential construction in {E}nglish@\emph {Toward an explanation of certain peculiarities of the existential construction in {E}nglish}|hyperpage}{160}
+\indexentry {Corblin, Francis|hyperpage}{164}
+\indexentry {Ind\'efini, d\'efini et d\'emonstratif@\emph {Ind\'efini, d\'efini et d\'emonstratif}|hyperpage}{164}
+\indexentry {Haspelmath, Martin|hyperpage}{164}
+\indexentry {Indefinite Pronouns@\emph {Indefinite Pronouns}|hyperpage}{164}
+\indexentry {Farkas, Donka F.|hyperpage}{164}
+\indexentry {Varieties of indefinites@\emph {Varieties of indefinites}|hyperpage}{164}
+\indexentry {Dobrovie-Sorin, Carmen|hyperpage}{164}
+\indexentry {Beyssade, Claire|hyperpage}{164}
+\indexentry {D{\'e}finir les ind{\'e}finis@\emph {D{\'e}finir les ind{\'e}finis}|hyperpage}{164}
+\indexentry {Heim, Irene|hyperpage}{164}
+\indexentry {The Semantics of Definite and Indefinite Noun Phrases in {English}@\emph {The Semantics of Definite and Indefinite Noun Phrases in {English}}|hyperpage}{164}
+\indexentry {Russell, Bertrand|hyperpage}{165}
+\indexentry {On denoting@\emph {On denoting}|hyperpage}{165}
+\indexentry {Strawson, Peter F.|hyperpage}{165}
+\indexentry {On referring@\emph {On referring}|hyperpage}{165}
+\indexentry {Russell, Bertrand|hyperpage}{165}
+\indexentry {On denoting@\emph {On denoting}|hyperpage}{165}
+\indexentry {Frege, Gottlob|hyperpage}{165}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{165}
+\indexentry {Strawson, Peter F.|hyperpage}{167}
+\indexentry {On referring@\emph {On referring}|hyperpage}{167}
+\indexentry {van der Sandt, Rob A.|hyperpage}{168}
+\indexentry {Presupposition projection as anaphora resolution@\emph {Presupposition projection as anaphora resolution}|hyperpage}{168}
+\indexentry {Whitehead, Alfred N.|hyperpage}{169}
+\indexentry {Russell, Bertrand|hyperpage}{169}
+\indexentry {Principia Mathematica@\emph {Principia Mathematica}|hyperpage}{169}
+\indexentry {Whitehead, Alfred N.|hyperpage}{169}
+\indexentry {Russell, Bertrand|hyperpage}{169}
+\indexentry {Heim, Irene|hyperpage}{169}
+\indexentry {The Semantics of Definite and Indefinite Noun Phrases in {English}@\emph {The Semantics of Definite and Indefinite Noun Phrases in {English}}|hyperpage}{169}
+\indexentry {Heim, Irene|hyperpage}{169}
+\indexentry {File Change Semantics and the Familiarity Theory of Definiteness@\emph {File Change Semantics and the Familiarity Theory of Definiteness}|hyperpage}{169}
+\indexentry {Montague, Richard|hyperpage}{175}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{175}
+\indexentry {Frege, Gottlob|hyperpage}{175}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{175}
+\indexentry {Leibniz, Gottfried W.|hyperpage}{175}
+\indexentry {Linsky, Leonard|hyperpage}{177}
+\indexentry {Referring@\emph {Referring}|hyperpage}{177}
+\indexentry {Thomas d'Aquin|hyperpage}{177}
+\indexentry {Quine, Willard Van Orman|hyperpage}{179}
+\indexentry {Word and Object@\emph {Word and Object}|hyperpage}{179}
+\indexentry {Montague, Richard|hyperpage}{180}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{180}
+\indexentry {Gamut, L. T. F.|hyperpage}{182}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{182}
+\indexentry {Prior, Arthur|hyperpage}{187}
+\indexentry {Past, Present and Future@\emph {Past, Present and Future}|hyperpage}{187}
+\indexentry {Kripke, Saul A.|hyperpage}{191}
+\indexentry {Naming and Necessity@\emph {Naming and Necessity}|hyperpage}{191}
+\indexentry {Prior, Arthur|hyperpage}{198}
+\indexentry {Past, Present and Future@\emph {Past, Present and Future}|hyperpage}{198}
+\indexentry {Partee, Barbara H.|hyperpage}{201}
+\indexentry {Some structural analogies between tenses and pronouns in {E}nglish@\emph {Some structural analogies between tenses and pronouns in {E}nglish}|hyperpage}{201}
+\indexentry {Kripke, Saul A.|hyperpage}{213}
+\indexentry {Naming and Necessity@\emph {Naming and Necessity}|hyperpage}{213}
+\indexentry {Gamut, L. T. F.|hyperpage}{214}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{214}
+\indexentry {Kripke, Saul A.|hyperpage}{219}
+\indexentry {Semantical Considerations on Modal Logic@\emph {Semantical Considerations on Modal Logic}|hyperpage}{219}
+\indexentry {Hintikka, Jaako|hyperpage}{219}
+\indexentry {Modality and quantification@\emph {Modality and quantification}|hyperpage}{219}
+\indexentry {Portner, Paul|hyperpage}{221}
+\indexentry {Modality@\emph {Modality}|hyperpage}{221}
+\indexentry {Thomason, Richmond H.|hyperpage}{226}
+\indexentry {Combinations of tense and modality@\emph {Combinations of tense and modality}|hyperpage}{226}
+\indexentry {Carnap, Rudolf|hyperpage}{230}
+\indexentry {Meaning and Necessity@\emph {Meaning and Necessity}|hyperpage}{230}
+\indexentry {Kripke, Saul A.|hyperpage}{230}
+\indexentry {Semantical Considerations on Modal Logic@\emph {Semantical Considerations on Modal Logic}|hyperpage}{230}
+\indexentry {Dowty, David R.|hyperpage}{235}
+\indexentry {Wall, Robert E.|hyperpage}{235}
+\indexentry {Peters, Stanley|hyperpage}{235}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{235}
+\indexentry {Frege, Gottlob|hyperpage}{239}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{239}
+\indexentry {Montague, Richard|hyperpage}{239}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{239}
+\indexentry {Frege, Gottlob|hyperpage}{241}
+\indexentry {{\"U}ber {S}inn und {B}edeutung@\emph {{\"U}ber {S}inn und {B}edeutung}|hyperpage}{241}
+\indexentry {Montague, Richard|hyperpage}{242}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{242}
+\indexentry {Montague, Richard|hyperpage}{258}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{258}
+\indexentry {Montague, Richard|hyperpage}{259}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{259}
+\indexentry {Lewis, David|hyperpage}{261}
+\indexentry {General Semantics@\emph {General Semantics}|hyperpage}{261}
+\indexentry {Montague, Richard|hyperpage}{272}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{272}
+\indexentry {Curry, Haskell|hyperpage}{273}
+\indexentry {Heim, Irene|hyperpage}{273}
+\indexentry {Kratzer, Angelika|hyperpage}{273}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{273}
+\indexentry {Schönfinkel, Moses|hyperpage}{273}
+\indexentry {Church, Alonzo|hyperpage}{274}
+\indexentry {Gamut, L. T. F.|hyperpage}{280}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{280}
+\indexentry {Chierchia, Gennaro|hyperpage}{280}
+\indexentry {McConnell-Ginet, Sally|hyperpage}{280}
+\indexentry {Meaning and Grammar@\emph {Meaning and Grammar}|hyperpage}{280}
+\indexentry {Partee, Barbara H.|hyperpage}{280}
+\indexentry {ter Meulen, Alice|hyperpage}{280}
+\indexentry {Wall, Robert E.|hyperpage}{280}
+\indexentry {Mathematical Methods in Linguistics@\emph {Mathematical Methods in Linguistics}|hyperpage}{280}
+\indexentry {Gamut, L. T. F.|hyperpage}{280}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{280}
+\indexentry {Partee, Barbara H.|hyperpage}{281}
+\indexentry {ter Meulen, Alice|hyperpage}{281}
+\indexentry {Wall, Robert E.|hyperpage}{281}
+\indexentry {Mathematical Methods in Linguistics@\emph {Mathematical Methods in Linguistics}|hyperpage}{281}
+\indexentry {Frege, Gottlob|hyperpage}{292}
+\indexentry {{\"U}ber {B}egriff und {G}egenstand@\emph {{\"U}ber {B}egriff und {G}egenstand}|hyperpage}{292}
+\indexentry {Russell, Bertrand|hyperpage}{292}
+\indexentry {The Principles of Mathematics@\emph {The Principles of Mathematics}|hyperpage}{292}
+\indexentry {Church, Alonzo|hyperpage}{292}
+\indexentry {A formulation of the simple theory of types@\emph {A formulation of the simple theory of types}|hyperpage}{292}
+\indexentry {Montague, Richard|hyperpage}{295}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{295}
+\indexentry {Ladusaw, William A.|hyperpage}{313}
+\indexentry {On the Notion \protect \emph {Affective} in the Analysis of Negative-Polarity Items@\emph {On the Notion \emph {Affective} in the Analysis of Negative-Polarity Items}|hyperpage}{313}
+\indexentry {Horn, Laurence R.|hyperpage}{314}
+\indexentry {A Natural History of Negation@\emph {A Natural History of Negation}|hyperpage}{314}
+\indexentry {Montague, Richard|hyperpage}{315}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{315}
+\indexentry {Pustejovsky, James|hyperpage}{321}
+\indexentry {The Generative Lexicon@\emph {The Generative Lexicon}|hyperpage}{321}
+\indexentry {Asher, Nicholas|hyperpage}{321}
+\indexentry {Lexical Meaning in Context@\emph {Lexical Meaning in Context}|hyperpage}{321}
+\indexentry {Montague, Richard|hyperpage}{322}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{322}
+\indexentry {Gallin, Daniel|hyperpage}{322}
+\indexentry {Intensional and Higher-Order Modal Logic@\emph {Intensional and Higher-Order Modal Logic}|hyperpage}{322}
+\indexentry {Kleiber, Georges|hyperpage}{322}
+\indexentry {Probl{\`e}mes de s{\'e}mantique@\emph {Probl{\`e}mes de s{\'e}mantique}|hyperpage}{322}
+\indexentry {Zimmermann, Thomas Ede|hyperpage}{329}
+\indexentry {Intensional {L}ogic and Two-Sorted Type Theory@\emph {Intensional {L}ogic and Two-Sorted Type Theory}|hyperpage}{329}
+\indexentry {Dowty, David R.|hyperpage}{330}
+\indexentry {Wall, Robert E.|hyperpage}{330}
+\indexentry {Peters, Stanley|hyperpage}{330}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{330}
+\indexentry {Chierchia, Gennaro|hyperpage}{330}
+\indexentry {McConnell-Ginet, Sally|hyperpage}{330}
+\indexentry {Meaning and Grammar@\emph {Meaning and Grammar}|hyperpage}{330}
+\indexentry {Partee, Barbara H.|hyperpage}{330}
+\indexentry {ter Meulen, Alice|hyperpage}{330}
+\indexentry {Wall, Robert E.|hyperpage}{330}
+\indexentry {Mathematical Methods in Linguistics@\emph {Mathematical Methods in Linguistics}|hyperpage}{330}
+\indexentry {Gamut, L. T. F.|hyperpage}{330}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{330}
+\indexentry {Cann, Ronnie|hyperpage}{330}
+\indexentry {Formal Semantics@\emph {Formal Semantics}|hyperpage}{330}
+\indexentry {Heim, Irene|hyperpage}{330}
+\indexentry {Kratzer, Angelika|hyperpage}{330}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{330}
+\indexentry {Jacobson, Pauline|hyperpage}{330}
+\indexentry {Compositional Semantics@\emph {Compositional Semantics}|hyperpage}{330}
+\indexentry {Winter, Yoad|hyperpage}{330}
+\indexentry {Elements of Formal Semantics@\emph {Elements of Formal Semantics}|hyperpage}{330}
+\indexentry {Blackburn, Patrick|hyperpage}{331}
+\indexentry {Bos, Johan|hyperpage}{331}
+\indexentry {Representation and Inference for Natural Language@\emph {Representation and Inference for Natural Language}|hyperpage}{331}
+\indexentry {Champollion, Lucas|hyperpage}{331}
+\indexentry {The Lambda Calculator@\emph {The Lambda Calculator}|hyperpage}{331}
+\indexentry {Chomsky, Noam|hyperpage}{333}
+\indexentry {Lectures on Government and Binding@\emph {Lectures on Government and Binding}|hyperpage}{333}
+\indexentry {Chomsky, Noam|hyperpage}{334}
+\indexentry {Remarks on nominalization@\emph {Remarks on nominalization}|hyperpage}{334}
+\indexentry {Jackendoff, Ray|hyperpage}{334}
+\indexentry {{X}-bar-{S}yntax@\emph {{X}-bar-{S}yntax}|hyperpage}{334}
+\indexentry {Montague, Richard|hyperpage}{339}
+\indexentry {Universal Grammar@\emph {Universal Grammar}|hyperpage}{339}
+\indexentry {Montague, Richard|hyperpage}{339}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{339}
+\indexentry {Partee, Barbara H.|hyperpage}{339}
+\indexentry {The Development of Formal Semantics in Linguistic Theory@\emph {The Development of Formal Semantics in Linguistic Theory}|hyperpage}{339}
+\indexentry {Bach, Emmon|hyperpage}{339}
+\indexentry {Tesni\`ere, Lucien|hyperpage}{340}
+\indexentry {\'El\'ements de syntaxe structurale@\emph {\'El\'ements de syntaxe structurale}|hyperpage}{340}
+\indexentry {Bresnan, Joan|hyperpage}{340}
+\indexentry {The mental representation of grammatical relations@\emph {The mental representation of grammatical relations}|hyperpage}{340}
+\indexentry {Pollard, Carl|hyperpage}{340}
+\indexentry {Sag, Ivan|hyperpage}{340}
+\indexentry {Head-driven {P}hrase {S}tructure {G}rammar@\emph {Head-driven {P}hrase {S}tructure {G}rammar}|hyperpage}{340}
+\indexentry {Joshi, Aravind K.|hyperpage}{340}
+\indexentry {Introduction to {T}ree {A}djoining {G}rammar@\emph {Introduction to {T}ree {A}djoining {G}rammar}|hyperpage}{340}
+\indexentry {Morrill, Glyn|hyperpage}{341}
+\indexentry {Logical grammar@\emph {Logical grammar}|hyperpage}{341}
+\indexentry {Gillon, Brendan S.|hyperpage}{346}
+\indexentry {Implicit complements@\emph {Implicit complements}|hyperpage}{346}
+\indexentry {Bourmayan, Anouch|hyperpage}{346}
+\indexentry {Les objets implicites en fran\protect \c {c}ais@\emph {Les objets implicites en fran\c {c}ais}|hyperpage}{346}
+\indexentry {Fodor, Jerry A.|hyperpage}{347}
+\indexentry {Fodor, Janet D.|hyperpage}{347}
+\indexentry {Functional structure, quantifiers and meaning postulates@\emph {Functional structure, quantifiers and meaning postulates}|hyperpage}{347}
+\indexentry {Gillon, Brendan S.|hyperpage}{348}
+\indexentry {Implicit complements@\emph {Implicit complements}|hyperpage}{348}
+\indexentry {Partee, Barbara H.|hyperpage}{348}
+\indexentry {Compositionality@\emph {Compositionality}|hyperpage}{348}
+\indexentry {Dowty, David R.|hyperpage}{348}
+\indexentry {Quantification and the lexicon: {A} reply to {Fodor} and {Fodor}@\emph {Quantification and the lexicon: {A} reply to {Fodor} and {Fodor}}|hyperpage}{348}
+\indexentry {Fillmore, Charles|hyperpage}{349}
+\indexentry {Pragmatically Controlled Zero Anaphora@\emph {Pragmatically Controlled Zero Anaphora}|hyperpage}{349}
+\indexentry {Heim, Irene|hyperpage}{351}
+\indexentry {Kratzer, Angelika|hyperpage}{351}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{351}
+\indexentry {Heim, Irene|hyperpage}{352}
+\indexentry {Kratzer, Angelika|hyperpage}{352}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{352}
+\indexentry {Montague, Richard|hyperpage}{352}
+\indexentry {{E}nglish as a formal language@\emph {{E}nglish as a formal language}|hyperpage}{352}
+\indexentry {Kamp, Hans|hyperpage}{352}
+\indexentry {Two theories about adjectives@\emph {Two theories about adjectives}|hyperpage}{352}
+\indexentry {Montague, Richard|hyperpage}{357}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{357}
+\indexentry {Montague, Richard|hyperpage}{358}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{358}
+\indexentry {Montague, Richard|hyperpage}{360}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{360}
+\indexentry {Montague, Richard|hyperpage}{366}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{366}
+\indexentry {Heim, Irene|hyperpage}{366}
+\indexentry {Kratzer, Angelika|hyperpage}{366}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{366}
+\indexentry {Montague, Richard|hyperpage}{366}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{366}
+\indexentry {Montague, Richard|hyperpage}{368}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{368}
+\indexentry {Montague, Richard|hyperpage}{368}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{368}
+\indexentry {Montague, Richard|hyperpage}{368}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{368}
+\indexentry {Montague, Richard|hyperpage}{368}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{368}
+\indexentry {Gamut, L. T. F.|hyperpage}{368}
+\indexentry {Intensional Logic and Logical Grammar@\emph {Intensional Logic and Logical Grammar}|hyperpage}{368}
+\indexentry {Montague, Richard|hyperpage}{370}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{370}
+\indexentry {Montague, Richard|hyperpage}{371}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{371}
+\indexentry {May, Robert|hyperpage}{372}
+\indexentry {The Grammar of Quantification@\emph {The Grammar of Quantification}|hyperpage}{372}
+\indexentry {Montague, Richard|hyperpage}{375}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{375}
+\indexentry {Heim, Irene|hyperpage}{377}
+\indexentry {Kratzer, Angelika|hyperpage}{377}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{377}
+\indexentry {Montague, Richard|hyperpage}{379}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{379}
+\indexentry {Partee, Barbara H.|hyperpage}{379}
+\indexentry {Montague grammar and transformational grammar@\emph {Montague grammar and transformational grammar}|hyperpage}{379}
+\indexentry {Rodman, Robert|hyperpage}{379}
+\indexentry {Scope phenomena, ``movement transformations,'' and relative clauses@\emph {Scope phenomena, ``movement transformations,'' and relative clauses}|hyperpage}{379}
+\indexentry {Heim, Irene|hyperpage}{379}
+\indexentry {Kratzer, Angelika|hyperpage}{379}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{379}
+\indexentry {Heim, Irene|hyperpage}{379}
+\indexentry {Kratzer, Angelika|hyperpage}{379}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{379}
+\indexentry {Heim, Irene|hyperpage}{380}
+\indexentry {Kratzer, Angelika|hyperpage}{380}
+\indexentry {Semantics in Generative Grammar@\emph {Semantics in Generative Grammar}|hyperpage}{380}
+\indexentry {Heim, Irene|hyperpage}{380}
+\indexentry {Kratzer, Angelika|hyperpage}{380}
+\indexentry {Cooper, Robin|hyperpage}{383}
+\indexentry {Montague's Semantic Theory and Transformational Syntax@\emph {Montague's Semantic Theory and Transformational Syntax}|hyperpage}{383}
+\indexentry {Cooper, Robin|hyperpage}{383}
+\indexentry {Quantification and Syntactic Theory@\emph {Quantification and Syntactic Theory}|hyperpage}{383}
+\indexentry {Barwise, Jon|hyperpage}{384}
+\indexentry {Cooper, Robin|hyperpage}{384}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{384}
+\indexentry {Keenan, Edward L.|hyperpage}{384}
+\indexentry {Stavi, Jonathan|hyperpage}{384}
+\indexentry {A Semantic Characterization of Natural Language Determiners@\emph {A Semantic Characterization of Natural Language Determiners}|hyperpage}{384}
+\indexentry {Westerst{\aa }hl, Dag|hyperpage}{388}
+\indexentry {Logical constants in quantifier languages@\emph {Logical constants in quantifier languages}|hyperpage}{388}
+\indexentry {Keenan, Edward L.|hyperpage}{388}
+\indexentry {Stavi, Jonathan|hyperpage}{388}
+\indexentry {A Semantic Characterization of Natural Language Determiners@\emph {A Semantic Characterization of Natural Language Determiners}|hyperpage}{388}
+\indexentry {Barwise, Jon|hyperpage}{390}
+\indexentry {Cooper, Robin|hyperpage}{390}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{390}
+\indexentry {Keenan, Edward L.|hyperpage}{390}
+\indexentry {Stavi, Jonathan|hyperpage}{390}
+\indexentry {A Semantic Characterization of Natural Language Determiners@\emph {A Semantic Characterization of Natural Language Determiners}|hyperpage}{390}
+\indexentry {Westerst{\aa }hl, Dag|hyperpage}{390}
+\indexentry {Quantifiers in formal and natural languages@\emph {Quantifiers in formal and natural languages}|hyperpage}{390}
+\indexentry {Partee, Barbara H.|hyperpage}{390}
+\indexentry {ter Meulen, Alice|hyperpage}{390}
+\indexentry {Wall, Robert E.|hyperpage}{390}
+\indexentry {Mathematical Methods in Linguistics@\emph {Mathematical Methods in Linguistics}|hyperpage}{390}
+\indexentry {Barwise, Jon|hyperpage}{391}
+\indexentry {Cooper, Robin|hyperpage}{391}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{391}
+\indexentry {Barwise, Jon|hyperpage}{393}
+\indexentry {Cooper, Robin|hyperpage}{393}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{393}
+\indexentry {Partee, Barbara H.|hyperpage}{395}
+\indexentry {Rooth, Mats|hyperpage}{395}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{395}
+\indexentry {Partee, Barbara H.|hyperpage}{395}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{395}
+\indexentry {Gazdar, Gerald|hyperpage}{397}
+\indexentry {A cross-categorial semantics for coordination@\emph {A cross-categorial semantics for coordination}|hyperpage}{397}
+\indexentry {Partee, Barbara H.|hyperpage}{397}
+\indexentry {Rooth, Mats|hyperpage}{397}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{397}
+\indexentry {Partee, Barbara H.|hyperpage}{398}
+\indexentry {Rooth, Mats|hyperpage}{398}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{398}
+\indexentry {Partee, Barbara H.|hyperpage}{399}
+\indexentry {Rooth, Mats|hyperpage}{399}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{399}
+\indexentry {Montague, Richard|hyperpage}{401}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{401}
+\indexentry {Montague, Richard|hyperpage}{402}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{402}
+\indexentry {Montague, Richard|hyperpage}{402}
+\indexentry {Dowty, David R.|hyperpage}{402}
+\indexentry {Wall, Robert E.|hyperpage}{402}
+\indexentry {Peters, Stanley|hyperpage}{402}
+\indexentry {Introduction to {Montague} Semantics@\emph {Introduction to {Montague} Semantics}|hyperpage}{402}
+\indexentry {Montague, Richard|hyperpage}{402}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{402}
+\indexentry {Montague, Richard|hyperpage}{404}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{404}
+\indexentry {Partee, Barbara H.|hyperpage}{406}
+\indexentry {Rooth, Mats|hyperpage}{406}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{406}
+\indexentry {Partee, Barbara H.|hyperpage}{406}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{406}
+\indexentry {Partee, Barbara H.|hyperpage}{408}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{408}
+\indexentry {Montague, Richard|hyperpage}{408}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{408}
+\indexentry {Dobrovie-Sorin, Carmen|hyperpage}{408}
+\indexentry {Beyssade, Claire|hyperpage}{408}
+\indexentry {D{\'e}finir les ind{\'e}finis@\emph {D{\'e}finir les ind{\'e}finis}|hyperpage}{408}
+\indexentry {McNally, Louise|hyperpage}{409}
+\indexentry {An Interpretation for the {E}nglish Existential Construction@\emph {An Interpretation for the {E}nglish Existential Construction}|hyperpage}{409}
+\indexentry {McNally, Louise|hyperpage}{409}
+\indexentry {Existential Sentences without Existential Quantification@\emph {Existential Sentences without Existential Quantification}|hyperpage}{409}
+\indexentry {Milsark, Gary|hyperpage}{409}
+\indexentry {Toward an explanation of certain peculiarities of the existential construction in {E}nglish@\emph {Toward an explanation of certain peculiarities of the existential construction in {E}nglish}|hyperpage}{409}
+\indexentry {Partee, Barbara H.|hyperpage}{409}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{409}
+\indexentry {Barwise, Jon|hyperpage}{409}
+\indexentry {Cooper, Robin|hyperpage}{409}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{409}
+\indexentry {Reinhart, Tanya|hyperpage}{411}
+\indexentry {Quantifier-Scope: {H}ow labor is divided between {QR} and choice functions@\emph {Quantifier-Scope: {H}ow labor is divided between {QR} and choice functions}|hyperpage}{411}
+\indexentry {Winter, Yoad|hyperpage}{411}
+\indexentry {Choice functions and the scopal semantics of indefinites@\emph {Choice functions and the scopal semantics of indefinites}|hyperpage}{411}
+\indexentry {Zermelo, Ernst|hyperpage}{412}
+\indexentry {Hilbert, David|hyperpage}{412}
+\indexentry {von Heusinger, Klaus|hyperpage}{412}
+\indexentry {The reference of indefinites@\emph {The reference of indefinites}|hyperpage}{412}
+\indexentry {Winter, Yoad|hyperpage}{412}
+\indexentry {Choice functions and the scopal semantics of indefinites@\emph {Choice functions and the scopal semantics of indefinites}|hyperpage}{412}
+\indexentry {Partee, Barbara H.|hyperpage}{414}
+\indexentry {Hendriks, Herman|hyperpage}{415}
+\indexentry {Studied Flexibility@\emph {Studied Flexibility}|hyperpage}{415}
+\indexentry {Pustejovsky, James|hyperpage}{416}
+\indexentry {The Generative Lexicon@\emph {The Generative Lexicon}|hyperpage}{416}
+\indexentry {Asher, Nicholas|hyperpage}{416}
+\indexentry {Lexical Meaning in Context@\emph {Lexical Meaning in Context}|hyperpage}{416}
+\indexentry {de Swart, Henri{\"e}tte|hyperpage}{416}
+\indexentry {Mismatches and coercion@\emph {Mismatches and coercion}|hyperpage}{416}
+\indexentry {Heim, Irene|hyperpage}{450}
+\indexentry {Presuppositions projection and the semantics of attitude verbs@\emph {Presuppositions projection and the semantics of attitude verbs}|hyperpage}{450}
+\indexentry {Grice, H. P.|hyperpage}{474}
+\indexentry {Logic and Conversation@\emph {Logic and Conversation}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Scorekeeping in a Language Game@\emph {Scorekeeping in a Language Game}|hyperpage}{474}
+\indexentry {Stalnaker, Robert C.|hyperpage}{474}
+\indexentry {Pragmatic presuppositions@\emph {Pragmatic presuppositions}|hyperpage}{474}
+\indexentry {Davis, Steven|hyperpage}{474}
+\indexentry {Pragmatics: {A} Reader@\emph {Pragmatics: {A} Reader}|hyperpage}{474}
+\indexentry {Barwise, Jon|hyperpage}{474}
+\indexentry {Cooper, Robin|hyperpage}{474}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{474}
+\indexentry {Heim, Irene|hyperpage}{474}
+\indexentry {File Change Semantics and the Familiarity Theory of Definiteness@\emph {File Change Semantics and the Familiarity Theory of Definiteness}|hyperpage}{474}
+\indexentry {Ladusaw, William A.|hyperpage}{474}
+\indexentry {On the Notion \protect \emph {Affective} in the Analysis of Negative-Polarity Items@\emph {On the Notion \emph {Affective} in the Analysis of Negative-Polarity Items}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Adverbs of Quantification@\emph {Adverbs of Quantification}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Scorekeeping in a Language Game@\emph {Scorekeeping in a Language Game}|hyperpage}{474}
+\indexentry {Montague, Richard|hyperpage}{474}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Rooth, Mats|hyperpage}{474}
+\indexentry {Generalized conjunction and type ambiguity@\emph {Generalized conjunction and type ambiguity}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{474}
+\indexentry {Portner, Paul|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Formal Semantics: {T}he Essential Readings@\emph {Formal Semantics: {T}he Essential Readings}|hyperpage}{474}
+\indexentry {Barwise, Jon|hyperpage}{474}
+\indexentry {Cooper, Robin|hyperpage}{474}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{474}
+\indexentry {Farkas, Donka F.|hyperpage}{474}
+\indexentry {Quantifier scope and syntactic islands@\emph {Quantifier scope and syntactic islands}|hyperpage}{474}
+\indexentry {Fodor, Janet D.|hyperpage}{474}
+\indexentry {Sag, Ivan|hyperpage}{474}
+\indexentry {Referential and quantificational indefinites@\emph {Referential and quantificational indefinites}|hyperpage}{474}
+\indexentry {Heim, Irene|hyperpage}{474}
+\indexentry {File Change Semantics and the Familiarity Theory of Definiteness@\emph {File Change Semantics and the Familiarity Theory of Definiteness}|hyperpage}{474}
+\indexentry {Kamp, Hans|hyperpage}{474}
+\indexentry {Two theories about adjectives@\emph {Two theories about adjectives}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {General Semantics@\emph {General Semantics}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Adverbs of Quantification@\emph {Adverbs of Quantification}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Scorekeeping in a Language Game@\emph {Scorekeeping in a Language Game}|hyperpage}{474}
+\indexentry {Milsark, Gary|hyperpage}{474}
+\indexentry {Toward an explanation of certain peculiarities of the existential construction in {E}nglish@\emph {Toward an explanation of certain peculiarities of the existential construction in {E}nglish}|hyperpage}{474}
+\indexentry {Montague, Richard|hyperpage}{474}
+\indexentry {Universal Grammar@\emph {Universal Grammar}|hyperpage}{474}
+\indexentry {Montague, Richard|hyperpage}{474}
+\indexentry {The Proper Treatment of Quantification in Ordinary {E}nglish@\emph {The Proper Treatment of Quantification in Ordinary {E}nglish}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{474}
+\indexentry {Russell, Bertrand|hyperpage}{474}
+\indexentry {On denoting@\emph {On denoting}|hyperpage}{474}
+\indexentry {Strawson, Peter F.|hyperpage}{474}
+\indexentry {On referring@\emph {On referring}|hyperpage}{474}
+\indexentry {Guti\'errez-Rexach, Javier|hyperpage}{474}
+\indexentry {Barwise, Jon|hyperpage}{474}
+\indexentry {Cooper, Robin|hyperpage}{474}
+\indexentry {Generalized quantifiers and natural language@\emph {Generalized quantifiers and natural language}|hyperpage}{474}
+\indexentry {Gazdar, Gerald|hyperpage}{474}
+\indexentry {A cross-categorial semantics for coordination@\emph {A cross-categorial semantics for coordination}|hyperpage}{474}
+\indexentry {Groenendijk, Jeroen|hyperpage}{474}
+\indexentry {Stokhof, Martin|hyperpage}{474}
+\indexentry {Dynamic Predicate Logic@\emph {Dynamic Predicate Logic}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {General Semantics@\emph {General Semantics}|hyperpage}{474}
+\indexentry {Lewis, David|hyperpage}{474}
+\indexentry {Adverbs of Quantification@\emph {Adverbs of Quantification}|hyperpage}{474}
+\indexentry {Kamp, Hans|hyperpage}{474}
+\indexentry {Two theories about adjectives@\emph {Two theories about adjectives}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Some structural analogies between tenses and pronouns in {E}nglish@\emph {Some structural analogies between tenses and pronouns in {E}nglish}|hyperpage}{474}
+\indexentry {Davis, Steven|hyperpage}{474}
+\indexentry {Gillon, Brendan S.|hyperpage}{474}
+\indexentry {Semantics: {A} Reader@\emph {Semantics: {A} Reader}|hyperpage}{474}
+\indexentry {Montague, Richard|hyperpage}{474}
+\indexentry {Formal Philosophy@\emph {Formal Philosophy}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Some structural analogies between tenses and pronouns in {E}nglish@\emph {Some structural analogies between tenses and pronouns in {E}nglish}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Compositionality@\emph {Compositionality}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Noun phrase interpretation and type-shifting principle@\emph {Noun phrase interpretation and type-shifting principle}|hyperpage}{474}
+\indexentry {Partee, Barbara H.|hyperpage}{474}
+\indexentry {Compositionality in formal semantics@\emph {Compositionality in formal semantics}|hyperpage}{474}

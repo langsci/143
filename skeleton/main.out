@@ -1,0 +1,193 @@
+\BOOKMARK [0][-]{name.0}{Table des matières}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Avant-propos}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{Symboles et abréviations}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Sens des phrases et sens des énoncés}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Objets de l'étude}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.1}{Qu'est-ce\040que\040le\040sens\040?}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.2}{Phrases, énoncés et contextes}{section.1.1}% 7
+\BOOKMARK [1][-]{section.1.2}{La compréhension comme inférence}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.2.1}{La conséquence logique}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.2}{Les équivalences}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.3}{Les\040contradictions\040et\040les\040anomalies}{section.1.2}% 11
+\BOOKMARK [3][-]{subsubsection.1.2.3.1}{Contradictions}{subsection.1.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.1.2.3.2}{Tautologies}{subsection.1.2.3}% 13
+\BOOKMARK [3][-]{subsubsection.1.2.3.3}{Absurdités et anomalies sémantiques}{subsection.1.2.3}% 14
+\BOOKMARK [2][-]{subsection.1.2.4}{Les ambiguïtés}{section.1.2}% 15
+\BOOKMARK [1][-]{section.1.3}{Dire\040et\040vouloir\040dire}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.3.1}{Projections et présuppositions}{section.1.3}% 17
+\BOOKMARK [3][-]{subsubsection.1.3.1.1}{Contenus\040projectifs\040vs\040contenus\040en\040jeu}{subsection.1.3.1}% 18
+\BOOKMARK [3][-]{subsubsection.1.3.1.2}{Présuppositions sémantiques et pragmatiques}{subsection.1.3.1}% 19
+\BOOKMARK [3][-]{subsubsection.1.3.1.3}{Propriétés des présuppositions}{subsection.1.3.1}% 20
+\BOOKMARK [3][-]{subsubsection.1.3.1.4}{Présuppositions vs implicatures conventionnelles}{subsection.1.3.1}% 21
+\BOOKMARK [2][-]{subsection.1.3.2}{Les\040implicatures\040conversationnelles}{section.1.3}% 22
+\BOOKMARK [3][-]{subsubsection.1.3.2.1}{Suppléments de sens}{subsection.1.3.2}% 23
+\BOOKMARK [3][-]{subsubsection.1.3.2.2}{Les\040implicatures\040et\040principes\040conversationnels}{subsection.1.3.2}% 24
+\BOOKMARK [3][-]{subsubsection.1.3.2.3}{Calcul\040des\040implicatures}{subsection.1.3.2}% 25
+\BOOKMARK [3][-]{subsubsection.1.3.2.4}{Rapide\040retour\040sur\040les\040implicatures\040conventionnelles}{subsection.1.3.2}% 26
+\BOOKMARK [2][-]{subsection.1.3.3}{Les\040actes\040de\040langage}{section.1.3}% 27
+\BOOKMARK [1][-]{section.1.4}{Conclusion}{chapter.1}% 28
+\BOOKMARK [0][-]{chapter.2}{Sémantique vériconditionnelle et calcul des prédicats}{}% 29
+\BOOKMARK [1][-]{section.2.1}{Introduction à la sémantique vériconditionnelle}{chapter.2}% 30
+\BOOKMARK [2][-]{subsection.2.1.1}{Sens, dénotation et référence}{section.2.1}% 31
+\BOOKMARK [2][-]{subsection.2.1.2}{Sens et conditions de vérité}{section.2.1}% 32
+\BOOKMARK [2][-]{subsection.2.1.3}{La compositionnalité}{section.2.1}% 33
+\BOOKMARK [2][-]{subsection.2.1.4}{Analyse sémantique formelle}{section.2.1}% 34
+\BOOKMARK [1][-]{section.2.2}{Le langage du calcul des prédicats}{chapter.2}% 35
+\BOOKMARK [2][-]{subsection.2.2.1}{Les éléments du langage formel}{section.2.2}% 36
+\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Prédicats}{subsection.2.2.1}% 37
+\BOOKMARK [3][-]{subsubsection.2.2.1.2}{Constantes\040d'individus}{subsection.2.2.1}% 38
+\BOOKMARK [3][-]{subsubsection.2.2.1.3}{Connecteurs\040logiques}{subsection.2.2.1}% 39
+\BOOKMARK [3][-]{subsubsection.2.2.1.4}{Variables\040et\040quantificateurs}{subsection.2.2.1}% 40
+\BOOKMARK [2][-]{subsection.2.2.2}{La\040syntaxe\040du\040langage\040formel}{section.2.2}% 41
+\BOOKMARK [1][-]{section.2.3}{Interprétation dans le calcul des prédicats}{chapter.2}% 42
+\BOOKMARK [2][-]{subsection.2.3.1}{Sémantique informelle}{section.2.3}% 43
+\BOOKMARK [2][-]{subsection.2.3.2}{Les modèles}{section.2.3}% 44
+\BOOKMARK [2][-]{subsection.2.3.3}{Les règles sémantiques}{section.2.3}% 45
+\BOOKMARK [1][-]{section.2.4}{Un\040peu\040de\040logique}{chapter.2}% 46
+\BOOKMARK [2][-]{subsection.2.4.1}{Tables de vérité}{section.2.4}% 47
+\BOOKMARK [2][-]{subsection.2.4.2}{Disjonctions\040inclusive\040et\040exclusive}{section.2.4}% 48
+\BOOKMARK [2][-]{subsection.2.4.3}{Implication matérielle}{section.2.4}% 49
+\BOOKMARK [2][-]{subsection.2.4.4}{La\040quantification}{section.2.4}% 50
+\BOOKMARK [2][-]{subsection.2.4.5}{Quelques définitions logiques}{section.2.4}% 51
+\BOOKMARK [1][-]{section.2.5}{Conclusion}{chapter.2}% 52
+\BOOKMARK [0][-]{chapter.3}{Groupes\040nominaux\040et\040quantification}{}% 53
+\BOOKMARK [1][-]{section.3.1}{Sémantique de la quantification}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.1.1}{Variables\040et\040pronoms}{section.3.1}% 55
+\BOOKMARK [2][-]{subsection.3.1.2}{Interprétation des formules quantifiées}{section.3.1}% 56
+\BOOKMARK [2][-]{subsection.3.1.3}{Synthèse}{section.3.1}% 57
+\BOOKMARK [2][-]{subsection.3.1.4}{Sur\040le\040statut\040des\040fonctions\040d'assignation}{section.3.1}% 58
+\BOOKMARK [2][-]{subsection.3.1.5}{Restriction\040du\040domaine\040de\040quantification}{section.3.1}% 59
+\BOOKMARK [1][-]{section.3.2}{Groupes nominaux et portées}{chapter.3}% 60
+\BOOKMARK [2][-]{subsection.3.2.1}{La notion de portée dans la langue}{section.3.2}% 61
+\BOOKMARK [3][-]{subsubsection.3.2.1.1}{Portées des GN et covariation}{subsection.3.2.1}% 62
+\BOOKMARK [3][-]{subsubsection.3.2.1.2}{Portée large et portée étroite}{subsection.3.2.1}% 63
+\BOOKMARK [3][-]{subsubsection.3.2.1.3}{Limite de portée}{subsection.3.2.1}% 64
+\BOOKMARK [2][-]{subsection.3.2.2}{Spécifique vs non spécifique}{section.3.2}% 65
+\BOOKMARK [2][-]{subsection.3.2.3}{Générique vs non générique}{section.3.2}% 66
+\BOOKMARK [1][-]{section.3.3}{Catégories de groupes nominaux}{chapter.3}% 67
+\BOOKMARK [2][-]{subsection.3.3.1}{Critères logico-sémantiques}{section.3.3}% 68
+\BOOKMARK [3][-]{subsubsection.3.3.1.1}{Effets de portée}{subsection.3.3.1}% 69
+\BOOKMARK [3][-]{subsubsection.3.3.1.2}{Tests de consistance et de complétude}{subsection.3.3.1}% 70
+\BOOKMARK [2][-]{subsection.3.3.2}{Critères syntactico-sémantiques}{section.3.3}% 71
+\BOOKMARK [3][-]{subsubsection.3.3.2.1}{Dislocation à droite}{subsection.3.3.2}% 72
+\BOOKMARK [3][-]{subsubsection.3.3.2.2}{Déterminants forts vs déterminants faibles}{subsection.3.3.2}% 73
+\BOOKMARK [2][-]{subsection.3.3.3}{Synthèse}{section.3.3}% 74
+\BOOKMARK [2][-]{subsection.3.3.4}{Les descriptions définies}{section.3.3}% 75
+\BOOKMARK [3][-]{subsubsection.3.3.4.1}{Existence et unicité}{subsection.3.3.4}% 76
+\BOOKMARK [3][-]{subsubsection.3.3.4.2}{Définis et présupposition}{subsection.3.3.4}% 77
+\BOOKMARK [3][-]{subsubsection.3.3.4.3}{Familiarité}{subsection.3.3.4}% 78
+\BOOKMARK [3][-]{subsubsection.3.3.4.4}{Les définis dépendants}{subsection.3.3.4}% 79
+\BOOKMARK [0][-]{chapter.4}{Sémantique intensionnelle}{}% 80
+\BOOKMARK [1][-]{section.4.1}{Les limites de la sémantique extensionnelle}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.1.1}{Lectures\040de\040re\040vs\040de\040dicto}{section.4.1}% 82
+\BOOKMARK [2][-]{subsection.4.1.2}{Modifieurs\040non\040extensionnels}{section.4.1}% 83
+\BOOKMARK [2][-]{subsection.4.1.3}{Temporalité et modalités}{section.4.1}% 84
+\BOOKMARK [2][-]{subsection.4.1.4}{Conclusion : en route vers l'intensionnalité}{section.4.1}% 85
+\BOOKMARK [1][-]{section.4.2}{Une sémantique temporelle intensionnelle}{chapter.4}% 86
+\BOOKMARK [2][-]{subsection.4.2.1}{Modèle temporel}{section.4.2}% 87
+\BOOKMARK [2][-]{subsection.4.2.2}{Opérateurs temporels}{section.4.2}% 88
+\BOOKMARK [3][-]{subsubsection.4.2.2.1}{Syntaxe}{subsection.4.2.2}% 89
+\BOOKMARK [3][-]{subsubsection.4.2.2.2}{Sémantique}{subsection.4.2.2}% 90
+\BOOKMARK [3][-]{subsubsection.4.2.2.3}{Combinaisons d'opérateurs}{subsection.4.2.2}% 91
+\BOOKMARK [2][-]{subsection.4.2.3}{Problèmes}{section.4.2}% 92
+\BOOKMARK [1][-]{section.4.3}{Modalités et mondes possibles}{chapter.4}% 93
+\BOOKMARK [2][-]{subsection.4.3.1}{Savoir\040et\040ignorer}{section.4.3}% 94
+\BOOKMARK [2][-]{subsection.4.3.2}{Possible et nécessaire}{section.4.3}% 95
+\BOOKMARK [2][-]{subsection.4.3.3}{Formalisation de la modalité}{section.4.3}% 96
+\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Mondes\040possibles}{subsection.4.3.3}% 97
+\BOOKMARK [3][-]{subsubsection.4.3.3.2}{Syntaxe de la modalité}{subsection.4.3.3}% 98
+\BOOKMARK [3][-]{subsubsection.4.3.3.3}{Sémantique de la modalité}{subsection.4.3.3}% 99
+\BOOKMARK [3][-]{subsubsection.4.3.3.4}{Modèle de Kripke}{subsection.4.3.3}% 100
+\BOOKMARK [3][-]{subsubsection.4.3.3.5}{Retour\040vers\040le\040futur}{subsection.4.3.3}% 101
+\BOOKMARK [1][-]{section.4.4}{Intension\040et\040extension}{chapter.4}% 102
+\BOOKMARK [2][-]{subsection.4.4.1}{Sens\040et\040mondes}{section.4.4}% 103
+\BOOKMARK [2][-]{subsection.4.4.2}{Simplifications\040et\040interlude\040graphique}{section.4.4}% 104
+\BOOKMARK [2][-]{subsection.4.4.3}{Expression\040des\040intensions\040dans\040le\040langage}{section.4.4}% 105
+\BOOKMARK [3][-]{subsubsection.4.4.3.1}{Le problème des complétives}{subsection.4.4.3}% 106
+\BOOKMARK [3][-]{subsubsection.4.4.3.2}{Dénotation indirecte :  et }{subsection.4.4.3}% 107
+\BOOKMARK [3][-]{subsubsection.4.4.3.3}{Retour\040aux\040lectures\040de\040re\040et\040de\040dicto}{subsection.4.4.3}% 108
+\BOOKMARK [1][-]{section.4.5}{Récapitulatif et conclusions}{chapter.4}% 109
+\BOOKMARK [2][-]{subsection.4.5.1}{LO\040intensionnel}{section.4.5}% 110
+\BOOKMARK [2][-]{subsection.4.5.2}{Validités et conséquence logique}{section.4.5}% 111
+\BOOKMARK [2][-]{subsection.4.5.3}{Postulats\040de\040signification}{section.4.5}% 112
+\BOOKMARK [2][-]{subsection.4.5.4}{Sens, propositions et conditions de vérité}{section.4.5}% 113
+\BOOKMARK [0][-]{chapter.5}{λ-calcul et théorie des types}{}% 114
+\BOOKMARK [1][-]{section.5.1}{Tout\040est\040fonction\040\(ou\040presque\)}{chapter.5}% 115
+\BOOKMARK [2][-]{subsection.5.1.1}{Des\040trous\040dans\040les\040formules}{section.5.1}% 116
+\BOOKMARK [2][-]{subsection.5.1.2}{Sémantique fonctionnelle des prédicats}{section.5.1}% 117
+\BOOKMARK [3][-]{subsubsection.5.1.2.1}{Prédicats unaires}{subsection.5.1.2}% 118
+\BOOKMARK [3][-]{subsubsection.5.1.2.2}{Prédicats binaires et n-aires}{subsection.5.1.2}% 119
+\BOOKMARK [1][-]{section.5.2}{Principes de base du λ-calcul}{chapter.5}% 120
+\BOOKMARK [2][-]{subsection.5.2.1}{La λ-abstraction}{section.5.2}% 121
+\BOOKMARK [3][-]{subsubsection.5.2.1.1}{Syntaxe de la λ-abstraction}{subsection.5.2.1}% 122
+\BOOKMARK [3][-]{subsubsection.5.2.1.2}{Sémantique de la λ-abstraction}{subsection.5.2.1}% 123
+\BOOKMARK [2][-]{subsection.5.2.2}{L'application\040fonctionnelle}{section.5.2}% 124
+\BOOKMARK [3][-]{subsubsection.5.2.2.1}{Syntaxe\040de\040l'application\040fonctionnelle\040dans\040LO}{subsection.5.2.2}% 125
+\BOOKMARK [3][-]{subsubsection.5.2.2.2}{Interprétation de l'application fonctionnelle}{subsection.5.2.2}% 126
+\BOOKMARK [3][-]{subsubsection.5.2.2.3}{La\040colle\040universelle}{subsection.5.2.2}% 127
+\BOOKMARK [2][-]{subsection.5.2.3}{La β-réduction}{section.5.2}% 128
+\BOOKMARK [2][-]{subsection.5.2.4}{Une variété de variables}{section.5.2}% 129
+\BOOKMARK [1][-]{section.5.3}{Langage objet typé}{chapter.5}% 130
+\BOOKMARK [2][-]{subsection.5.3.1}{Les\040types}{section.5.3}% 131
+\BOOKMARK [3][-]{subsubsection.5.3.1.1}{Une infinité de catégories}{subsection.5.3.1}% 132
+\BOOKMARK [3][-]{subsubsection.5.3.1.2}{Rencontre du troisième type}{subsection.5.3.1}% 133
+\BOOKMARK [2][-]{subsection.5.3.2}{Syntaxe de LO typé}{section.5.3}% 134
+\BOOKMARK [3][-]{subsubsection.5.3.2.1}{Syntaxe réglée par les types}{subsection.5.3.2}% 135
+\BOOKMARK [3][-]{subsubsection.5.3.2.2}{Exemples}{subsection.5.3.2}% 136
+\BOOKMARK [2][-]{subsection.5.3.3}{Sémantique de LO typé}{section.5.3}% 137
+\BOOKMARK [3][-]{subsubsection.5.3.3.1}{Calcul de toute sorte de dénotations}{subsection.5.3.3}% 138
+\BOOKMARK [3][-]{subsubsection.5.3.3.2}{Entraînement à la lecture des -termes}{subsection.5.3.3}% 139
+\BOOKMARK [3][-]{subsubsection.5.3.3.3}{Les λ-conversions}{subsection.5.3.3}% 140
+\BOOKMARK [3][-]{subsubsection.5.3.3.4}{Conséquence logique et monotonie}{subsection.5.3.3}% 141
+\BOOKMARK [2][-]{subsection.5.3.4}{Applications}{section.5.3}% 142
+\BOOKMARK [3][-]{subsubsection.5.3.4.1}{Une version plus «catégorique»}{subsection.5.3.4}% 143
+\BOOKMARK [3][-]{subsubsection.5.3.4.2}{Lecture de re des expressions référentielles}{subsection.5.3.4}% 144
+\BOOKMARK [3][-]{subsubsection.5.3.4.3}{Types et domaines de définition des fonctions}{subsection.5.3.4}% 145
+\BOOKMARK [1][-]{section.5.4}{Ty2\040et\040LO2}{chapter.5}% 146
+\BOOKMARK [2][-]{subsection.5.4.1}{Extensionnaliser l'intensionnalité}{section.5.4}% 147
+\BOOKMARK [2][-]{subsection.5.4.2}{Définition de LO2}{section.5.4}% 148
+\BOOKMARK [2][-]{subsection.5.4.3}{De LO à LO2}{section.5.4}% 149
+\BOOKMARK [0][-]{chapter.6}{Interface syntaxe-sémantique}{}% 150
+\BOOKMARK [1][-]{section.6.1}{Boîte à outils de l'interface syntaxe-sémantique}{chapter.6}% 151
+\BOOKMARK [2][-]{subsection.6.1.1}{Quelques hypothèses et notations syntaxiques}{section.6.1}% 152
+\BOOKMARK [2][-]{subsection.6.1.2}{Des\040arbres\040aux\040formules}{section.6.1}% 153
+\BOOKMARK [1][-]{section.6.2}{Compositions sémantiques}{chapter.6}% 154
+\BOOKMARK [2][-]{subsection.6.2.1}{Usages\040de\040l'application\040fonctionnelle}{section.6.2}% 155
+\BOOKMARK [3][-]{subsubsection.6.2.1.1}{Le\040verbe\040et\040ses\040arguments}{subsection.6.2.1}% 156
+\BOOKMARK [3][-]{subsubsection.6.2.1.2}{Le\(s\) verbe\(s\) être}{subsection.6.2.1}% 157
+\BOOKMARK [3][-]{subsubsection.6.2.1.3}{La négation}{subsection.6.2.1}% 158
+\BOOKMARK [2][-]{subsection.6.2.2}{Les\040arguments\040implicites}{section.6.2}% 159
+\BOOKMARK [2][-]{subsection.6.2.3}{Le problème des modifieurs}{section.6.2}% 160
+\BOOKMARK [2][-]{subsection.6.2.4}{L'application\040fonctionnelle\040intensionnelle}{section.6.2}% 161
+\BOOKMARK [1][-]{section.6.3}{Groupes nominaux et déterminants}{chapter.6}% 162
+\BOOKMARK [2][-]{subsection.6.3.1}{Une analyse générale des groupes nominaux}{section.6.3}% 163
+\BOOKMARK [2][-]{subsection.6.3.2}{Les déterminants}{section.6.3}% 164
+\BOOKMARK [2][-]{subsection.6.3.3}{Verbes\040transitifs}{section.6.3}% 165
+\BOOKMARK [1][-]{section.6.4}{Vers un traitement approprié de la quantification}{chapter.6}% 166
+\BOOKMARK [2][-]{subsection.6.4.1}{Le\040quantifying-in}{section.6.4}% 167
+\BOOKMARK [2][-]{subsection.6.4.2}{Forme logique et montée des quantificateurs}{section.6.4}% 168
+\BOOKMARK [2][-]{subsection.6.4.3}{Retour à une possible simplification}{section.6.4}% 169
+\BOOKMARK [2][-]{subsection.6.4.4}{D'autres\040mouvements}{section.6.4}% 170
+\BOOKMARK [2][-]{subsection.6.4.5}{Variantes\040et\040alternatives}{section.6.4}% 171
+\BOOKMARK [1][-]{section.6.5}{Quantificateurs généralisés et structures tripartites}{chapter.6}% 172
+\BOOKMARK [2][-]{subsection.6.5.1}{L'avènement des déterminants dans LO}{section.6.5}% 173
+\BOOKMARK [2][-]{subsection.6.5.2}{Propriétés des déterminants}{section.6.5}% 174
+\BOOKMARK [1][-]{section.6.6}{Flexibilité et changements de types}{chapter.6}% 175
+\BOOKMARK [2][-]{subsection.6.6.1}{Coordination et connecteurs généralisés}{section.6.6}% 176
+\BOOKMARK [2][-]{subsection.6.6.2}{Verbes\040transitifs\040intensionnels}{section.6.6}% 177
+\BOOKMARK [2][-]{subsection.6.6.3}{Type-shifting}{section.6.6}% 178
+\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Formalisation}{subsection.6.6.3}% 179
+\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Les\040types\040des\040DP}{subsection.6.6.3}% 180
+\BOOKMARK [3][-]{subsubsection.6.6.3.3}{Les\040changements\040de\040type\040des\040DP}{subsection.6.6.3}% 181
+\BOOKMARK [1][-]{section.6.7}{Conclusion}{chapter.6}% 182
+\BOOKMARK [0][-]{appendix.A}{Corrections\040des\040exercices}{}% 183
+\BOOKMARK [1][-]{section.A.1}{Chapitre\0401}{appendix.A}% 184
+\BOOKMARK [1][-]{section.A.2}{Chapitre\0402}{appendix.A}% 185
+\BOOKMARK [1][-]{section.A.3}{Chapitre\0403}{appendix.A}% 186
+\BOOKMARK [1][-]{section.A.4}{Chapitre\0404}{appendix.A}% 187
+\BOOKMARK [1][-]{section.A.5}{Chapitre\0405}{appendix.A}% 188
+\BOOKMARK [1][-]{section.A.6}{Chapitre\0406}{appendix.A}% 189
+\BOOKMARK [0][-]{chapter*.18}{Références bibliographiques}{}% 190
+\BOOKMARK [0][-]{section*.19}{Index}{}% 191
+\BOOKMARK [1][-]{section*.20}{Index des auteurs cités}{section*.19}% 192
+\BOOKMARK [1][-]{section*.21}{Index\040des\040termes}{section*.19}% 193

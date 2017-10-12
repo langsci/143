@@ -1,0 +1,584 @@
+\begin{theindex}
+
+  \item \Unv A, \hyperpage{75}, \hyperpage{77}
+  \item absurde, \hyperpage{16}
+  \item accommodation, \hyperpage{29}
+  \item acte de langage, \hyperpage{40--45}
+    \subitem \elid \ complexe, \hyperpage{43}
+    \subitem \elid \ illocutoire, \hyperpage{42, 43}
+    \subitem \elid \ indirect, \hyperpage{43}
+    \subitem \elid \ locutoire, \hyperpage{42}
+    \subitem \elid \ perlocutoire, \hyperpage{42}
+  \item adjectif, \hyperpage{57}, \hyperpage{334}, \hyperpage{339}, 
+		\hyperpage{350--354}
+    \subitem \elid \ intensionnel, \hyperpage{185}, \hyperpage{357}
+    \subitem \elid \ intersectif, \hyperpage{183}
+    \subitem \elid \ relationnel, \hyperindexformat{\fn {*}}{183}, 
+		\hyperpage{339}
+    \subitem \elid \ subsectif, \hyperpage{353}
+  \item adjonction, \hyperpage{336}
+  \item adverbe de quantification, \hyperpage{134}, \hyperpage{149}
+  \item allocutaire, \hyperpage{5}
+  \item $\alpha $-équivalence, \hyperpage{309}
+  \item ambiguïté, \hyperpage{18--22}, \hyperpage{176}
+  \item anaphore, \hyperpage{124}
+  \item annulation
+    \subitem \elid \ d'une implicature, \hyperpage{38}
+    \subitem \elid \ d'une présupposition, \hyperpage{28}
+  \item anomalie sémantique, \hyperpage{16}
+  \item antécédent
+    \subitem \elid \ d'un pronom, \hyperpage{19}, \hyperpage{124}
+    \subitem \elid \ d'une implication, \hyperpage{89}
+  \item apodose, \hyperindexformat{\fn {*}}{90}
+  \item application fonctionnelle, \hyperpage{277--284}, 
+		\hyperpage{297}, \hyperpage{304}, \hyperpage{337}, 
+		\hyperpage{340, 341}
+    \subitem \elid \ intensionnelle, \hyperpage{356}
+  \item arbre
+    \subitem \elid \ de construction d'une formule, \hyperpage{68}
+    \subitem \elid \ de dérivation, \hyperpage{339}
+    \subitem \elid \ syntaxique, \hyperpage{264}, \hyperpage{334}
+  \item argument, \hyperpage{58}, \hyperpage{267}, \hyperpage{276}
+    \subitem \elid \ implicite, \hyperpage{346}
+    \subitem ordre des \elid s, \hyperpage{272}
+  \item arité, \hyperpage{58}, \hyperpage{275}
+  \item aspect, \hyperpage{201}
+  \item assertion, \hyperpage{41, 42}
+  \item assignation, 
+		\hyperindexformat{\see {fonction d'assignation}}{113}
+  \item attitude propositionnelle, \hyperpage{179}, \hyperpage{240}
+
+  \indexspace
+
+  \item $\beta $-réduction, \hyperpage{284}, \hyperpage{308}
+  \item booléen, \hyperindexformat{\see {type (booléen)}}{310}
+
+  \indexspace
+
+  \item calcul des prédicats, \hyperpage{56, 57}
+  \item cardinal
+    \subitem \elid \ d'un ensemble, \hyperpage{386}
+    \subitem déterminant \elid , \hyperpage{386}
+  \item catégorématique, \hyperpage{315}
+  \item classe de comparaison, \hyperpage{354}
+  \item commentaire, \hyperpage{32}
+  \item complément, \hyperpage{334}
+  \item composition fonctionnellle, \hyperindexformat{\fn {*}}{365}
+  \item compositionnalité, \hyperpage{53}, 
+		\hyperindexformat{\sq }{263}, \hyperpage{282}
+  \item compréhension, \hyperpage{2}
+  \item concaténation, \hyperpage{340}
+  \item concept d'individu, \hyperpage{232, 233}
+  \item conditions de vérité, \hyperpage{52}, \hyperpage{259}
+  \item conjonction, \hyperpage{62}
+  \item connecteur
+    \subitem \elid \ généralisé, \hyperpage{397}
+    \subitem \elid \ logique, \hyperpage{61--63}, \hyperpage{82--92}
+    \subitem \elid \ vérifonctionnel, \hyperpage{82}
+  \item conséquence logique, \hyperpage{8}, \hyperpage{102}, 
+		\hyperpage{253}, \hyperpage{310}
+    \subitem \elid \ généralisée, \hyperpage{311}
+  \item conséquent (d'une implication), \hyperpage{89}
+  \item conservativité, \hyperpage{390}
+  \item constante
+    \subitem \elid \ d'individu, \hyperpage{60}, \hyperpage{141}
+    \subitem \elid \ de prédicat, \hyperpage{61}
+    \subitem \elid \ logique, \hyperindexformat{\fn {*}}{61}
+    \subitem \elid \ non logique, \hyperpage{61}
+  \item constatif, \hyperpage{41}
+  \item contenu, \hyperpage{1}
+    \subitem \elid \ en jeu, \hyperpage{25}
+    \subitem \elid \ expressif, \hyperpage{30}
+    \subitem \elid \ propositionnel, \hyperpage{42}
+  \item contexte, \hyperpage{3--6}, \hyperpage{10}, \hyperpage{18}, 
+		\hyperpage{27}, \hyperpage{35}, \hyperpage{123}, 
+		\hyperpage{126}, \hyperpage{223}, \hyperpage{233}, 
+		\hyperpage{252}, \hyperpage{388}
+  \item contradiction, \hyperpage{15}, \hyperpage{102}
+  \item contradictoire, \hyperpage{15}
+  \item contre-exemple, \hyperpage{11}
+  \item \alien {Cooper Storage}, \hyperpage{383}
+  \item coopération (principe de \elid ), \hyperpage{35}
+  \item coordination, \hyperpage{395--401}
+  \item copule, \hyperpage{343}
+  \item coréférence, \hyperpage{124}, \hyperpage{163}, 
+		\hyperpage{416}
+  \item couple, \hyperpage{73}
+  \item covariation, \hyperpage{128}
+  \item curryfication, \hyperpage{273}
+
+  \indexspace
+
+  \item $\DoM $, \hyperpage{303}
+  \item datif, \hyperindexformat{\fn {*}}{343}
+  \item \alien {de dicto}, \hyperpage{177}, \hyperpage{244}, 
+		\hyperpage{330}, \hyperpage{401}, \hyperpage{418}
+  \item \alien {de re}, \hyperpage{177}, \hyperpage{244}, 
+		\hyperpage{317}, \hyperpage{330}, \hyperpage{401}, 
+		\hyperpage{418}
+  \item défini
+    \subitem \elid \ dépendant, \hyperpage{171}
+    \subitem article \elid , \hyperpage{165}, \hyperpage{387}, 
+		\hyperpage{410}, \hyperpage{412}
+    \subitem groupe nominal \elid , \hyperpage{164--173}, 
+		\hyperpage{413}
+  \item déictique, \hyperpage{5}, \hyperpage{124}
+  \item dénotation, \hyperpage{47, 48}, \hyperpage{78}, 
+		\hyperpage{229}
+    \subitem \elid \ indirecte, \hyperpage{239}
+  \item description définie, \hyperpage{164--173}
+  \item désignateur rigide, \hyperpage{191}, \hyperpage{213}
+  \item déterminant, \hyperpage{362}, \hyperpage{385}
+  \item différence ensembliste, \hyperpage{382}, \hyperpage{387}
+  \item disjonction, \hyperpage{62}
+    \subitem \elid \ exclusive, \hyperpage{86}
+    \subitem \elid \ inclusive, \hyperpage{85}
+  \item dislocation, \hyperpage{146}, \hyperpage{159}
+  \item dissonance, \hyperpage{17}
+  \item domaine, \hyperpage{74}, \hyperpage{77}
+    \subitem \elid \ d'interprétation, \hyperpage{74}
+    \subitem \elid \ de définition (d'une fonction), \hyperpage{232}, 
+		\hyperpage{318}
+    \subitem \elid \ de dénotation, \hyperpage{303}, 
+		\hyperindexformat{\fn {*}}{318}
+    \subitem \elid \ de quantification, \hyperpage{74}, \hyperpage{124}
+
+  \indexspace
+
+  \item e (type), \hyperpage{292}
+  \item ellipse, \hyperpage{22}, \hyperpage{349}
+  \item énoncé, \hyperpage{3}
+  \item $\epsi $ (epsilon), \hyperpage{412}
+  \item équivalence
+    \subitem \elid \ logique, \hyperpage{12}, \hyperpage{83}, 
+		\hyperpage{103}, \hyperpage{253}
+    \subitem \elid \ matérielle, \hyperpage{62}
+  \item $\eta $-réduction, \hyperpage{309}
+  \item existence, \hyperpage{166}
+    \subitem prédicat d'\elid , \hyperpage{213, 214}, \hyperpage{258}
+  \item existentielle (phrase \elid ), \hyperpage{160}, \hyperpage{409}
+  \item expression
+    \subitem \elid \ intensionnelle, \hyperpage{242}
+    \subitem \elid \ interprétable, \hyperpage{71}, 
+		\hyperindexformat{\fn {*}}{295}
+    \subitem \elid \ linguistique, \hyperpage{4}
+    \subitem \elid \ référentielle, \hyperpage{158}
+  \item extension, \hyperpage{105}, \hyperpage{175}
+  \item extensionnalité, \hyperpage{175}
+    \subitem principe d'\elid , \hyperpage{105}, \hyperpage{175}, 
+		\hyperpage{322}, \hyperpage{326}
+  \item extensionnel, \hyperpage{105}
+
+  \indexspace
+
+  \item \FI , \hyperpage{76}
+  \item \Ftrad , \hyperpage{104}, \hyperpage{263}, \hyperpage{337}
+  \item familiarité, \hyperpage{170}
+  \item flexibilité des types, \hyperpage{395}
+  \item flexion, \hyperpage{193}, \hyperpage{335}
+  \item foncteur, \hyperpage{235}
+  \item fonction, \hyperpage{267}
+    \subitem \elid \ caractéristique, \hyperpage{268}
+    \subitem \elid \ d'assignation, \hyperpage{113}, \hyperpage{122}
+    \subitem \elid \ d'interprétation, \hyperpage{76, 77}, 
+		\hyperpage{189}, \hyperpage{206}, \hyperpage{210}, 
+		\hyperpage{254}
+    \subitem \elid \ de choix, \hyperpage{411}
+    \subitem \elid \ de vérité, \hyperpage{82}
+  \item force
+    \subitem \elid \ illocutoire, \hyperpage{42}
+    \subitem \elid \ modale, \hyperpage{207}
+  \item forme
+    \subitem \elid \ lexicale, \hyperindexformat{\fn {*}}{3}
+    \subitem \elid \ logique, \hyperpage{372}
+    \subitem \elid \ phonétique, \hyperpage{372}
+  \item formule, \hyperpage{61}
+    \subitem \elid \ contingente, \hyperpage{102}, \hyperpage{218}
+  \item futur, \hyperpage{194}, \hyperpage{199}, \hyperpage{224--228}
+
+  \indexspace
+
+  \item généricité, \hyperpage{145--151}
+  \item générique, \hyperindexformat{\see {généricité}}{145}
+    \subitem phrase \elid , \hyperpage{148}
+  \item génitif, \hyperpage{172, 173}
+  \item grammaire
+    \subitem \elid \ catégorielle, \hyperindexformat{\fn {*}}{368}
+    \subitem \elid \ de Montague, \hyperpage{vii}, \hyperpage{57}, 
+		\hyperpage{175}
+    \subitem \elid \ de dépendances, \hyperindexformat{\fn {*}}{340}
+    \subitem \elid \ générative, \hyperpage{57}, \hyperpage{333}
+    \subitem \elid \ logique, \hyperpage{341}
+    \subitem \elid \ syntagmatique, \hyperpage{339}, 
+		\hyperindexformat{\fn {*}}{368}
+  \item groupe nominal, \hyperindexformat{\sqq }{127}, 
+		\hyperpage{358--362}
+
+  \indexspace
+
+  \item HPSG (\alien {Head-Driven Phrase Structure Grammar}), 
+		\hyperindexformat{\fn {*}}{340}
+  \item hyperintensionnalité, \hyperpage{260}
+  \item hyperonymie, \hyperpage{10}
+  \item hyponymie, \hyperpage{10}
+
+  \indexspace
+
+  \item \Tps , \hyperpage{188}
+  \item \atoi \ (iota), \hyperpage{168}, \hyperpage{298}
+  \item identité, \hyperpage{66, 67}, \hyperpage{297}
+    \subitem fonction d'\elid , \hyperpage{306, 307}
+    \subitem relation d'\elid , \hyperpage{307}
+  \item idiolecte, \hyperindexformat{\fn {*}}{213}
+  \item implication
+    \subitem \elid \ logique, 
+		\hyperindexformat{\see {conséquence logique}}{8}
+    \subitem \elid \ matérielle, \hyperpage{62}, \hyperpage{89}, 
+		\hyperpage{136}
+  \item implicature, \hyperpage{33--40}
+    \subitem \elid \ conventionnelle, \hyperpage{25}, \hyperpage{30}, 
+		\hyperpage{39}
+    \subitem \elid \ conversationnelle, \hyperpage{34, 35}
+      \subsubitem \elid \ généralisée, \hyperpage{38}
+      \subsubitem \elid \ particularisée, \hyperpage{38}
+    \subitem \elid \ scalaire, \hyperpage{37}, \hyperpage{314}
+  \item imprécision, \hyperpage{21}
+  \item inaccusatif, \hyperindexformat{\fn {*}}{377}
+  \item indéfini, \hyperpage{127}, \hyperpage{136--144}, 
+		\hyperpage{146, 147}, \hyperpage{158}, 
+		\hyperpage{160, 161}, \hyperpage{392}, \hyperpage{408}
+  \item indexical, \hyperpage{5}
+  \item indice, \hyperpage{190}, \hyperpage{229}
+    \subitem \elid \ intensionnel, \hyperpage{195}, \hyperpage{214}
+    \subitem \elid \ référentiel, \hyperpage{19}, \hyperpage{177}, 
+		\hyperpage{417}
+  \item individu, \hyperpage{60}
+    \subitem \elid \ possible, \hyperpage{213}
+  \item inférence, \hyperpage{7}
+  \item inflexion verbale, \hyperpage{335}
+  \item instant, \hyperpage{188}
+  \item intenseur, \hyperindexformat{\fn {*}}{241}
+  \item intension, \hyperpage{229--236}, \hyperpage{241}, 
+		\hyperpage{323}, \hyperpage{355}
+  \item intensionnalité, \hyperpage{179}, \hyperpage{184}, 
+		\hyperpage{187}
+  \item intensionnel
+    \subitem adjectif \elid , \hyperpage{185}
+    \subitem verbe \elid , \hyperpage{401}
+  \item intention, \hyperpage{42}
+  \item interface syntaxe-sémantique, \hyperindexformat{\sq }{333}
+  \item interprétation directe/indirecte, \hyperpage{104, 105}
+  \item invraisemblance, \hyperpage{17}
+  \item ironie, \hyperindexformat{\fn {*}}{36}
+
+  \indexspace
+
+  \item $\lambda $ (lambda), \hyperpage{273--291}
+    \subitem $\lambda $-abstraction, \hyperpage{274}
+    \subitem $\lambda $-conjonction, \hyperindexformat{\fn {*}}{352}
+    \subitem $\lambda $-conversion, \hyperpage{284}, \hyperpage{308}
+    \subitem $\lambda $-terme, \hyperpage{275}
+  \item langage objet, \hyperpage{56}
+    \subitem \elid \ typé, \hyperpage{291}
+  \item lexème, \hyperindexformat{\fn {*}}{3}
+  \item LFG (\alien {Lexical Functional Grammar}), 
+		\hyperindexformat{\fn {*}}{340}
+  \item liage, \hyperpage{171}
+  \item lieur, \hyperpage{94}, \hyperpage{122}, \hyperpage{168}, 
+		\hyperpage{274}
+  \item liste, \hyperpage{73}
+  \item \LO , \hyperpage{56}
+  \item \LOz , \hyperpage{322}
+  \item locuteur, \hyperpage{5}
+  \item loi, \hyperpage{15}
+    \subitem \elid \ de contradiction, \hyperpage{14}, \hyperpage{155}
+    \subitem \elid \ de contraposition, \hyperpage{85}
+    \subitem \elid \ de la double négation, \hyperpage{85}
+    \subitem \elid s de Morgan, \hyperpage{84}
+    \subitem \elid \ du tiers exclu, \hyperindexformat{\fn {*}}{103}, 
+		\hyperpage{155}
+
+  \indexspace
+
+  \item \Modele , \hyperpage{77}
+  \item maxime conversationnelle, \hyperpage{35}
+  \item $\ME $, \hyperpage{296}
+  \item mensonge, \hyperindexformat{\fn {*}}{36}
+  \item modalité, \hyperindexformat{\sqq }{207}
+    \subitem \elid \ aléthique, \hyperpage{218}, \hyperpage{222}, 
+		\hyperpage{252}, \hyperpage{255}
+    \subitem \elid \ déontique, \hyperpage{221}
+    \subitem \elid \ dynamique, \hyperpage{221}
+    \subitem \elid \ épistémique, \hyperpage{221}
+    \subitem \elid \ historique, \hyperpage{227}
+    \subitem \elid \ métaphysique, \hyperpage{227}
+    \subitem \elid \ sémantique, \hyperpage{255}
+  \item mode
+    \subitem \elid \ de conjugaison, \hyperindexformat{\fn {*}}{44}, 
+		\hyperpage{187}
+    \subitem \elid \ de phrase, \hyperpage{44}
+  \item modèle, \hyperpage{74--77}, \hyperpage{204}
+    \subitem \elid \ de Kripke, \hyperpage{219}
+    \subitem \elid \ extensionnel, \hyperpage{325}
+    \subitem \elid \ intensionnel, \hyperpage{190}, \hyperpage{211}
+  \item modification de prédicat, \hyperpage{352}
+  \item modifieur, \hyperpage{336}, \hyperpage{350}
+  \item \alien {modus ponens}, \hyperpage{435}
+  \item monde
+    \subitem \elid \ possible, \hyperpage{206}, \hyperpage{210--215}
+    \subitem \elid \ réel, \hyperpage{212}
+  \item monotonie, \hyperpage{311}, \hyperpage{393}
+  \item montée
+    \subitem \elid \ des quantificateurs, \hyperpage{372}
+    \subitem \elid \ du sujet, \hyperpage{378}
+  \item mot, \hyperpage{3}
+  \item mouvement, \hyperpage{372}, \hyperpage{377}
+  \item multimodalité, \hyperpage{223}
+
+  \indexspace
+
+  \item $n$-uplets, \hyperpage{73}, \hyperpage{76}
+  \item nécessaire, \hyperpage{207}, \hyperpage{209}, \hyperpage{215}
+  \item négation, \hyperpage{14}, \hyperpage{63}, \hyperpage{132}, 
+		\hyperpage{315}, \hyperpage{345}
+    \subitem {\elid } métalinguistique, \hyperindexformat{\fn {*}}{28}
+  \item nom, \hyperpage{339}
+    \subitem \elid \ commun, \hyperpage{57, 58}, \hyperpage{334}
+    \subitem \elid \ propre, \hyperpage{60}, \hyperpage{181}, 
+		\hyperpage{213}, \hyperpage{232}
+    \subitem \elid \ relationnel, \hyperpage{172}, \hyperpage{339}, 
+		\hyperindexformat{\fn {*}}{347}
+
+  \indexspace
+
+  \item oblique, \hyperpage{179}
+  \item opaque, \hyperpage{179}
+  \item opérateur
+    \subitem \elid \ de description définie, \hyperpage{168}
+    \subitem \elid \ modal, \hyperpage{215}
+    \subitem \elid \ temporel, \hyperpage{193--199}
+  \item ordre, \hyperpage{189}
+    \subitem \elid \ total, \hyperpage{189}
+  \item ordre (acte de langage), \hyperpage{42}
+
+  \indexspace
+
+  \item paire, \hyperindexformat{\fn {*}}{73}
+  \item paraphrase, \hyperpage{7}
+  \item passé, \hyperpage{194}
+  \item performatif, \hyperpage{41}
+  \item phrase, \hyperpage{3}, \hyperpage{334}
+  \item pléonasme, \hyperpage{17}
+  \item plus-que-parfait, \hyperpage{197}
+  \item polymorphique, \hyperpage{398}
+  \item polysémie, \hyperpage{19}
+  \item portée, \hyperpage{92}, \hyperpage{127--137}
+    \subitem \elid \ de la négation, \hyperpage{132}
+    \subitem \elid \ étroite, \hyperpage{129}
+    \subitem \elid \ intermédiaire, \hyperpage{144}
+    \subitem \elid \ inversée, \hyperpage{130}
+    \subitem \elid \ large, \hyperpage{129}
+    \subitem \elid \ nucléaire, \hyperpage{385}
+  \item possessif, \hyperpage{172}
+  \item possibilité, \hyperpage{206}
+  \item possible, \hyperpage{206, 207}, \hyperpage{209}, 
+		\hyperpage{215}
+  \item postulat de signification, \hyperpage{254--259}
+  \item pragmatique, \hyperpage{6}
+  \item prédicat, \hyperpage{57}, \hyperindexformat{\sq }{266}
+  \item préposition, \hyperpage{339}, \hyperpage{344}
+  \item présent, \hyperpage{194}
+  \item présupposé, \hyperpage{31}
+  \item présupposition, \hyperpage{23--33}, \hyperpage{167}, 
+		\hyperpage{232}, \hyperpage{318}
+  \item principe de compositionnalité, \hyperpage{54, 55}
+  \item Principes et Paramètres, \hyperpage{333}
+  \item produit cartésien, \hyperpage{270}
+  \item proféré, \hyperpage{31}
+  \item projection, \hyperpage{24}
+    \subitem \elid \ d'une présupposition, \hyperpage{29}
+  \item projection syntaxique
+    \subitem \elid \ intermédiaire, \hyperpage{334}
+    \subitem \elid \ lexicale, \hyperpage{334}
+    \subitem \elid \ maximale, \hyperpage{334}
+  \item pronom, \hyperpage{19}, \hyperpage{64}, \hyperpage{112}, 
+		\hyperpage{122--124}, \hyperpage{416}
+    \subitem \elid \ indéfini, \hyperpage{115}
+    \subitem \elid \ relatif, \hyperpage{378--379}
+  \item proposition, \hyperpage{233}, \hyperpage{236}, \hyperpage{259}
+    \subitem \elid \ syntaxique, \hyperindexformat{\fn {*}}{233}
+  \item propriété, \hyperpage{231}, \hyperpage{233}
+    \subitem \elid \ de propriétés, \hyperpage{402}
+  \item protase, \hyperindexformat{\fn {*}}{90}
+
+  \indexspace
+
+  \item quadruplet, \hyperpage{73}
+  \item quantificateur, \hyperpage{64}, \hyperpage{111--137}, 
+		\hyperpage{386}
+    \subitem \elid \ généralisé, \hyperpage{362}, 
+		\hyperpage{384--395}
+    \subitem {\elid } existentiel ($\exists $), \hyperpage{65}
+    \subitem {\elid } universel ($\forall $), \hyperpage{65}
+  \item quantification, \hyperpage{92--100}, \hyperpage{111--120}
+  \item quantificationnel, \hyperpage{158}
+  \item \textit {Quantifier Raising}, \hyperpage{372}
+  \item \textit {quantifying-in}, \hyperpage{367--371}, \hyperpage{374}, 
+		\hyperpage{383}
+  \item question, \hyperpage{41, 42}
+
+  \indexspace
+
+  \item \Unv R, \hyperpage{223}
+  \item référence, \hyperpage{47}, \hyperpage{49}
+  \item référent, \hyperpage{47}, \hyperpage{49}
+  \item règle
+    \subitem \elid \ d'interface syntaxe-sémantique, \hyperpage{333}, 
+		\hyperpage{337}, \hyperpage{339}
+    \subitem \elid \ de réécriture, \hyperpage{334}
+    \subitem \elid \ de suppression des crochets, \hyperpage{85}, 
+		\hyperpage{279}
+    \subitem \elid \ sémantique, \hyperpage{77}
+    \subitem \elid \ syntaxique, \hyperpage{66}
+  \item relation, \hyperpage{73}, \hyperpage{305}
+    \subitem \elid \ d'accessibilité, \hyperpage{219, 220}, 
+		\hyperpage{222}, \hyperpage{328}
+    \subitem \elid \ d'anteriorité ($\tprec $), \hyperpage{189}
+    \subitem \elid \ en intension, \hyperpage{231}
+    \subitem \elid \ intensionnelle, \hyperpage{231}
+  \item requête, \hyperpage{42}
+  \item restriction
+    \subitem \elid \ d'un quantificateur généralisé, \hyperpage{385}
+    \subitem \elid \ de sélection, \hyperpage{320}
+    \subitem \elid \ du domaine de quantification, \hyperpage{124}, 
+		\hyperpage{363}
+
+  \indexspace
+
+  \item s (type), \hyperpage{322}
+  \item satisfaction, \hyperpage{101}, \hyperpage{121}
+  \item schönfinkelisation, \hyperpage{273}
+  \item sémantique
+    \subitem \elid \ dynamique, \hyperindexformat{\fn {*}}{123}, 
+		\hyperindexformat{\fn {*}}{168}
+    \subitem \elid \ lexicale, \hyperpage{106}, 
+		\hyperindexformat{\sqq }{255}, \hyperpage{321}
+    \subitem \elid \ vériconditionnelle, \hyperindexformat{\sqq }{47}, 
+		\hyperpage{52}
+  \item sens, \hyperindexformat{\sqq }{1}, \hyperpage{47--49}, 
+		\hyperpage{229--235}, \hyperpage{254}, \hyperpage{259}, 
+		\hyperpage{323}
+  \item signe linguistique, \hyperpage{1}
+  \item signifiant, \hyperpage{1}
+  \item signifié, \hyperpage{1}
+  \item sorte, \hyperpage{321, 322}
+  \item sous-catégorisation, \hyperpage{336}
+  \item sous-entendu, \hyperindexformat{\fn {*}}{34}
+  \item sous-formule, \hyperpage{70}
+  \item spécificité, \hyperpage{138}, \hyperpage{145}
+    \subitem \elid \ épistémique, \hyperindexformat{\fn {*}}{138}
+  \item spécifieur, \hyperpage{334}
+  \item spécifique, \hyperpage{138}
+  \item structure
+    \subitem \elid \ branchante, \hyperpage{224}
+    \subitem \elid \ de surface, \hyperpage{372}
+    \subitem \elid \ modale, \hyperpage{219}
+    \subitem \elid \ profonde, \hyperpage{372}
+    \subitem \elid \ tripartite, \hyperpage{385}
+  \item substantif, \hyperindexformat{\see {nom commun}}{57}
+  \item substitution, \hyperpage{96}
+  \item suspension
+    \subitem \elid \ d'une implicature, \hyperpage{38}
+    \subitem \elid \ d'une présupposition, \hyperpage{28}
+  \item symboles de quantification, \hyperpage{65}
+  \item symétrie, \hyperpage{392}
+  \item syncatégorématique, \hyperpage{315}
+  \item synonymie, \hyperpage{254}
+  \item syntagme, \hyperindexformat{\sq }{334}
+
+  \indexspace
+
+  \item \Types , \hyperpage{295}
+  \item t (type), \hyperpage{292}
+  \item $T\mathord {\times }W$, \hyperpage{226}
+  \item $\Types _2$, \hyperpage{324}
+  \item table de vérité, \hyperpage{82}
+  \item TAG (\alien {Tree Adjoining Grammar}), 
+		\hyperindexformat{\fn {*}}{340}
+  \item tautologie, \hyperpage{15}, \hyperpage{48}, \hyperpage{102}, 
+		\hyperpage{218}
+  \item temporalité, \hyperpage{185, 186}, \hyperpage{201}
+  \item temps, \hyperpage{186}, \hyperpage{188--193}, \hyperpage{224}
+    \subitem \elid \ verbal, \hyperpage{186}, \hyperpage{198--200}
+  \item terme, \hyperpage{60}, \hyperpage{66}
+  \item test
+    \subitem \elid \ de complétude, \hyperpage{155}, \hyperpage{158}
+    \subitem \elid \ de consistance, \hyperpage{155}, \hyperpage{157}
+    \subitem \elid \ de covariation, \hyperpage{152}, \hyperpage{164}
+    \subitem \elid \ de la dislocation en \sicut {ça}, \hyperpage{146}
+    \subitem \elid \ de la dislocation à droite, \hyperpage{159}
+    \subitem \elid \ de la négation, \hyperpage{153}
+    \subitem \elid \ de présuppositions, \hyperpage{29}, 
+		\hyperpage{31}
+    \subitem \elid \ de spécificité, \hyperpage{139}
+    \subitem \elid \ des ellipses, \hyperpage{22}, 
+		\hyperindexformat{\fn {*}}{40}
+    \subitem \elid \ des existentielles, \hyperpage{160}
+  \item trace, \hyperpage{373}, \hyperpage{375}
+  \item triplet, \hyperpage{73}
+  \item {\Tyz }, \hyperpage{322}
+  \item type, \hyperindexformat{\sqq }{292}
+    \subitem \elid \ booléen, \hyperpage{310}, \hyperpage{397}
+    \subitem \elid \ fonctionnel, \hyperpage{292}
+    \subitem e, \hyperpage{292}
+    \subitem s, \hyperpage{322}
+    \subitem t, \hyperpage{292}
+  \item type de phrases, \hyperpage{43}
+  \item type-shifteur, \hyperindexformat{\sqq }{407}
+  \item \textit {type-shifting}, \hyperpage{406--416}
+
+  \indexspace
+
+  \item unicité, \hyperpage{166}
+  \item unité lexicale, \hyperindexformat{\fn {*}}{3}
+  \item univers d'interprétation, \hyperindexformat{\fn {*}}{74}
+
+  \indexspace
+
+  \item vague, \hyperpage{21}, \hyperpage{389}
+  \item valence, \hyperindexformat{\fn {*}}{58}
+  \item valeur
+    \subitem \elid \ d'une fonction, \hyperpage{267}
+    \subitem \elid \ d'une variable, \hyperpage{112, 113}, 
+		\hyperpage{288}
+    \subitem \elid \ de vérité, \hyperpage{26}, \hyperpage{50}
+      \subsubitem défaut de \elid , \hyperpage{26}, \hyperpage{31}
+    \subitem \elid \ sémantique, \hyperpage{77}
+  \item validité, \hyperpage{251}
+  \item variable, \hyperpage{64}, \hyperpage{112--114}, \hyperpage{288}
+    \subitem \elid \ de mondes, \hyperpage{322}
+    \subitem \elid \ de prédicats, \hyperpage{288}
+    \subitem {\elid } libre, \hyperpage{93}, \hyperpage{122}
+    \subitem {\elid } liée, \hyperpage{93}, \hyperpage{99}, 
+		\hyperpage{122}
+    \subitem renommage des {\elid }s, \hyperpage{100}
+  \item verbe, \hyperpage{57}, \hyperpage{334}, \hyperpage{339}
+    \subitem \elid \ à montée, \hyperpage{380}
+    \subitem \elid \ ditransitif, \hyperpage{339}, \hyperpage{342}, 
+		\hyperpage{367}
+    \subitem \elid \ intransitif, \hyperpage{58}, \hyperpage{72}, 
+		\hyperpage{339}
+    \subitem \elid \ transitif, \hyperpage{339}, \hyperpage{341}, 
+		\hyperpage{346}, \hyperpage{364}, \hyperpage{400}
+      \subsubitem \elid \ intensionnel, \hyperpage{401}
+  \item vérité, \hyperpage{9}
+
+  \indexspace
+
+  \item \Unv W, \hyperpage{210}
+
+  \indexspace
+
+  \item X-barre, \hyperpage{334}
+
+\end{theindex}

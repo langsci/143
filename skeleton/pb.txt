@@ -1,0 +1,12 @@
+Package newtxmath provided with skeleton is obsolete.  Just remove it.
+I had to edit langsci.cls: \newif\iflsNewtxmath \lsNewtxmathfalse -> \newif\iflsNewtxmath \lsNewtxmathtrue
+
+
+I loaded newtxmath in localpackages.tex because it has to loaded afeter the other math-fonts packages.
+
+Obsolete option in biblatex: labeldate -> labeldate=true
+Obsolete command in biblatex: \printdateextralabel -> \printlabeldateextra
+
+
+In langsci.cls:
+At some places, spines are generated with \lsSpineTitleFont{\@title}, I replaced it with \lsSpineTitleFont{\lsSpineTitle}

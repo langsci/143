@@ -1,0 +1,256 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: semprag.fig
+%%Creator: fig2dev Version 3.2 Patchlevel 4
+%%CreationDate: Fri Oct  1 11:35:29 2004
+%%For: laurent@zerkalo (Laurent Roussarie)
+%%BoundingBox: 0 0 401 160
+%%Magnification: 1.0000
+%%EndComments
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+
+end
+save
+newpath 0 160 moveto 0 0 lineto 401 0 lineto 401 160 lineto closepath clip newpath
+-117.3 322.9 translate
+1 -1 scale
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/reencdict 12 dict def /ReEncode { reencdict begin
+/newcodesandnames exch def /newfontname exch def /basefontname exch def
+/basefontdict basefontname findfont def /newfont basefontdict maxlength dict def
+basefontdict { exch dup /FID ne { dup /Encoding eq
+{ exch dup length array copy newfont 3 1 roll put }
+{ exch newfont 3 1 roll put } ifelse } { pop pop } ifelse } forall
+newfont /FontName newfontname put newcodesandnames aload pop
+128 1 255 { newfont /Encoding get exch /.notdef put } for
+newcodesandnames length 2 idiv { newfont /Encoding get 3 1 roll put } repeat
+newfontname newfont definefont pop end } def
+/isovec [
+8#055 /minus 8#200 /grave 8#201 /acute 8#202 /circumflex 8#203 /tilde
+8#204 /macron 8#205 /breve 8#206 /dotaccent 8#207 /dieresis
+8#210 /ring 8#211 /cedilla 8#212 /hungarumlaut 8#213 /ogonek 8#214 /caron
+8#220 /dotlessi 8#230 /oe 8#231 /OE
+8#240 /space 8#241 /exclamdown 8#242 /cent 8#243 /sterling
+8#244 /currency 8#245 /yen 8#246 /brokenbar 8#247 /section 8#250 /dieresis
+8#251 /copyright 8#252 /ordfeminine 8#253 /guillemotleft 8#254 /logicalnot
+8#255 /hyphen 8#256 /registered 8#257 /macron 8#260 /degree 8#261 /plusminus
+8#262 /twosuperior 8#263 /threesuperior 8#264 /acute 8#265 /mu 8#266 /paragraph
+8#267 /periodcentered 8#270 /cedilla 8#271 /onesuperior 8#272 /ordmasculine
+8#273 /guillemotright 8#274 /onequarter 8#275 /onehalf
+8#276 /threequarters 8#277 /questiondown 8#300 /Agrave 8#301 /Aacute
+8#302 /Acircumflex 8#303 /Atilde 8#304 /Adieresis 8#305 /Aring
+8#306 /AE 8#307 /Ccedilla 8#310 /Egrave 8#311 /Eacute
+8#312 /Ecircumflex 8#313 /Edieresis 8#314 /Igrave 8#315 /Iacute
+8#316 /Icircumflex 8#317 /Idieresis 8#320 /Eth 8#321 /Ntilde 8#322 /Ograve
+8#323 /Oacute 8#324 /Ocircumflex 8#325 /Otilde 8#326 /Odieresis 8#327 /multiply
+8#330 /Oslash 8#331 /Ugrave 8#332 /Uacute 8#333 /Ucircumflex
+8#334 /Udieresis 8#335 /Yacute 8#336 /Thorn 8#337 /germandbls 8#340 /agrave
+8#341 /aacute 8#342 /acircumflex 8#343 /atilde 8#344 /adieresis 8#345 /aring
+8#346 /ae 8#347 /ccedilla 8#350 /egrave 8#351 /eacute
+8#352 /ecircumflex 8#353 /edieresis 8#354 /igrave 8#355 /iacute
+8#356 /icircumflex 8#357 /idieresis 8#360 /eth 8#361 /ntilde 8#362 /ograve
+8#363 /oacute 8#364 /ocircumflex 8#365 /otilde 8#366 /odieresis 8#367 /divide
+8#370 /oslash 8#371 /ugrave 8#372 /uacute 8#373 /ucircumflex
+8#374 /udieresis 8#375 /yacute 8#376 /thorn 8#377 /ydieresis] def
+/Times-Roman /Times-Roman-iso isovec ReEncode
+/Helvetica /Helvetica-iso isovec ReEncode
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06299 0.06299 sc
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 50
+% Polyline
+2 slj
+7.500 slw
+n 3158 2775 m 3193 2767 l 3229 2759 l 3265 2751 l 3303 2744 l 3340 2737 l
+ 3379 2731 l 3418 2725 l 3458 2720 l 3499 2715 l 3541 2711 l
+ 3583 2707 l 3626 2704 l 3670 2702 l 3714 2700 l 3759 2699 l
+ 3804 2698 l 3850 2698 l 3896 2699 l 3942 2701 l 3988 2703 l
+ 4034 2706 l 4080 2710 l 4125 2714 l 4171 2720 l 4216 2726 l
+ 4260 2732 l 4304 2740 l 4348 2748 l 4391 2756 l 4433 2766 l
+ 4474 2776 l 4515 2787 l 4555 2798 l 4595 2810 l 4634 2823 l
+ 4672 2836 l 4710 2850 l 4748 2865 l 4785 2881 l 4822 2897 l
+ 4859 2914 l 4896 2932 l 4933 2951 l 4970 2971 l 5007 2992 l
+ 5045 3014 l 5082 3037 l 5119 3061 l 5156 3085 l 5193 3111 l
+ 5229 3137 l 5266 3164 l 5302 3192 l 5338 3221 l 5373 3250 l
+ 5407 3280 l 5441 3310 l 5474 3341 l 5506 3371 l 5538 3403 l
+ 5568 3434 l 5597 3465 l 5625 3497 l 5652 3528 l 5678 3559 l
+ 5703 3590 l 5726 3621 l 5748 3652 l 5769 3682 l 5788 3712 l
+ 5806 3741 l 5823 3771 l 5839 3800 l 5854 3828 l 5868 3857 l
+ 5880 3885 l 5891 3913 l 5902 3941 l 5911 3970 l 5919 3998 l
+ 5926 4026 l 5932 4055 l 5937 4083 l 5941 4112 l 5943 4141 l
+ 5944 4170 l 5944 4199 l 5942 4229 l 5939 4258 l 5934 4287 l
+ 5928 4317 l 5920 4346 l 5911 4375 l 5901 4404 l 5888 4432 l
+ 5875 4460 l 5859 4488 l 5843 4515 l 5824 4542 l 5805 4568 l
+ 5784 4593 l 5761 4618 l 5737 4642 l 5712 4666 l 5686 4688 l
+ 5658 4710 l 5629 4731 l 5599 4752 l 5568 4771 l 5535 4790 l
+ 5502 4809 l 5467 4826 l 5430 4843 l 5393 4860 l 5360 4873 l
+ 5327 4886 l 5292 4899 l 5256 4911 l 5219 4923 l 5181 4935 l
+ 5142 4947 l 5101 4958 l 5059 4969 l 5016 4980 l 4972 4990 l
+ 4927 5000 l 4880 5010 l 4833 5019 l 4784 5028 l 4735 5037 l
+ 4684 5045 l 4633 5053 l 4581 5060 l 4528 5067 l 4475 5074 l
+ 4422 5080 l 4368 5085 l 4314 5090 l 4260 5095 l 4205 5099 l
+ 4151 5103 l 4097 5106 l 4044 5109 l 3991 5111 l 3938 5112 l
+ 3886 5113 l 3834 5114 l 3784 5114 l 3734 5114 l 3684 5113 l
+ 3636 5111 l 3589 5109 l 3542 5107 l 3496 5104 l 3451 5101 l
+ 3407 5097 l 3364 5093 l 3322 5088 l 3281 5083 l 3240 5078 l
+ 3189 5070 l 3139 5061 l 3090 5052 l 3041 5041 l 2993 5030 l
+ 2946 5018 l 2899 5005 l 2853 4991 l 2807 4977 l 2762 4961 l
+ 2718 4945 l 2674 4927 l 2631 4909 l 2589 4890 l 2548 4870 l
+ 2508 4850 l 2469 4829 l 2431 4807 l 2394 4785 l 2359 4763 l
+ 2325 4740 l 2292 4716 l 2261 4692 l 2231 4669 l 2202 4645 l
+ 2175 4621 l 2150 4596 l 2126 4572 l 2103 4548 l 2082 4524 l
+ 2062 4500 l 2043 4476 l 2026 4452 l 2009 4428 l 1994 4404 l
+ 1980 4380 l 1965 4353 l 1951 4325 l 1939 4298 l 1927 4269 l
+ 1917 4241 l 1907 4211 l 1899 4182 l 1892 4151 l 1886 4121 l
+ 1881 4089 l 1877 4058 l 1875 4026 l 1874 3993 l 1874 3961 l
+ 1875 3928 l 1878 3896 l 1881 3863 l 1886 3831 l 1893 3798 l
+ 1900 3767 l 1908 3735 l 1918 3704 l 1928 3674 l 1940 3644 l
+ 1952 3615 l 1965 3586 l 1980 3559 l 1994 3531 l 2010 3505 l
+ 2027 3478 l 2044 3453 l 2063 3428 l 2081 3404 l 2099 3381 l
+ 2119 3357 l 2140 3334 l 2162 3311 l 2185 3288 l 2209 3264 l
+ 2234 3241 l 2261 3218 l 2289 3195 l 2317 3172 l 2347 3149 l
+ 2378 3127 l 2411 3104 l 2444 3082 l 2478 3060 l 2512 3039 l
+ 2548 3018 l 2584 2998 l 2621 2978 l 2658 2959 l 2696 2940 l
+ 2734 2922 l 2772 2905 l 2810 2889 l 2848 2873 l 2887 2859 l
+ 2925 2845 l 2964 2831 l 3002 2819 l 3041 2807 l 3079 2796 l
+ 3118 2785 l
+ cp gs col0 s gr 
+% Polyline
+n 4358 3173 m 4334 3199 l 4311 3227 l 4290 3255 l 4270 3285 l 4250 3315 l
+ 4232 3347 l 4215 3379 l 4199 3412 l 4184 3447 l 4171 3482 l
+ 4158 3518 l 4147 3555 l 4137 3593 l 4129 3631 l 4122 3670 l
+ 4116 3710 l 4112 3750 l 4109 3791 l 4107 3831 l 4107 3872 l
+ 4108 3913 l 4111 3954 l 4115 3994 l 4121 4035 l 4128 4075 l
+ 4137 4114 l 4146 4153 l 4158 4191 l 4170 4228 l 4184 4265 l
+ 4199 4301 l 4215 4336 l 4233 4370 l 4251 4403 l 4271 4435 l
+ 4292 4466 l 4314 4497 l 4337 4526 l 4362 4555 l 4388 4583 l
+ 4412 4607 l 4437 4631 l 4464 4654 l 4492 4677 l 4521 4700 l
+ 4552 4722 l 4583 4743 l 4616 4764 l 4650 4784 l 4686 4804 l
+ 4723 4824 l 4761 4843 l 4800 4862 l 4840 4880 l 4882 4897 l
+ 4925 4914 l 4969 4930 l 5014 4946 l 5059 4961 l 5106 4975 l
+ 5153 4989 l 5201 5002 l 5250 5015 l 5299 5026 l 5349 5037 l
+ 5398 5047 l 5448 5056 l 5498 5065 l 5548 5073 l 5599 5080 l
+ 5648 5086 l 5698 5092 l 5748 5097 l 5797 5101 l 5846 5105 l
+ 5894 5108 l 5943 5110 l 5990 5111 l 6038 5112 l 6085 5112 l
+ 6131 5112 l 6178 5111 l 6224 5110 l 6270 5108 l 6318 5105 l
+ 6366 5101 l 6414 5097 l 6463 5093 l 6511 5087 l 6560 5081 l
+ 6609 5074 l 6658 5067 l 6708 5059 l 6757 5050 l 6807 5040 l
+ 6857 5030 l 6907 5018 l 6957 5006 l 7007 4994 l 7057 4980 l
+ 7106 4966 l 7155 4951 l 7204 4935 l 7252 4919 l 7299 4902 l
+ 7346 4885 l 7392 4866 l 7437 4848 l 7481 4829 l 7523 4809 l
+ 7565 4789 l 7605 4768 l 7644 4747 l 7682 4726 l 7718 4704 l
+ 7753 4682 l 7787 4660 l 7819 4637 l 7849 4615 l 7878 4592 l
+ 7906 4568 l 7933 4545 l 7958 4521 l 7981 4497 l 8004 4472 l
+ 8025 4448 l 8047 4420 l 8068 4391 l 8087 4362 l 8105 4332 l
+ 8122 4301 l 8137 4270 l 8151 4238 l 8164 4205 l 8175 4172 l
+ 8185 4137 l 8193 4102 l 8200 4067 l 8205 4031 l 8209 3994 l
+ 8212 3957 l 8213 3920 l 8212 3883 l 8210 3845 l 8206 3808 l
+ 8201 3770 l 8194 3733 l 8185 3696 l 8176 3659 l 8164 3623 l
+ 8152 3587 l 8138 3552 l 8123 3518 l 8106 3485 l 8089 3452 l
+ 8070 3420 l 8050 3389 l 8030 3359 l 8008 3329 l 7985 3301 l
+ 7961 3273 l 7936 3246 l 7910 3220 l 7883 3195 l 7857 3173 l
+ 7830 3151 l 7803 3129 l 7774 3108 l 7744 3088 l 7714 3068 l
+ 7681 3048 l 7648 3028 l 7613 3009 l 7578 2991 l 7541 2972 l
+ 7502 2954 l 7463 2937 l 7422 2920 l 7381 2903 l 7338 2887 l
+ 7294 2871 l 7250 2856 l 7204 2841 l 7158 2827 l 7111 2813 l
+ 7064 2800 l 7016 2788 l 6968 2776 l 6919 2765 l 6871 2755 l
+ 6822 2745 l 6773 2736 l 6724 2727 l 6676 2719 l 6627 2712 l
+ 6579 2705 l 6531 2699 l 6483 2694 l 6436 2689 l 6389 2685 l
+ 6342 2681 l 6296 2678 l 6250 2675 l 6204 2673 l 6158 2671 l
+ 6113 2670 l 6067 2669 l 6021 2669 l 5975 2669 l 5929 2670 l
+ 5882 2671 l 5835 2673 l 5788 2675 l 5741 2678 l 5693 2682 l
+ 5644 2686 l 5596 2691 l 5547 2696 l 5498 2702 l 5449 2709 l
+ 5400 2717 l 5351 2725 l 5302 2734 l 5254 2744 l 5206 2754 l
+ 5158 2766 l 5110 2778 l 5064 2790 l 5018 2804 l 4972 2818 l
+ 4928 2832 l 4885 2848 l 4842 2864 l 4801 2880 l 4761 2898 l
+ 4722 2915 l 4685 2934 l 4649 2953 l 4614 2972 l 4580 2992 l
+ 4548 3013 l 4517 3034 l 4487 3056 l 4459 3078 l 4432 3100 l
+ 4406 3124 l 4381 3148 l
+ cp gs col0 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 48
+% Polyline
+7.500 slw
+n 2565 2700 m 3825 2700 l 3825 2925 l 2565 2925 l
+ cp gs col7 1.00 shd ef gr gs col7 s gr 
+% Polyline
+n 5940 2610 m 7200 2610 l 7200 2835 l 5940 2835 l
+ cp gs col7 1.00 shd ef gr gs col7 s gr 
+% here ends figure;
+$F2psEnd
+rs
+showpage

@@ -1,0 +1,13 @@
+%% Babel-french redéfinit les "!"  ce qui fait qu'on ne peut pas
+%% utiliser ce caractère comme !-escape de qtree. Les commandes
+%% ci-dessous redéfinissent le caractère d'échappement de qtree en
+%% remplaçant ! par §.  On écrira donc §\qsetw{1ex} au lieu de
+%% !\qsetw{1ex} etc.  Ce n'est pas terrible pour la compatibilité et le
+%% portage, mais ça permet d'utiliser toutes les fonctionnalités de
+%% qtree avec babel-french.
+
+\def\q@lookfornodes{\@ifnextchar]{\closeoff}{%
+  \@ifnextchar[{\advance\nbranches by1\relax \q@recurse}{%
+      \@ifnextchar§{\pushliteral}{\futurelet\@qseenode\doanode}}}}
+
+\def\pushliteral§#1 {#1\relax \q@lookfornodes}
